@@ -1,0 +1,116 @@
+Stell die Temperatur auf 11 Grad
+Änder die Temperatur auf 11 Grad
+Stell die Temperatur auf 9 Grad
+Änder die Temperatur auf 9 Grad
+Stell die Temperatur auf 27 Grad
+Änder die Temperatur auf 27 Grad
+Stell die Temperatur auf 36 Grad
+Änder die Temperatur auf 36 Grad
+Stell die Temperatur auf 15 Grad
+Änder die Temperatur auf 15 Grad
+Stell die Temperatur auf 11 Grad bitte
+Änder die Temperatur auf 11 Grad bitte
+Stell die Temperatur auf 9 Grad bitte
+Änder die Temperatur auf 9 Grad bitte
+Stell die Temperatur auf 27 Grad bitte
+Änder die Temperatur auf 27 Grad bitte
+Stell die Temperatur auf 36 Grad bitte
+Änder die Temperatur auf 36 Grad bitte
+Stell die Temperatur auf 15 Grad bitte
+Änder die Temperatur auf 15 Grad bitte
+bitte Stell die Temperatur auf 12 Grad
+bitte Änder die Temperatur auf 12 Grad
+bitte Stell die Temperatur auf 29 Grad
+bitte Änder die Temperatur auf 29 Grad
+bitte Stell die Temperatur auf 37 Grad
+bitte Änder die Temperatur auf 37 Grad
+bitte Stell die Temperatur auf 16 Grad
+bitte Änder die Temperatur auf 16 Grad
+bitte Stell die Temperatur auf 25 Grad
+bitte Änder die Temperatur auf 25 Grad
+Stell die Temperatur 2 Grad höher
+Stell die Temperatur 3 Grad höher
+Stell die Temperatur 5 Grad höher
+Stell die Temperatur 6 Grad höher
+Stell die Temperatur 2 Grad niedriger
+Stell die Temperatur 3 Grad niedriger
+Stell die Temperatur 5 Grad niedriger
+Stell die Temperatur 6 Grad niedriger
+Stell die Temperatur 2 Grad höher bitte
+Stell die Temperatur 3 Grad höher bitte
+Stell die Temperatur 5 Grad höher bitte
+Stell die Temperatur 6 Grad höher bitte
+Stell die Temperatur 2 Grad niedriger bitte
+Stell die Temperatur 3 Grad niedriger bitte
+Stell die Temperatur 5 Grad niedriger bitte
+Stell die Temperatur 6 Grad niedriger bitte
+bitte Stell die Temperatur 1 Grad höher
+bitte Stell die Temperatur 2 Grad höher
+bitte Stell die Temperatur 3 Grad höher
+bitte Stell die Temperatur 5 Grad höher
+bitte Stell die Temperatur 6 Grad höher
+bitte Stell die Temperatur 1 Grad niedriger
+bitte Stell die Temperatur 2 Grad niedriger
+bitte Stell die Temperatur 3 Grad niedriger
+bitte Stell die Temperatur 5 Grad niedriger
+bitte Stell die Temperatur 6 Grad niedriger
+bitte Stell die Temperatur des Fahrers 1 Grad höher
+bitte Stell die Temperatur des Fahrersitzes 1 Grad höher
+bitte Stell die Temperatur des Fahrers 2 Grad höher
+bitte Stell die Temperatur des Fahrersitzes 2 Grad höher
+bitte Stell die Temperatur des Fahrers 3 Grad höher
+bitte Stell die Temperatur des Fahrersitzes 3 Grad höher
+bitte Stell die Temperatur des Fahrers 5 Grad höher
+bitte Stell die Temperatur des Fahrersitzes 5 Grad höher
+bitte Stell die Temperatur des Fahrers 6 Grad höher
+bitte Stell die Temperatur des Fahrersitzes 6 Grad höher
+bitte Stell die Temperatur des Fahrers 1 Grad niedriger
+bitte Stell die Temperatur des Fahrersitzes 1 Grad niedriger
+bitte Stell die Temperatur des Fahrers 2 Grad niedriger
+bitte Stell die Temperatur des Fahrersitzes 2 Grad niedriger
+bitte Stell die Temperatur des Fahrers 3 Grad niedriger
+bitte Stell die Temperatur des Fahrersitzes 3 Grad niedriger
+bitte Stell die Temperatur des Fahrers 5 Grad niedriger
+bitte Stell die Temperatur des Fahrersitzes 5 Grad niedriger
+bitte Stell die Temperatur des Fahrers 6 Grad niedriger
+bitte Stell die Temperatur des Fahrersitzes 6 Grad niedriger
+Stell die Temperatur des Fahrers 1 Grad höher
+Stell die Temperatur des Fahrersitzes 1 Grad höher
+Stell die Temperatur des Fahrers 2 Grad höher
+Stell die Temperatur des Fahrersitzes 2 Grad höher
+Stell die Temperatur des Fahrers 3 Grad höher
+Stell die Temperatur des Fahrersitzes 3 Grad höher
+Stell die Temperatur des Fahrers 5 Grad höher
+Stell die Temperatur des Fahrersitzes 5 Grad höher
+Stell die Temperatur des Fahrers 6 Grad höher
+Stell die Temperatur des Fahrersitzes 6 Grad höher
+Stell die Temperatur des Fahrers 1 Grad niedriger
+Stell die Temperatur des Fahrersitzes 1 Grad niedriger
+Stell die Temperatur des Fahrers 2 Grad niedriger
+Stell die Temperatur des Fahrersitzes 2 Grad niedriger
+Stell die Temperatur des Fahrers 3 Grad niedriger
+Stell die Temperatur des Fahrersitzes 3 Grad niedriger
+Stell die Temperatur des Fahrers 5 Grad niedriger
+Stell die Temperatur des Fahrersitzes 5 Grad niedriger
+Stell die Temperatur des Fahrers 6 Grad niedriger
+Stell die Temperatur des Fahrersitzes 6 Grad niedriger
+Stell die Temperatur des Fahrers 1 Grad höher bitte
+Stell die Temperatur des Fahrersitzes 1 Grad höher bitte
+Stell die Temperatur des Fahrers 2 Grad höher bitte
+Stell die Temperatur des Fahrersitzes 2 Grad höher bitte
+Stell die Temperatur des Fahrers 3 Grad höher bitte
+Stell die Temperatur des Fahrersitzes 3 Grad höher bitte
+Stell die Temperatur des Fahrers 5 Grad höher bitte
+Stell die Temperatur des Fahrersitzes 5 Grad höher bitte
+Stell die Temperatur des Fahrers 6 Grad höher bitte
+Stell die Temperatur des Fahrersitzes 6 Grad höher bitte
+Stell die Temperatur des Fahrers 1 Grad niedriger bitte
+Stell die Temperatur des Fahrersitzes 1 Grad niedriger bitte
+Stell die Temperatur des Fahrers 2 Grad niedriger bitte
+Stell die Temperatur des Fahrersitzes 2 Grad niedriger bitte
+Stell die Temperatur des Fahrers 3 Grad niedriger bitte
+Stell die Temperatur des Fahrersitzes 3 Grad niedriger bitte
+Stell die Temperatur des Fahrers 5 Grad niedriger bitte
+Stell die Temperatur des Fahrersitzes 5 Grad niedriger bitte
+Stell die Temperatur des Fahrers 6 Grad niedriger bitte
+Stell die Temperatur des Fahrersitzes 6 Grad niedriger bitte

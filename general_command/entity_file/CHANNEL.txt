@@ -1,0 +1,65 @@
+FREQ MHz	RADIO
+87.90	Star FM
+88.40	88vier
+88.40	FR-BB
+88.40	24/3 FM
+88.40	Pi Radio
+88.40	BLN.FM
+88.40	Reboot.fm
+88.40	Ohrfunk
+88.80	rbb 88.8
+89.20	Radio Potsdam
+89.60	Deutschlandfunk Kultur
+90.20	Radio Teddy
+90.70	88vier
+90.70	FR-BB
+90.70	Pi Radio
+90.70	BLN.FM
+90.70	Ohrfunk
+90.70	Reboot.fm
+91.00 	ALEX
+91.00	multicult.fm
+91.40 	Berliner Rundfunk 91.4
+91.90 	rbb Fritz
+92.40 	rbbKultur
+93.10 	rbb Inforadio
+93.60 	Jam FM
+93.90 	Hitradio SKW
+94.30 	94,3 rs2
+94.80 	BBC World Service
+95.30 	Radio BHeins
+95.80 	rbb radioeins
+96.30 	WDR COSMO
+96.70 	Radio France Internationale
+97.70 	Deutschlandfunk
+98.20 	Radio Paradiso
+98.80 	98.8 Kiss FM
+99.10 	Power Radio
+99.30 	rbb radioeins
+99.70 	rbb Antenne Brandenburg
+100.20 	rbbKultur
+100.60 	FluxFM
+101.30 	Klassik Radio
+101.90 	Radyo Metropol FM
+102.10 	Power Radio
+102.60 	rbb Fritz
+103.40 	Energy Berlin
+104.60 	104.6 RTL
+105.50 	105'5 Spreeradio
+106.00 	Schlager Radio B2
+106.20 	rbb Antenne Brandenburg
+106.80 	Jazz Radio
+107.50 	BB Radio
+178.352	Deutschlandfunk
+178.352	Deutschlandfunk Kultur
+178.352	Deutschlandfunk Nova
+178.352	Dokumente und Debatten
+178.352	Absolut relax
+178.352	Radio BOB
+180.064	Absolut Bella
+180.064	Absolut HOT
+180.064	Absolut Oldie Classics
+180.064	Absolut TOP
+180.064	Antenne Bayern
+180.064	dpd Driver's Radio
+

@@ -1,0 +1,8 @@
+LW
+MW
+SW
+FM
+DVB-S
+DVB-T
+DAB
+DRM

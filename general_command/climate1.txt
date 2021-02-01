@@ -1,0 +1,324 @@
+Stell die Lüftung auf Stufe 1
+Änder die Lüftung auf Stufe 1
+Regulier die Lüftung auf Stufe 1
+Regle die Lüftung auf Stufe 1
+Stell das Gebläse auf Stufe 1
+Änder das Gebläse auf Stufe 1
+Regulier das Gebläse auf Stufe 1
+Regle das Gebläse auf Stufe 1
+Stell die Lüftung auf Stufe 2
+Änder die Lüftung auf Stufe 2
+Regulier die Lüftung auf Stufe 2
+Regle die Lüftung auf Stufe 2
+Stell das Gebläse auf Stufe 2
+Änder das Gebläse auf Stufe 2
+Regulier das Gebläse auf Stufe 2
+Regle das Gebläse auf Stufe 2
+Stell die Lüftung auf Stufe 3
+Änder die Lüftung auf Stufe 3
+Regulier die Lüftung auf Stufe 3
+Regle die Lüftung auf Stufe 3
+Stell das Gebläse auf Stufe 3
+Änder das Gebläse auf Stufe 3
+Regulier das Gebläse auf Stufe 3
+Regle das Gebläse auf Stufe 3
+Stell die Lüftung auf Stufe 4
+Änder die Lüftung auf Stufe 4
+Regulier die Lüftung auf Stufe 4
+Regle die Lüftung auf Stufe 4
+Stell das Gebläse auf Stufe 4
+Änder das Gebläse auf Stufe 4
+Regulier das Gebläse auf Stufe 4
+Regle das Gebläse auf Stufe 4
+Stell die Lüftung auf Stufe 5
+Änder die Lüftung auf Stufe 5
+Regulier die Lüftung auf Stufe 5
+Regle die Lüftung auf Stufe 5
+Stell das Gebläse auf Stufe 5
+Änder das Gebläse auf Stufe 5
+Regulier das Gebläse auf Stufe 5
+Regle das Gebläse auf Stufe 5
+Stell die Lüftung auf Stufe 6
+Änder die Lüftung auf Stufe 6
+Regulier die Lüftung auf Stufe 6
+Regle die Lüftung auf Stufe 6
+Stell das Gebläse auf Stufe 6
+Änder das Gebläse auf Stufe 6
+Regulier das Gebläse auf Stufe 6
+Regle das Gebläse auf Stufe 6
+Stell die Lüftung auf Stufe 1 bitte
+Änder die Lüftung auf Stufe 1 bitte
+Regulier die Lüftung auf Stufe 1 bitte
+Regle die Lüftung auf Stufe 1 bitte
+Stell das Gebläse auf Stufe 1 bitte
+Änder das Gebläse auf Stufe 1 bitte
+Regulier das Gebläse auf Stufe 1 bitte
+Regle das Gebläse auf Stufe 1 bitte
+Stell die Lüftung auf Stufe 2 bitte
+Änder die Lüftung auf Stufe 2 bitte
+Regulier die Lüftung auf Stufe 2 bitte
+Regle die Lüftung auf Stufe 2 bitte
+Stell das Gebläse auf Stufe 2 bitte
+Änder das Gebläse auf Stufe 2 bitte
+Regulier das Gebläse auf Stufe 2 bitte
+Regle das Gebläse auf Stufe 2 bitte
+Stell die Lüftung auf Stufe 3 bitte
+Änder die Lüftung auf Stufe 3 bitte
+Regulier die Lüftung auf Stufe 3 bitte
+Regle die Lüftung auf Stufe 3 bitte
+Stell das Gebläse auf Stufe 3 bitte
+Änder das Gebläse auf Stufe 3 bitte
+Regulier das Gebläse auf Stufe 3 bitte
+Regle das Gebläse auf Stufe 3 bitte
+Stell die Lüftung auf Stufe 4 bitte
+Änder die Lüftung auf Stufe 4 bitte
+Regulier die Lüftung auf Stufe 4 bitte
+Regle die Lüftung auf Stufe 4 bitte
+Stell das Gebläse auf Stufe 4 bitte
+Änder das Gebläse auf Stufe 4 bitte
+Regulier das Gebläse auf Stufe 4 bitte
+Regle das Gebläse auf Stufe 4 bitte
+Stell die Lüftung auf Stufe 5 bitte
+Änder die Lüftung auf Stufe 5 bitte
+Regulier die Lüftung auf Stufe 5 bitte
+Regle die Lüftung auf Stufe 5 bitte
+Stell das Gebläse auf Stufe 5 bitte
+Änder das Gebläse auf Stufe 5 bitte
+Regulier das Gebläse auf Stufe 5 bitte
+Regle das Gebläse auf Stufe 5 bitte
+Stell die Lüftung auf Stufe 6 bitte
+Änder die Lüftung auf Stufe 6 bitte
+Regulier die Lüftung auf Stufe 6 bitte
+Regle die Lüftung auf Stufe 6 bitte
+Stell das Gebläse auf Stufe 6 bitte
+Änder das Gebläse auf Stufe 6 bitte
+Regulier das Gebläse auf Stufe 6 bitte
+Regle das Gebläse auf Stufe 6 bitte
+bitte Stell die Lüftung auf Stufe 1
+bitte Änder die Lüftung auf Stufe 1
+bitte Regulier die Lüftung auf Stufe 1
+bitte Regle die Lüftung auf Stufe 1
+bitte Stell das Gebläse auf Stufe 1
+bitte Änder das Gebläse auf Stufe 1
+bitte Regulier das Gebläse auf Stufe 1
+bitte Regle das Gebläse auf Stufe 1
+bitte Stell die Lüftung auf Stufe 2
+bitte Änder die Lüftung auf Stufe 2
+bitte Regulier die Lüftung auf Stufe 2
+bitte Regle die Lüftung auf Stufe 2
+bitte Stell das Gebläse auf Stufe 2
+bitte Änder das Gebläse auf Stufe 2
+bitte Regulier das Gebläse auf Stufe 2
+bitte Regle das Gebläse auf Stufe 2
+bitte Stell die Lüftung auf Stufe 3
+bitte Änder die Lüftung auf Stufe 3
+bitte Regulier die Lüftung auf Stufe 3
+bitte Regle die Lüftung auf Stufe 3
+bitte Stell das Gebläse auf Stufe 3
+bitte Änder das Gebläse auf Stufe 3
+bitte Regulier das Gebläse auf Stufe 3
+bitte Regle das Gebläse auf Stufe 3
+bitte Stell die Lüftung auf Stufe 4
+bitte Änder die Lüftung auf Stufe 4
+bitte Regulier die Lüftung auf Stufe 4
+bitte Regle die Lüftung auf Stufe 4
+bitte Stell das Gebläse auf Stufe 4
+bitte Änder das Gebläse auf Stufe 4
+bitte Regulier das Gebläse auf Stufe 4
+bitte Regle das Gebläse auf Stufe 4
+bitte Stell die Lüftung auf Stufe 5
+bitte Änder die Lüftung auf Stufe 5
+bitte Regulier die Lüftung auf Stufe 5
+bitte Regle die Lüftung auf Stufe 5
+bitte Stell das Gebläse auf Stufe 5
+bitte Änder das Gebläse auf Stufe 5
+bitte Regulier das Gebläse auf Stufe 5
+bitte Regle das Gebläse auf Stufe 5
+bitte Stell die Lüftung auf Stufe 6
+bitte Änder die Lüftung auf Stufe 6
+bitte Regulier die Lüftung auf Stufe 6
+bitte Regle die Lüftung auf Stufe 6
+bitte Stell das Gebläse auf Stufe 6
+bitte Änder das Gebläse auf Stufe 6
+bitte Regulier das Gebläse auf Stufe 6
+bitte Regle das Gebläse auf Stufe 6
+Stell die Temperatur des Fahrers auf 14 Grad
+Änder die Temperatur des Fahrers auf 14 Grad
+Stell die Temperatur des Fahrersitzes auf 14 Grad
+Änder die Temperatur des Fahrersitzes auf 14 Grad
+Stell die Temperatur des Fahrers auf 18 Grad
+Änder die Temperatur des Fahrers auf 18 Grad
+Stell die Temperatur des Fahrersitzes auf 18 Grad
+Änder die Temperatur des Fahrersitzes auf 18 Grad
+Stell die Temperatur des Fahrers auf 22 Grad
+Änder die Temperatur des Fahrers auf 22 Grad
+Stell die Temperatur des Fahrersitzes auf 22 Grad
+Änder die Temperatur des Fahrersitzes auf 22 Grad
+Stell die Temperatur des Fahrers auf 25 Grad
+Änder die Temperatur des Fahrers auf 25 Grad
+Stell die Temperatur des Fahrersitzes auf 25 Grad
+Änder die Temperatur des Fahrersitzes auf 25 Grad
+Stell die Temperatur des Fahrers auf 30 Grad
+Änder die Temperatur des Fahrers auf 30 Grad
+Stell die Temperatur des Fahrersitzes auf 30 Grad
+Änder die Temperatur des Fahrersitzes auf 30 Grad
+Stell die Temperatur des Fahrers auf 14 Grad bitte
+Änder die Temperatur des Fahrers auf 14 Grad bitte
+Stell die Temperatur des Fahrersitzes auf 14 Grad bitte
+Änder die Temperatur des Fahrersitzes auf 14 Grad bitte
+Stell die Temperatur des Fahrers auf 18 Grad bitte
+Änder die Temperatur des Fahrers auf 18 Grad bitte
+Stell die Temperatur des Fahrersitzes auf 18 Grad bitte
+Änder die Temperatur des Fahrersitzes auf 18 Grad bitte
+Stell die Temperatur des Fahrers auf 22 Grad bitte
+Änder die Temperatur des Fahrers auf 22 Grad bitte
+Stell die Temperatur des Fahrersitzes auf 22 Grad bitte
+Änder die Temperatur des Fahrersitzes auf 22 Grad bitte
+Stell die Temperatur des Fahrers auf 25 Grad bitte
+Änder die Temperatur des Fahrers auf 25 Grad bitte
+Stell die Temperatur des Fahrersitzes auf 25 Grad bitte
+Änder die Temperatur des Fahrersitzes auf 25 Grad bitte
+Stell die Temperatur des Fahrers auf 30 Grad bitte
+Änder die Temperatur des Fahrers auf 30 Grad bitte
+Stell die Temperatur des Fahrersitzes auf 30 Grad bitte
+Änder die Temperatur des Fahrersitzes auf 30 Grad bitte
+bitte Stell die Temperatur des Fahrers auf 16 Grad
+bitte Änder die Temperatur des Fahrers auf 16 Grad
+bitte Stell die Temperatur des Fahrersitzes auf 16 Grad
+bitte Änder die Temperatur des Fahrersitzes auf 16 Grad
+bitte Stell die Temperatur des Fahrers auf 28 Grad
+bitte Änder die Temperatur des Fahrers auf 28 Grad
+bitte Stell die Temperatur des Fahrersitzes auf 28 Grad
+bitte Änder die Temperatur des Fahrersitzes auf 28 Grad
+bitte Stell die Temperatur des Fahrers auf 32 Grad
+bitte Änder die Temperatur des Fahrers auf 32 Grad
+bitte Stell die Temperatur des Fahrersitzes auf 32 Grad
+bitte Änder die Temperatur des Fahrersitzes auf 32 Grad
+bitte Stell die Temperatur des Fahrers auf 35 Grad
+bitte Änder die Temperatur des Fahrers auf 35 Grad
+bitte Stell die Temperatur des Fahrersitzes auf 35 Grad
+bitte Änder die Temperatur des Fahrersitzes auf 35 Grad
+bitte Stell die Temperatur des Fahrers auf 12 Grad
+bitte Änder die Temperatur des Fahrers auf 12 Grad
+bitte Stell die Temperatur des Fahrersitzes auf 12 Grad
+bitte Änder die Temperatur des Fahrersitzes auf 12 Grad
+Stell die Temperatur der Passagiere auf 9 Grad
+Änder die Temperatur der Passagiere auf 9 Grad
+Stell die Temperatur des Beifahrers auf 9 Grad
+Änder die Temperatur des Beifahrers auf 9 Grad
+Stell die Temperatur der Rückbank auf 9 Grad
+Änder die Temperatur der Rückbank auf 9 Grad
+Stell die Temperatur der Rücksitze auf 9 Grad
+Änder die Temperatur der Rücksitze auf 9 Grad
+Stell die Temperatur der Passagiere auf 10 Grad
+Änder die Temperatur der Passagiere auf 10 Grad
+Stell die Temperatur des Beifahrers auf 10 Grad
+Änder die Temperatur des Beifahrers auf 10 Grad
+Stell die Temperatur der Rückbank auf 10 Grad
+Änder die Temperatur der Rückbank auf 10 Grad
+Stell die Temperatur der Rücksitze auf 10 Grad
+Änder die Temperatur der Rücksitze auf 10 Grad
+Stell die Temperatur der Passagiere auf 19 Grad
+Änder die Temperatur der Passagiere auf 19 Grad
+Stell die Temperatur des Beifahrers auf 19 Grad
+Änder die Temperatur des Beifahrers auf 19 Grad
+Stell die Temperatur der Rückbank auf 19 Grad
+Änder die Temperatur der Rückbank auf 19 Grad
+Stell die Temperatur der Rücksitze auf 19 Grad
+Änder die Temperatur der Rücksitze auf 19 Grad
+Stell die Temperatur der Passagiere auf 27 Grad
+Änder die Temperatur der Passagiere auf 27 Grad
+Stell die Temperatur des Beifahrers auf 27 Grad
+Änder die Temperatur des Beifahrers auf 27 Grad
+Stell die Temperatur der Rückbank auf 27 Grad
+Änder die Temperatur der Rückbank auf 27 Grad
+Stell die Temperatur der Rücksitze auf 27 Grad
+Änder die Temperatur der Rücksitze auf 27 Grad
+Stell die Temperatur der Passagiere auf 16 Grad
+Änder die Temperatur der Passagiere auf 16 Grad
+Stell die Temperatur des Beifahrers auf 16 Grad
+Änder die Temperatur des Beifahrers auf 16 Grad
+Stell die Temperatur der Rückbank auf 16 Grad
+Änder die Temperatur der Rückbank auf 16 Grad
+Stell die Temperatur der Rücksitze auf 16 Grad
+Änder die Temperatur der Rücksitze auf 16 Grad
+Stell die Temperatur der Passagiere auf 9 Grad bitte
+Änder die Temperatur der Passagiere auf 9 Grad bitte
+Stell die Temperatur des Beifahrers auf 9 Grad bitte
+Änder die Temperatur des Beifahrers auf 9 Grad bitte
+Stell die Temperatur der Rückbank auf 9 Grad bitte
+Änder die Temperatur der Rückbank auf 9 Grad bitte
+Stell die Temperatur der Rücksitze auf 9 Grad bitte
+Änder die Temperatur der Rücksitze auf 9 Grad bitte
+Stell die Temperatur der Passagiere auf 10 Grad bitte
+Änder die Temperatur der Passagiere auf 10 Grad bitte
+Stell die Temperatur des Beifahrers auf 10 Grad bitte
+Änder die Temperatur des Beifahrers auf 10 Grad bitte
+Stell die Temperatur der Rückbank auf 10 Grad bitte
+Änder die Temperatur der Rückbank auf 10 Grad bitte
+Stell die Temperatur der Rücksitze auf 10 Grad bitte
+Änder die Temperatur der Rücksitze auf 10 Grad bitte
+Stell die Temperatur der Passagiere auf 19 Grad bitte
+Änder die Temperatur der Passagiere auf 19 Grad bitte
+Stell die Temperatur des Beifahrers auf 19 Grad bitte
+Änder die Temperatur des Beifahrers auf 19 Grad bitte
+Stell die Temperatur der Rückbank auf 19 Grad bitte
+Änder die Temperatur der Rückbank auf 19 Grad bitte
+Stell die Temperatur der Rücksitze auf 19 Grad bitte
+Änder die Temperatur der Rücksitze auf 19 Grad bitte
+Stell die Temperatur der Passagiere auf 27 Grad bitte
+Änder die Temperatur der Passagiere auf 27 Grad bitte
+Stell die Temperatur des Beifahrers auf 27 Grad bitte
+Änder die Temperatur des Beifahrers auf 27 Grad bitte
+Stell die Temperatur der Rückbank auf 27 Grad bitte
+Änder die Temperatur der Rückbank auf 27 Grad bitte
+Stell die Temperatur der Rücksitze auf 27 Grad bitte
+Änder die Temperatur der Rücksitze auf 27 Grad bitte
+Stell die Temperatur der Passagiere auf 16 Grad bitte
+Änder die Temperatur der Passagiere auf 16 Grad bitte
+Stell die Temperatur des Beifahrers auf 16 Grad bitte
+Änder die Temperatur des Beifahrers auf 16 Grad bitte
+Stell die Temperatur der Rückbank auf 16 Grad bitte
+Änder die Temperatur der Rückbank auf 16 Grad bitte
+Stell die Temperatur der Rücksitze auf 16 Grad bitte
+Änder die Temperatur der Rücksitze auf 16 Grad bitte
+bitte Stell die Temperatur der Passagiere auf 9 Grad
+bitte Änder die Temperatur der Passagiere auf 9 Grad
+bitte Stell die Temperatur des Beifahrers auf 9 Grad
+bitte Änder die Temperatur des Beifahrers auf 9 Grad
+bitte Stell die Temperatur der Rückbank auf 9 Grad
+bitte Änder die Temperatur der Rückbank auf 9 Grad
+bitte Stell die Temperatur der Rücksitze auf 9 Grad
+bitte Änder die Temperatur der Rücksitze auf 9 Grad
+bitte Stell die Temperatur der Passagiere auf 10 Grad
+bitte Änder die Temperatur der Passagiere auf 10 Grad
+bitte Stell die Temperatur des Beifahrers auf 10 Grad
+bitte Änder die Temperatur des Beifahrers auf 10 Grad
+bitte Stell die Temperatur der Rückbank auf 10 Grad
+bitte Änder die Temperatur der Rückbank auf 10 Grad
+bitte Stell die Temperatur der Rücksitze auf 10 Grad
+bitte Änder die Temperatur der Rücksitze auf 10 Grad
+bitte Stell die Temperatur der Passagiere auf 19 Grad
+bitte Änder die Temperatur der Passagiere auf 19 Grad
+bitte Stell die Temperatur des Beifahrers auf 19 Grad
+bitte Änder die Temperatur des Beifahrers auf 19 Grad
+bitte Stell die Temperatur der Rückbank auf 19 Grad
+bitte Änder die Temperatur der Rückbank auf 19 Grad
+bitte Stell die Temperatur der Rücksitze auf 19 Grad
+bitte Änder die Temperatur der Rücksitze auf 19 Grad
+bitte Stell die Temperatur der Passagiere auf 27 Grad
+bitte Änder die Temperatur der Passagiere auf 27 Grad
+bitte Stell die Temperatur des Beifahrers auf 27 Grad
+bitte Änder die Temperatur des Beifahrers auf 27 Grad
+bitte Stell die Temperatur der Rückbank auf 27 Grad
+bitte Änder die Temperatur der Rückbank auf 27 Grad
+bitte Stell die Temperatur der Rücksitze auf 27 Grad
+bitte Änder die Temperatur der Rücksitze auf 27 Grad
+bitte Stell die Temperatur der Passagiere auf 16 Grad
+bitte Änder die Temperatur der Passagiere auf 16 Grad
+bitte Stell die Temperatur des Beifahrers auf 16 Grad
+bitte Änder die Temperatur des Beifahrers auf 16 Grad
+bitte Stell die Temperatur der Rückbank auf 16 Grad
+bitte Änder die Temperatur der Rückbank auf 16 Grad
+bitte Stell die Temperatur der Rücksitze auf 16 Grad
+bitte Änder die Temperatur der Rücksitze auf 16 Grad
