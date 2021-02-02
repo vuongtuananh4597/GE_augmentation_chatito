@@ -1,0 +1,378 @@
+Rufe <phonenumber> an
+Rufe bitte <phonenumber> an
+Rufe sofort <phonenumber> an
+Rufe bitte sofort <phonenumber> an
+Rufe jetzt <phonenumber> an
+Rufe bitte jetzt <phonenumber> an
+Rufe gleich <phonenumber> an
+Rufe bitte gleich <phonenumber> an
+Rufe schnell <phonenumber> an
+Rufe bitte schnell <phonenumber> an
+Rufe unmittelbar <phonenumber> an
+Rufe bitte unmittelbar <phonenumber> an
+Rufe unverzüglich <phonenumber> an
+Rufe bitte unverzüglich <phonenumber> an
+Rufe augenblicklich <phonenumber> an
+Rufe bitte augenblicklich <phonenumber> an
+Wähle <phonenumber>
+Wähle bitte <phonenumber>
+Wähle sofort <phonenumber>
+Wähle bitte sofort <phonenumber>
+Wähle jetzt <phonenumber>
+Wähle bitte jetzt <phonenumber>
+Wähle gleich <phonenumber>
+Wähle bitte gleich <phonenumber>
+Wähle schnell <phonenumber>
+Wähle bitte schnell <phonenumber>
+Wähle unmittelbar <phonenumber>
+Wähle bitte unmittelbar <phonenumber>
+Wähle unverzüglich <phonenumber>
+Wähle bitte unverzüglich <phonenumber>
+Wähle augenblicklich <phonenumber>
+Wähle bitte augenblicklich <phonenumber>
+Rufe Kinderschutzhotline an
+Rufe bitte Kinderschutzhotline an
+Rufe sofort Kinderschutzhotline an
+Rufe bitte sofort Kinderschutzhotline an
+Rufe jetzt Kinderschutzhotline an
+Rufe bitte jetzt Kinderschutzhotline an
+Rufe gleich Kinderschutzhotline an
+Rufe bitte gleich Kinderschutzhotline an
+Rufe schnell Kinderschutzhotline an
+Rufe bitte schnell Kinderschutzhotline an
+Rufe unmittelbar Kinderschutzhotline an
+Rufe bitte unmittelbar Kinderschutzhotline an
+Rufe unverzüglich Kinderschutzhotline an
+Rufe bitte unverzüglich Kinderschutzhotline an
+Rufe augenblicklich Kinderschutzhotline an
+Rufe bitte augenblicklich Kinderschutzhotline an
+Rufe 030 61 00 66 an
+Rufe bitte 030 61 00 66 an
+Rufe sofort 030 61 00 66 an
+Rufe bitte sofort 030 61 00 66 an
+Rufe jetzt 030 61 00 66 an
+Rufe bitte jetzt 030 61 00 66 an
+Rufe gleich 030 61 00 66 an
+Rufe bitte gleich 030 61 00 66 an
+Rufe schnell 030 61 00 66 an
+Rufe bitte schnell 030 61 00 66 an
+Rufe unmittelbar 030 61 00 66 an
+Rufe bitte unmittelbar 030 61 00 66 an
+Rufe unverzüglich 030 61 00 66 an
+Rufe bitte unverzüglich 030 61 00 66 an
+Rufe augenblicklich 030 61 00 66 an
+Rufe bitte augenblicklich 030 61 00 66 an
+Rufe Krisendienst an
+Rufe bitte Krisendienst an
+Rufe sofort Krisendienst an
+Rufe bitte sofort Krisendienst an
+Rufe jetzt Krisendienst an
+Rufe bitte jetzt Krisendienst an
+Rufe gleich Krisendienst an
+Rufe bitte gleich Krisendienst an
+Rufe schnell Krisendienst an
+Rufe bitte schnell Krisendienst an
+Rufe unmittelbar Krisendienst an
+Rufe bitte unmittelbar Krisendienst an
+Rufe unverzüglich Krisendienst an
+Rufe bitte unverzüglich Krisendienst an
+Rufe augenblicklich Krisendienst an
+Rufe bitte augenblicklich Krisendienst an
+Rufe 030 39063 00 an
+Rufe bitte 030 39063 00 an
+Rufe sofort 030 39063 00 an
+Rufe bitte sofort 030 39063 00 an
+Rufe jetzt 030 39063 00 an
+Rufe bitte jetzt 030 39063 00 an
+Rufe gleich 030 39063 00 an
+Rufe bitte gleich 030 39063 00 an
+Rufe schnell 030 39063 00 an
+Rufe bitte schnell 030 39063 00 an
+Rufe unmittelbar 030 39063 00 an
+Rufe bitte unmittelbar 030 39063 00 an
+Rufe unverzüglich 030 39063 00 an
+Rufe bitte unverzüglich 030 39063 00 an
+Rufe augenblicklich 030 39063 00 an
+Rufe bitte augenblicklich 030 39063 00 an
+Rufe Krisendienst Osten Berlins an
+Rufe bitte Krisendienst Osten Berlins an
+Rufe sofort Krisendienst Osten Berlins an
+Rufe bitte sofort Krisendienst Osten Berlins an
+Rufe jetzt Krisendienst Osten Berlins an
+Rufe bitte jetzt Krisendienst Osten Berlins an
+Rufe gleich Krisendienst Osten Berlins an
+Rufe bitte gleich Krisendienst Osten Berlins an
+Rufe schnell Krisendienst Osten Berlins an
+Rufe bitte schnell Krisendienst Osten Berlins an
+Rufe unmittelbar Krisendienst Osten Berlins an
+Rufe bitte unmittelbar Krisendienst Osten Berlins an
+Rufe unverzüglich Krisendienst Osten Berlins an
+Rufe bitte unverzüglich Krisendienst Osten Berlins an
+Rufe augenblicklich Krisendienst Osten Berlins an
+Rufe bitte augenblicklich Krisendienst Osten Berlins an
+Rufe 39063-70 an
+Rufe bitte 39063-70 an
+Rufe sofort 39063-70 an
+Rufe bitte sofort 39063-70 an
+Rufe jetzt 39063-70 an
+Rufe bitte jetzt 39063-70 an
+Rufe gleich 39063-70 an
+Rufe bitte gleich 39063-70 an
+Rufe schnell 39063-70 an
+Rufe bitte schnell 39063-70 an
+Rufe unmittelbar 39063-70 an
+Rufe bitte unmittelbar 39063-70 an
+Rufe unverzüglich 39063-70 an
+Rufe bitte unverzüglich 39063-70 an
+Rufe augenblicklich 39063-70 an
+Rufe bitte augenblicklich 39063-70 an
+Rufe Kindernotdienst an
+Rufe bitte Kindernotdienst an
+Rufe sofort Kindernotdienst an
+Rufe bitte sofort Kindernotdienst an
+Rufe jetzt Kindernotdienst an
+Rufe bitte jetzt Kindernotdienst an
+Rufe gleich Kindernotdienst an
+Rufe bitte gleich Kindernotdienst an
+Rufe schnell Kindernotdienst an
+Rufe bitte schnell Kindernotdienst an
+Rufe unmittelbar Kindernotdienst an
+Rufe bitte unmittelbar Kindernotdienst an
+Rufe unverzüglich Kindernotdienst an
+Rufe bitte unverzüglich Kindernotdienst an
+Rufe augenblicklich Kindernotdienst an
+Rufe bitte augenblicklich Kindernotdienst an
+Rufe Mädchennotdienst an
+Rufe bitte Mädchennotdienst an
+Rufe sofort Mädchennotdienst an
+Rufe bitte sofort Mädchennotdienst an
+Rufe jetzt Mädchennotdienst an
+Rufe bitte jetzt Mädchennotdienst an
+Rufe gleich Mädchennotdienst an
+Rufe bitte gleich Mädchennotdienst an
+Rufe schnell Mädchennotdienst an
+Rufe bitte schnell Mädchennotdienst an
+Rufe unmittelbar Mädchennotdienst an
+Rufe bitte unmittelbar Mädchennotdienst an
+Rufe unverzüglich Mädchennotdienst an
+Rufe bitte unverzüglich Mädchennotdienst an
+Rufe augenblicklich Mädchennotdienst an
+Rufe bitte augenblicklich Mädchennotdienst an
+Rufe Jugendnotdienst an
+Rufe bitte Jugendnotdienst an
+Rufe sofort Jugendnotdienst an
+Rufe bitte sofort Jugendnotdienst an
+Rufe jetzt Jugendnotdienst an
+Rufe bitte jetzt Jugendnotdienst an
+Rufe gleich Jugendnotdienst an
+Rufe bitte gleich Jugendnotdienst an
+Rufe schnell Jugendnotdienst an
+Rufe bitte schnell Jugendnotdienst an
+Rufe unmittelbar Jugendnotdienst an
+Rufe bitte unmittelbar Jugendnotdienst an
+Rufe unverzüglich Jugendnotdienst an
+Rufe bitte unverzüglich Jugendnotdienst an
+Rufe augenblicklich Jugendnotdienst an
+Rufe bitte augenblicklich Jugendnotdienst an
+Rufe Hotline von BIG an
+Rufe bitte Hotline von BIG an
+Rufe sofort Hotline von BIG an
+Rufe bitte sofort Hotline von BIG an
+Rufe jetzt Hotline von BIG an
+Rufe bitte jetzt Hotline von BIG an
+Rufe gleich Hotline von BIG an
+Rufe bitte gleich Hotline von BIG an
+Rufe schnell Hotline von BIG an
+Rufe bitte schnell Hotline von BIG an
+Rufe unmittelbar Hotline von BIG an
+Rufe bitte unmittelbar Hotline von BIG an
+Rufe unverzüglich Hotline von BIG an
+Rufe bitte unverzüglich Hotline von BIG an
+Rufe augenblicklich Hotline von BIG an
+Rufe bitte augenblicklich Hotline von BIG an
+Rufe Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe sofort Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte sofort Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe jetzt Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte jetzt Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe gleich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte gleich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe schnell Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte schnell Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe unmittelbar Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte unmittelbar Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe unverzüglich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte unverzüglich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe augenblicklich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe bitte augenblicklich Hotline von LARA, Verein gegen sexuelle Gewalt an Frauen an
+Rufe Interkulturelles Frauenhaus an
+Rufe bitte Interkulturelles Frauenhaus an
+Rufe sofort Interkulturelles Frauenhaus an
+Rufe bitte sofort Interkulturelles Frauenhaus an
+Rufe jetzt Interkulturelles Frauenhaus an
+Rufe bitte jetzt Interkulturelles Frauenhaus an
+Rufe gleich Interkulturelles Frauenhaus an
+Rufe bitte gleich Interkulturelles Frauenhaus an
+Rufe schnell Interkulturelles Frauenhaus an
+Rufe bitte schnell Interkulturelles Frauenhaus an
+Rufe unmittelbar Interkulturelles Frauenhaus an
+Rufe bitte unmittelbar Interkulturelles Frauenhaus an
+Rufe unverzüglich Interkulturelles Frauenhaus an
+Rufe bitte unverzüglich Interkulturelles Frauenhaus an
+Rufe augenblicklich Interkulturelles Frauenhaus an
+Rufe bitte augenblicklich Interkulturelles Frauenhaus an
+Rufe Gewalt gegen Frauen an
+Rufe bitte Gewalt gegen Frauen an
+Rufe sofort Gewalt gegen Frauen an
+Rufe bitte sofort Gewalt gegen Frauen an
+Rufe jetzt Gewalt gegen Frauen an
+Rufe bitte jetzt Gewalt gegen Frauen an
+Rufe gleich Gewalt gegen Frauen an
+Rufe bitte gleich Gewalt gegen Frauen an
+Rufe schnell Gewalt gegen Frauen an
+Rufe bitte schnell Gewalt gegen Frauen an
+Rufe unmittelbar Gewalt gegen Frauen an
+Rufe bitte unmittelbar Gewalt gegen Frauen an
+Rufe unverzüglich Gewalt gegen Frauen an
+Rufe bitte unverzüglich Gewalt gegen Frauen an
+Rufe augenblicklich Gewalt gegen Frauen an
+Rufe bitte augenblicklich Gewalt gegen Frauen an
+Rufe Schwangere in Not an
+Rufe bitte Schwangere in Not an
+Rufe sofort Schwangere in Not an
+Rufe bitte sofort Schwangere in Not an
+Rufe jetzt Schwangere in Not an
+Rufe bitte jetzt Schwangere in Not an
+Rufe gleich Schwangere in Not an
+Rufe bitte gleich Schwangere in Not an
+Rufe schnell Schwangere in Not an
+Rufe bitte schnell Schwangere in Not an
+Rufe unmittelbar Schwangere in Not an
+Rufe bitte unmittelbar Schwangere in Not an
+Rufe unverzüglich Schwangere in Not an
+Rufe bitte unverzüglich Schwangere in Not an
+Rufe augenblicklich Schwangere in Not an
+Rufe bitte augenblicklich Schwangere in Not an
+Rufe Kreisverwaltung an
+Rufe bitte Kreisverwaltung an
+Rufe sofort Kreisverwaltung an
+Rufe bitte sofort Kreisverwaltung an
+Rufe jetzt Kreisverwaltung an
+Rufe bitte jetzt Kreisverwaltung an
+Rufe gleich Kreisverwaltung an
+Rufe bitte gleich Kreisverwaltung an
+Rufe schnell Kreisverwaltung an
+Rufe bitte schnell Kreisverwaltung an
+Rufe unmittelbar Kreisverwaltung an
+Rufe bitte unmittelbar Kreisverwaltung an
+Rufe unverzüglich Kreisverwaltung an
+Rufe bitte unverzüglich Kreisverwaltung an
+Rufe augenblicklich Kreisverwaltung an
+Rufe bitte augenblicklich Kreisverwaltung an
+Rufe Landratsamt an
+Rufe bitte Landratsamt an
+Rufe sofort Landratsamt an
+Rufe bitte sofort Landratsamt an
+Rufe jetzt Landratsamt an
+Rufe bitte jetzt Landratsamt an
+Rufe gleich Landratsamt an
+Rufe bitte gleich Landratsamt an
+Rufe schnell Landratsamt an
+Rufe bitte schnell Landratsamt an
+Rufe unmittelbar Landratsamt an
+Rufe bitte unmittelbar Landratsamt an
+Rufe unverzüglich Landratsamt an
+Rufe bitte unverzüglich Landratsamt an
+Rufe augenblicklich Landratsamt an
+Rufe bitte augenblicklich Landratsamt an
+Rufe 030 90293-0 an
+Rufe bitte 030 90293-0 an
+Rufe sofort 030 90293-0 an
+Rufe bitte sofort 030 90293-0 an
+Rufe jetzt 030 90293-0 an
+Rufe bitte jetzt 030 90293-0 an
+Rufe gleich 030 90293-0 an
+Rufe bitte gleich 030 90293-0 an
+Rufe schnell 030 90293-0 an
+Rufe bitte schnell 030 90293-0 an
+Rufe unmittelbar 030 90293-0 an
+Rufe bitte unmittelbar 030 90293-0 an
+Rufe unverzüglich 030 90293-0 an
+Rufe bitte unverzüglich 030 90293-0 an
+Rufe augenblicklich 030 90293-0 an
+Rufe bitte augenblicklich 030 90293-0 an
+Rufe Feuerwehr an
+Rufe bitte Feuerwehr an
+Rufe sofort Feuerwehr an
+Rufe bitte sofort Feuerwehr an
+Rufe jetzt Feuerwehr an
+Rufe bitte jetzt Feuerwehr an
+Rufe gleich Feuerwehr an
+Rufe bitte gleich Feuerwehr an
+Rufe schnell Feuerwehr an
+Rufe bitte schnell Feuerwehr an
+Rufe unmittelbar Feuerwehr an
+Rufe bitte unmittelbar Feuerwehr an
+Rufe unverzüglich Feuerwehr an
+Rufe bitte unverzüglich Feuerwehr an
+Rufe augenblicklich Feuerwehr an
+Rufe bitte augenblicklich Feuerwehr an
+Rufe 112 an
+Rufe bitte 112 an
+Rufe sofort 112 an
+Rufe bitte sofort 112 an
+Rufe jetzt 112 an
+Rufe bitte jetzt 112 an
+Rufe gleich 112 an
+Rufe bitte gleich 112 an
+Rufe schnell 112 an
+Rufe bitte schnell 112 an
+Rufe unmittelbar 112 an
+Rufe bitte unmittelbar 112 an
+Rufe unverzüglich 112 an
+Rufe bitte unverzüglich 112 an
+Rufe augenblicklich 112 an
+Rufe bitte augenblicklich 112 an
+Rufe Polizei an
+Rufe bitte Polizei an
+Rufe sofort Polizei an
+Rufe bitte sofort Polizei an
+Rufe jetzt Polizei an
+Rufe bitte jetzt Polizei an
+Rufe gleich Polizei an
+Rufe bitte gleich Polizei an
+Rufe schnell Polizei an
+Rufe bitte schnell Polizei an
+Rufe unmittelbar Polizei an
+Rufe bitte unmittelbar Polizei an
+Rufe unverzüglich Polizei an
+Rufe bitte unverzüglich Polizei an
+Rufe augenblicklich Polizei an
+Rufe bitte augenblicklich Polizei an
+Rufe 110 an
+Rufe bitte 110 an
+Rufe sofort 110 an
+Rufe bitte sofort 110 an
+Rufe jetzt 110 an
+Rufe bitte jetzt 110 an
+Rufe gleich 110 an
+Rufe bitte gleich 110 an
+Rufe schnell 110 an
+Rufe bitte schnell 110 an
+Rufe unmittelbar 110 an
+Rufe bitte unmittelbar 110 an
+Rufe unverzüglich 110 an
+Rufe bitte unverzüglich 110 an
+Rufe augenblicklich 110 an
+Rufe bitte augenblicklich 110 an
+Rufe Notruf an
+Rufe bitte Notruf an
+Rufe 030 19240 an
+Rufe bitte 030 19240 an
+Rufe entgangener Anruf an
+Rufe bitte entgangener Anruf an
+Rufe verpasster Anruf an
+Rufe bitte verpasster Anruf an
+Rufe der letzter Anruf an
+Rufe bitte der letzter Anruf an
