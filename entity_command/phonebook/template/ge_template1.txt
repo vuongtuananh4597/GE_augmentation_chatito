@@ -1,3 +1,9 @@
+Wechsle zu Telefon
+Gehe zu Telefon
+Zeig mir bitte das Telefonbuch
+Wahlwiederholung
+Wähle die letzte Nummer
+Rufe die letzte Nummer an
 Rufe <phonenumber> an
 Rufe bitte <phonenumber> an
 Rufe sofort <phonenumber> an
