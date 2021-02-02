@@ -1,41 +1,119 @@
-Wechsle zu Telefon
-Gehe zu Telefon
-Zeig mir bitte das Telefonbuch
-Wahlwiederholung
-Wähle die letzte Nummer
-Rufe die letzte Nummer an
-Rufe <phonenumber> an
-Rufe bitte <phonenumber> an
-Rufe sofort <phonenumber> an
-Rufe bitte sofort <phonenumber> an
-Rufe jetzt <phonenumber> an
-Rufe bitte jetzt <phonenumber> an
-Rufe gleich <phonenumber> an
-Rufe bitte gleich <phonenumber> an
-Rufe schnell <phonenumber> an
-Rufe bitte schnell <phonenumber> an
-Rufe unmittelbar <phonenumber> an
-Rufe bitte unmittelbar <phonenumber> an
-Rufe unverzüglich <phonenumber> an
-Rufe bitte unverzüglich <phonenumber> an
-Rufe augenblicklich <phonenumber> an
-Rufe bitte augenblicklich <phonenumber> an
-Wähle <phonenumber>
-Wähle bitte <phonenumber>
-Wähle sofort <phonenumber>
-Wähle bitte sofort <phonenumber>
-Wähle jetzt <phonenumber>
-Wähle bitte jetzt <phonenumber>
-Wähle gleich <phonenumber>
-Wähle bitte gleich <phonenumber>
-Wähle schnell <phonenumber>
-Wähle bitte schnell <phonenumber>
-Wähle unmittelbar <phonenumber>
-Wähle bitte unmittelbar <phonenumber>
-Wähle unverzüglich <phonenumber>
-Wähle bitte unverzüglich <phonenumber>
-Wähle augenblicklich <phonenumber>
-Wähle bitte augenblicklich <phonenumber>
+Rufe Notruf an
+Rufe bitte Notruf an
+Rufe 030 19240 an
+Rufe bitte 030 19240 an
+Rufe Polizei an
+Rufe bitte Polizei an
+Rufe sofort Polizei an
+Rufe bitte sofort Polizei an
+Rufe jetzt Polizei an
+Rufe bitte jetzt Polizei an
+Rufe gleich Polizei an
+Rufe bitte gleich Polizei an
+Rufe schnell Polizei an
+Rufe bitte schnell Polizei an
+Rufe unmittelbar Polizei an
+Rufe bitte unmittelbar Polizei an
+Rufe unverzüglich Polizei an
+Rufe bitte unverzüglich Polizei an
+Rufe augenblicklich Polizei an
+Rufe bitte augenblicklich Polizei an
+Rufe 110 an
+Rufe bitte 110 an
+Rufe sofort 110 an
+Rufe bitte sofort 110 an
+Rufe jetzt 110 an
+Rufe bitte jetzt 110 an
+Rufe gleich 110 an
+Rufe bitte gleich 110 an
+Rufe schnell 110 an
+Rufe bitte schnell 110 an
+Rufe unmittelbar 110 an
+Rufe bitte unmittelbar 110 an
+Rufe unverzüglich 110 an
+Rufe bitte unverzüglich 110 an
+Rufe augenblicklich 110 an
+Rufe bitte augenblicklich 110 an
+Rufe Feuerwehr an
+Rufe bitte Feuerwehr an
+Rufe sofort Feuerwehr an
+Rufe bitte sofort Feuerwehr an
+Rufe jetzt Feuerwehr an
+Rufe bitte jetzt Feuerwehr an
+Rufe gleich Feuerwehr an
+Rufe bitte gleich Feuerwehr an
+Rufe schnell Feuerwehr an
+Rufe bitte schnell Feuerwehr an
+Rufe unmittelbar Feuerwehr an
+Rufe bitte unmittelbar Feuerwehr an
+Rufe unverzüglich Feuerwehr an
+Rufe bitte unverzüglich Feuerwehr an
+Rufe augenblicklich Feuerwehr an
+Rufe bitte augenblicklich Feuerwehr an
+Rufe 112 an
+Rufe bitte 112 an
+Rufe sofort 112 an
+Rufe bitte sofort 112 an
+Rufe jetzt 112 an
+Rufe bitte jetzt 112 an
+Rufe gleich 112 an
+Rufe bitte gleich 112 an
+Rufe schnell 112 an
+Rufe bitte schnell 112 an
+Rufe unmittelbar 112 an
+Rufe bitte unmittelbar 112 an
+Rufe unverzüglich 112 an
+Rufe bitte unverzüglich 112 an
+Rufe augenblicklich 112 an
+Rufe bitte augenblicklich 112 an
+Rufe Kreisverwaltung an
+Rufe bitte Kreisverwaltung an
+Rufe sofort Kreisverwaltung an
+Rufe bitte sofort Kreisverwaltung an
+Rufe jetzt Kreisverwaltung an
+Rufe bitte jetzt Kreisverwaltung an
+Rufe gleich Kreisverwaltung an
+Rufe bitte gleich Kreisverwaltung an
+Rufe schnell Kreisverwaltung an
+Rufe bitte schnell Kreisverwaltung an
+Rufe unmittelbar Kreisverwaltung an
+Rufe bitte unmittelbar Kreisverwaltung an
+Rufe unverzüglich Kreisverwaltung an
+Rufe bitte unverzüglich Kreisverwaltung an
+Rufe augenblicklich Kreisverwaltung an
+Rufe bitte augenblicklich Kreisverwaltung an
+Rufe Landratsamt an
+Rufe bitte Landratsamt an
+Rufe sofort Landratsamt an
+Rufe bitte sofort Landratsamt an
+Rufe jetzt Landratsamt an
+Rufe bitte jetzt Landratsamt an
+Rufe gleich Landratsamt an
+Rufe bitte gleich Landratsamt an
+Rufe schnell Landratsamt an
+Rufe bitte schnell Landratsamt an
+Rufe unmittelbar Landratsamt an
+Rufe bitte unmittelbar Landratsamt an
+Rufe unverzüglich Landratsamt an
+Rufe bitte unverzüglich Landratsamt an
+Rufe augenblicklich Landratsamt an
+Rufe bitte augenblicklich Landratsamt an
+Rufe 030 902930 an
+Rufe bitte 030 902930 an
+Rufe sofort 030 902930 an
+Rufe bitte sofort 030 902930 an
+Rufe jetzt 030 902930 an
+Rufe bitte jetzt 030 902930 an
+Rufe gleich 030 902930 an
+Rufe bitte gleich 030 902930 an
+Rufe schnell 030 902930 an
+Rufe bitte schnell 030 902930 an
+Rufe unmittelbar 030 902930 an
+Rufe bitte unmittelbar 030 902930 an
+Rufe unverzüglich 030 902930 an
+Rufe bitte unverzüglich 030 902930 an
+Rufe augenblicklich 030 902930 an
+Rufe bitte augenblicklich 030 902930 an
 Rufe Kinderschutzhotline an
 Rufe bitte Kinderschutzhotline an
 Rufe sofort Kinderschutzhotline an
@@ -52,22 +130,22 @@ Rufe unverzüglich Kinderschutzhotline an
 Rufe bitte unverzüglich Kinderschutzhotline an
 Rufe augenblicklich Kinderschutzhotline an
 Rufe bitte augenblicklich Kinderschutzhotline an
-Rufe 030 61 00 66 an
-Rufe bitte 030 61 00 66 an
-Rufe sofort 030 61 00 66 an
-Rufe bitte sofort 030 61 00 66 an
-Rufe jetzt 030 61 00 66 an
-Rufe bitte jetzt 030 61 00 66 an
-Rufe gleich 030 61 00 66 an
-Rufe bitte gleich 030 61 00 66 an
-Rufe schnell 030 61 00 66 an
-Rufe bitte schnell 030 61 00 66 an
-Rufe unmittelbar 030 61 00 66 an
-Rufe bitte unmittelbar 030 61 00 66 an
-Rufe unverzüglich 030 61 00 66 an
-Rufe bitte unverzüglich 030 61 00 66 an
-Rufe augenblicklich 030 61 00 66 an
-Rufe bitte augenblicklich 030 61 00 66 an
+Rufe 030 610066 an
+Rufe bitte 030 610066 an
+Rufe sofort 030 610066 an
+Rufe bitte sofort 030 610066 an
+Rufe jetzt 030 610066 an
+Rufe bitte jetzt 030 610066 an
+Rufe gleich 030 610066 an
+Rufe bitte gleich 030 610066 an
+Rufe schnell 030 610066 an
+Rufe bitte schnell 030 610066 an
+Rufe unmittelbar 030 610066 an
+Rufe bitte unmittelbar 030 610066 an
+Rufe unverzüglich 030 610066 an
+Rufe bitte unverzüglich 030 610066 an
+Rufe augenblicklich 030 610066 an
+Rufe bitte augenblicklich 030 610066 an
 Rufe Krisendienst an
 Rufe bitte Krisendienst an
 Rufe sofort Krisendienst an
@@ -84,22 +162,22 @@ Rufe unverzüglich Krisendienst an
 Rufe bitte unverzüglich Krisendienst an
 Rufe augenblicklich Krisendienst an
 Rufe bitte augenblicklich Krisendienst an
-Rufe 030 39063 00 an
-Rufe bitte 030 39063 00 an
-Rufe sofort 030 39063 00 an
-Rufe bitte sofort 030 39063 00 an
-Rufe jetzt 030 39063 00 an
-Rufe bitte jetzt 030 39063 00 an
-Rufe gleich 030 39063 00 an
-Rufe bitte gleich 030 39063 00 an
-Rufe schnell 030 39063 00 an
-Rufe bitte schnell 030 39063 00 an
-Rufe unmittelbar 030 39063 00 an
-Rufe bitte unmittelbar 030 39063 00 an
-Rufe unverzüglich 030 39063 00 an
-Rufe bitte unverzüglich 030 39063 00 an
-Rufe augenblicklich 030 39063 00 an
-Rufe bitte augenblicklich 030 39063 00 an
+Rufe 030 3906300 an
+Rufe bitte 030 3906300 an
+Rufe sofort 030 3906300 an
+Rufe bitte sofort 030 3906300 an
+Rufe jetzt 030 3906300 an
+Rufe bitte jetzt 030 3906300 an
+Rufe gleich 030 3906300 an
+Rufe bitte gleich 030 3906300 an
+Rufe schnell 030 3906300 an
+Rufe bitte schnell 030 3906300 an
+Rufe unmittelbar 030 3906300 an
+Rufe bitte unmittelbar 030 3906300 an
+Rufe unverzüglich 030 3906300 an
+Rufe bitte unverzüglich 030 3906300 an
+Rufe augenblicklich 030 3906300 an
+Rufe bitte augenblicklich 030 3906300 an
 Rufe Krisendienst Osten Berlins an
 Rufe bitte Krisendienst Osten Berlins an
 Rufe sofort Krisendienst Osten Berlins an
@@ -260,125 +338,3 @@ Rufe unverzüglich Schwangere in Not an
 Rufe bitte unverzüglich Schwangere in Not an
 Rufe augenblicklich Schwangere in Not an
 Rufe bitte augenblicklich Schwangere in Not an
-Rufe Kreisverwaltung an
-Rufe bitte Kreisverwaltung an
-Rufe sofort Kreisverwaltung an
-Rufe bitte sofort Kreisverwaltung an
-Rufe jetzt Kreisverwaltung an
-Rufe bitte jetzt Kreisverwaltung an
-Rufe gleich Kreisverwaltung an
-Rufe bitte gleich Kreisverwaltung an
-Rufe schnell Kreisverwaltung an
-Rufe bitte schnell Kreisverwaltung an
-Rufe unmittelbar Kreisverwaltung an
-Rufe bitte unmittelbar Kreisverwaltung an
-Rufe unverzüglich Kreisverwaltung an
-Rufe bitte unverzüglich Kreisverwaltung an
-Rufe augenblicklich Kreisverwaltung an
-Rufe bitte augenblicklich Kreisverwaltung an
-Rufe Landratsamt an
-Rufe bitte Landratsamt an
-Rufe sofort Landratsamt an
-Rufe bitte sofort Landratsamt an
-Rufe jetzt Landratsamt an
-Rufe bitte jetzt Landratsamt an
-Rufe gleich Landratsamt an
-Rufe bitte gleich Landratsamt an
-Rufe schnell Landratsamt an
-Rufe bitte schnell Landratsamt an
-Rufe unmittelbar Landratsamt an
-Rufe bitte unmittelbar Landratsamt an
-Rufe unverzüglich Landratsamt an
-Rufe bitte unverzüglich Landratsamt an
-Rufe augenblicklich Landratsamt an
-Rufe bitte augenblicklich Landratsamt an
-Rufe 030 902930 an
-Rufe bitte 030 902930 an
-Rufe sofort 030 902930 an
-Rufe bitte sofort 030 902930 an
-Rufe jetzt 030 902930 an
-Rufe bitte jetzt 030 902930 an
-Rufe gleich 030 902930 an
-Rufe bitte gleich 030 902930 an
-Rufe schnell 030 902930 an
-Rufe bitte schnell 030 902930 an
-Rufe unmittelbar 030 902930 an
-Rufe bitte unmittelbar 030 902930 an
-Rufe unverzüglich 030 902930 an
-Rufe bitte unverzüglich 030 902930 an
-Rufe augenblicklich 030 902930 an
-Rufe bitte augenblicklich 030 902930 an
-Rufe Feuerwehr an
-Rufe bitte Feuerwehr an
-Rufe sofort Feuerwehr an
-Rufe bitte sofort Feuerwehr an
-Rufe jetzt Feuerwehr an
-Rufe bitte jetzt Feuerwehr an
-Rufe gleich Feuerwehr an
-Rufe bitte gleich Feuerwehr an
-Rufe schnell Feuerwehr an
-Rufe bitte schnell Feuerwehr an
-Rufe unmittelbar Feuerwehr an
-Rufe bitte unmittelbar Feuerwehr an
-Rufe unverzüglich Feuerwehr an
-Rufe bitte unverzüglich Feuerwehr an
-Rufe augenblicklich Feuerwehr an
-Rufe bitte augenblicklich Feuerwehr an
-Rufe 112 an
-Rufe bitte 112 an
-Rufe sofort 112 an
-Rufe bitte sofort 112 an
-Rufe jetzt 112 an
-Rufe bitte jetzt 112 an
-Rufe gleich 112 an
-Rufe bitte gleich 112 an
-Rufe schnell 112 an
-Rufe bitte schnell 112 an
-Rufe unmittelbar 112 an
-Rufe bitte unmittelbar 112 an
-Rufe unverzüglich 112 an
-Rufe bitte unverzüglich 112 an
-Rufe augenblicklich 112 an
-Rufe bitte augenblicklich 112 an
-Rufe Polizei an
-Rufe bitte Polizei an
-Rufe sofort Polizei an
-Rufe bitte sofort Polizei an
-Rufe jetzt Polizei an
-Rufe bitte jetzt Polizei an
-Rufe gleich Polizei an
-Rufe bitte gleich Polizei an
-Rufe schnell Polizei an
-Rufe bitte schnell Polizei an
-Rufe unmittelbar Polizei an
-Rufe bitte unmittelbar Polizei an
-Rufe unverzüglich Polizei an
-Rufe bitte unverzüglich Polizei an
-Rufe augenblicklich Polizei an
-Rufe bitte augenblicklich Polizei an
-Rufe 110 an
-Rufe bitte 110 an
-Rufe sofort 110 an
-Rufe bitte sofort 110 an
-Rufe jetzt 110 an
-Rufe bitte jetzt 110 an
-Rufe gleich 110 an
-Rufe bitte gleich 110 an
-Rufe schnell 110 an
-Rufe bitte schnell 110 an
-Rufe unmittelbar 110 an
-Rufe bitte unmittelbar 110 an
-Rufe unverzüglich 110 an
-Rufe bitte unverzüglich 110 an
-Rufe augenblicklich 110 an
-Rufe bitte augenblicklich 110 an
-Rufe Notruf an
-Rufe bitte Notruf an
-Rufe 030 19240 an
-Rufe bitte 030 19240 an
-Rufe entgangener Anruf an
-Rufe bitte entgangener Anruf an
-Rufe verpasster Anruf an
-Rufe bitte verpasster Anruf an
-Rufe der letzter Anruf an
-Rufe bitte der letzter Anruf an

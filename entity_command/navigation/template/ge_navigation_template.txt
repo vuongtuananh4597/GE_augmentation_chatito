@@ -1,3 +1,14 @@
+Zur Heimatadresse
+Nach Hause
+Zu meiner eigenen Adresse
+Zu meinem Büro
+Zielführung abbrechen
+Zielführung stoppen
+Zielführung beenden
+Aktivier Satelliten-Ansicht
+Verkehrskarte anzeigen
+Verkehrskarte einschalten
+Schalte zu der Karte mit den Verkehrsstörungen
 Navigiere zu <address>
 Bring mich zu <address>
 Navigiere bitte zu <address>

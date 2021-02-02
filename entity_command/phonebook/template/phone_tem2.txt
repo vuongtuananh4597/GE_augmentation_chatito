@@ -1,83 +1,3 @@
-Rufe <person> an
-Rufe bitte <person> an
-Rufe sofort <person> an
-Rufe bitte sofort <person> an
-Rufe jetzt <person> an
-Rufe bitte jetzt <person> an
-Rufe gleich <person> an
-Rufe bitte gleich <person> an
-Rufe schnell <person> an
-Rufe bitte schnell <person> an
-Rufe unmittelbar <person> an
-Rufe bitte unmittelbar <person> an
-Rufe unverzüglich <person> an
-Rufe bitte unverzüglich <person> an
-Rufe augenblicklich <person> an
-Rufe bitte augenblicklich <person> an
-Telefonieren <person>
-Verbinden <person>
-Telefonieren bitte <person>
-Verbinden bitte <person>
-Telefonieren sofort <person>
-Verbinden sofort <person>
-Telefonieren bitte sofort <person>
-Verbinden bitte sofort <person>
-Telefonieren jetzt <person>
-Verbinden jetzt <person>
-Telefonieren bitte jetzt <person>
-Verbinden bitte jetzt <person>
-Telefonieren gleich <person>
-Verbinden gleich <person>
-Telefonieren bitte gleich <person>
-Verbinden bitte gleich <person>
-Telefonieren schnell <person>
-Verbinden schnell <person>
-Telefonieren bitte schnell <person>
-Verbinden bitte schnell <person>
-Telefonieren unmittelbar <person>
-Verbinden unmittelbar <person>
-Telefonieren bitte unmittelbar <person>
-Verbinden bitte unmittelbar <person>
-Telefonieren unverzüglich <person>
-Verbinden unverzüglich <person>
-Telefonieren bitte unverzüglich <person>
-Verbinden bitte unverzüglich <person>
-Telefonieren augenblicklich <person>
-Verbinden augenblicklich <person>
-Telefonieren bitte augenblicklich <person>
-Verbinden bitte augenblicklich <person>
-Kannst du mich mit <person> verbinden
-Können Sie mich mit <person> verbinden
-Kannst du bitte mich mit <person> verbinden
-Können Sie bitte mich mit <person> verbinden
-Kannst du sofort mich mit <person> verbinden
-Können Sie sofort mich mit <person> verbinden
-Kannst du bitte sofort mich mit <person> verbinden
-Können Sie bitte sofort mich mit <person> verbinden
-Kannst du jetzt mich mit <person> verbinden
-Können Sie jetzt mich mit <person> verbinden
-Kannst du bitte jetzt mich mit <person> verbinden
-Können Sie bitte jetzt mich mit <person> verbinden
-Kannst du gleich mich mit <person> verbinden
-Können Sie gleich mich mit <person> verbinden
-Kannst du bitte gleich mich mit <person> verbinden
-Können Sie bitte gleich mich mit <person> verbinden
-Kannst du schnell mich mit <person> verbinden
-Können Sie schnell mich mit <person> verbinden
-Kannst du bitte schnell mich mit <person> verbinden
-Können Sie bitte schnell mich mit <person> verbinden
-Kannst du unmittelbar mich mit <person> verbinden
-Können Sie unmittelbar mich mit <person> verbinden
-Kannst du bitte unmittelbar mich mit <person> verbinden
-Können Sie bitte unmittelbar mich mit <person> verbinden
-Kannst du unverzüglich mich mit <person> verbinden
-Können Sie unverzüglich mich mit <person> verbinden
-Kannst du bitte unverzüglich mich mit <person> verbinden
-Können Sie bitte unverzüglich mich mit <person> verbinden
-Kannst du augenblicklich mich mit <person> verbinden
-Können Sie augenblicklich mich mit <person> verbinden
-Kannst du bitte augenblicklich mich mit <person> verbinden
-Können Sie bitte augenblicklich mich mit <person> verbinden
 <person> Kontaktieren
 <person> sofort Kontaktieren
 <person> jetzt Kontaktieren
@@ -278,3 +198,9 @@ Ich möchte augenblicklich mit <person> sprechen
 Ich will augenblicklich mit <person> sprechen
 Ich möchte bitte augenblicklich mit <person> sprechen
 Ich will bitte augenblicklich mit <person> sprechen
+Rufe entgangener Anruf an
+Rufe bitte entgangener Anruf an
+Rufe verpasster Anruf an
+Rufe bitte verpasster Anruf an
+Rufe der letzter Anruf an
+Rufe bitte der letzter Anruf an

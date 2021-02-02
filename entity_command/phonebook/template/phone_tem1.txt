@@ -1,0 +1,112 @@
+Rufe <phonenumber> an
+Rufe bitte <phonenumber> an
+Rufe sofort <phonenumber> an
+Rufe bitte sofort <phonenumber> an
+Rufe jetzt <phonenumber> an
+Rufe bitte jetzt <phonenumber> an
+Rufe gleich <phonenumber> an
+Rufe bitte gleich <phonenumber> an
+Rufe schnell <phonenumber> an
+Rufe bitte schnell <phonenumber> an
+Rufe unmittelbar <phonenumber> an
+Rufe bitte unmittelbar <phonenumber> an
+Rufe unverzüglich <phonenumber> an
+Rufe bitte unverzüglich <phonenumber> an
+Rufe augenblicklich <phonenumber> an
+Rufe bitte augenblicklich <phonenumber> an
+Wähle <phonenumber>
+Wähle bitte <phonenumber>
+Wähle sofort <phonenumber>
+Wähle bitte sofort <phonenumber>
+Wähle jetzt <phonenumber>
+Wähle bitte jetzt <phonenumber>
+Wähle gleich <phonenumber>
+Wähle bitte gleich <phonenumber>
+Wähle schnell <phonenumber>
+Wähle bitte schnell <phonenumber>
+Wähle unmittelbar <phonenumber>
+Wähle bitte unmittelbar <phonenumber>
+Wähle unverzüglich <phonenumber>
+Wähle bitte unverzüglich <phonenumber>
+Wähle augenblicklich <phonenumber>
+Wähle bitte augenblicklich <phonenumber>
+Rufe <person> an
+Rufe bitte <person> an
+Rufe sofort <person> an
+Rufe bitte sofort <person> an
+Rufe jetzt <person> an
+Rufe bitte jetzt <person> an
+Rufe gleich <person> an
+Rufe bitte gleich <person> an
+Rufe schnell <person> an
+Rufe bitte schnell <person> an
+Rufe unmittelbar <person> an
+Rufe bitte unmittelbar <person> an
+Rufe unverzüglich <person> an
+Rufe bitte unverzüglich <person> an
+Rufe augenblicklich <person> an
+Rufe bitte augenblicklich <person> an
+Telefonieren mit <person>
+Verbinden mit <person>
+Telefonieren bitte mit <person>
+Verbinden bitte mit <person>
+Telefonieren sofort mit <person>
+Verbinden sofort mit <person>
+Telefonieren bitte sofort mit <person>
+Verbinden bitte sofort mit <person>
+Telefonieren jetzt mit <person>
+Verbinden jetzt mit <person>
+Telefonieren bitte jetzt mit <person>
+Verbinden bitte jetzt mit <person>
+Telefonieren gleich mit <person>
+Verbinden gleich mit <person>
+Telefonieren bitte gleich mit <person>
+Verbinden bitte gleich mit <person>
+Telefonieren schnell mit <person>
+Verbinden schnell mit <person>
+Telefonieren bitte schnell mit <person>
+Verbinden bitte schnell mit <person>
+Telefonieren unmittelbar mit <person>
+Verbinden unmittelbar mit <person>
+Telefonieren bitte unmittelbar mit <person>
+Verbinden bitte unmittelbar mit <person>
+Telefonieren unverzüglich mit <person>
+Verbinden unverzüglich mit <person>
+Telefonieren bitte unverzüglich mit <person>
+Verbinden bitte unverzüglich mit <person>
+Telefonieren augenblicklich mit <person>
+Verbinden augenblicklich mit <person>
+Telefonieren bitte augenblicklich mit <person>
+Verbinden bitte augenblicklich mit <person>
+Kannst du mich mit <person> verbinden
+Können Sie mich mit <person> verbinden
+Kannst du bitte mich mit <person> verbinden
+Können Sie bitte mich mit <person> verbinden
+Kannst du sofort mich mit <person> verbinden
+Können Sie sofort mich mit <person> verbinden
+Kannst du bitte sofort mich mit <person> verbinden
+Können Sie bitte sofort mich mit <person> verbinden
+Kannst du jetzt mich mit <person> verbinden
+Können Sie jetzt mich mit <person> verbinden
+Kannst du bitte jetzt mich mit <person> verbinden
+Können Sie bitte jetzt mich mit <person> verbinden
+Kannst du gleich mich mit <person> verbinden
+Können Sie gleich mich mit <person> verbinden
+Kannst du bitte gleich mich mit <person> verbinden
+Können Sie bitte gleich mich mit <person> verbinden
+Kannst du schnell mich mit <person> verbinden
+Können Sie schnell mich mit <person> verbinden
+Kannst du bitte schnell mich mit <person> verbinden
+Können Sie bitte schnell mich mit <person> verbinden
+Kannst du unmittelbar mich mit <person> verbinden
+Können Sie unmittelbar mich mit <person> verbinden
+Kannst du bitte unmittelbar mich mit <person> verbinden
+Können Sie bitte unmittelbar mich mit <person> verbinden
+Kannst du unverzüglich mich mit <person> verbinden
+Können Sie unverzüglich mich mit <person> verbinden
+Kannst du bitte unverzüglich mich mit <person> verbinden
+Können Sie bitte unverzüglich mich mit <person> verbinden
+Kannst du augenblicklich mich mit <person> verbinden
+Können Sie augenblicklich mich mit <person> verbinden
+Kannst du bitte augenblicklich mich mit <person> verbinden
+Können Sie bitte augenblicklich mich mit <person> verbinden
