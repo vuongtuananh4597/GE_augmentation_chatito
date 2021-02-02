@@ -116,22 +116,22 @@ Rufe unverzüglich Krisendienst Osten Berlins an
 Rufe bitte unverzüglich Krisendienst Osten Berlins an
 Rufe augenblicklich Krisendienst Osten Berlins an
 Rufe bitte augenblicklich Krisendienst Osten Berlins an
-Rufe 39063-70 an
-Rufe bitte 39063-70 an
-Rufe sofort 39063-70 an
-Rufe bitte sofort 39063-70 an
-Rufe jetzt 39063-70 an
-Rufe bitte jetzt 39063-70 an
-Rufe gleich 39063-70 an
-Rufe bitte gleich 39063-70 an
-Rufe schnell 39063-70 an
-Rufe bitte schnell 39063-70 an
-Rufe unmittelbar 39063-70 an
-Rufe bitte unmittelbar 39063-70 an
-Rufe unverzüglich 39063-70 an
-Rufe bitte unverzüglich 39063-70 an
-Rufe augenblicklich 39063-70 an
-Rufe bitte augenblicklich 39063-70 an
+Rufe 3906370 an
+Rufe bitte 3906370 an
+Rufe sofort 3906370 an
+Rufe bitte sofort 3906370 an
+Rufe jetzt 3906370 an
+Rufe bitte jetzt 3906370 an
+Rufe gleich 3906370 an
+Rufe bitte gleich 3906370 an
+Rufe schnell 3906370 an
+Rufe bitte schnell 3906370 an
+Rufe unmittelbar 3906370 an
+Rufe bitte unmittelbar 3906370 an
+Rufe unverzüglich 3906370 an
+Rufe bitte unverzüglich 3906370 an
+Rufe augenblicklich 3906370 an
+Rufe bitte augenblicklich 3906370 an
 Rufe Kindernotdienst an
 Rufe bitte Kindernotdienst an
 Rufe sofort Kindernotdienst an
@@ -292,22 +292,22 @@ Rufe unverzüglich Landratsamt an
 Rufe bitte unverzüglich Landratsamt an
 Rufe augenblicklich Landratsamt an
 Rufe bitte augenblicklich Landratsamt an
-Rufe 030 90293-0 an
-Rufe bitte 030 90293-0 an
-Rufe sofort 030 90293-0 an
-Rufe bitte sofort 030 90293-0 an
-Rufe jetzt 030 90293-0 an
-Rufe bitte jetzt 030 90293-0 an
-Rufe gleich 030 90293-0 an
-Rufe bitte gleich 030 90293-0 an
-Rufe schnell 030 90293-0 an
-Rufe bitte schnell 030 90293-0 an
-Rufe unmittelbar 030 90293-0 an
-Rufe bitte unmittelbar 030 90293-0 an
-Rufe unverzüglich 030 90293-0 an
-Rufe bitte unverzüglich 030 90293-0 an
-Rufe augenblicklich 030 90293-0 an
-Rufe bitte augenblicklich 030 90293-0 an
+Rufe 030 902930 an
+Rufe bitte 030 902930 an
+Rufe sofort 030 902930 an
+Rufe bitte sofort 030 902930 an
+Rufe jetzt 030 902930 an
+Rufe bitte jetzt 030 902930 an
+Rufe gleich 030 902930 an
+Rufe bitte gleich 030 902930 an
+Rufe schnell 030 902930 an
+Rufe bitte schnell 030 902930 an
+Rufe unmittelbar 030 902930 an
+Rufe bitte unmittelbar 030 902930 an
+Rufe unverzüglich 030 902930 an
+Rufe bitte unverzüglich 030 902930 an
+Rufe augenblicklich 030 902930 an
+Rufe bitte augenblicklich 030 902930 an
 Rufe Feuerwehr an
 Rufe bitte Feuerwehr an
 Rufe sofort Feuerwehr an
