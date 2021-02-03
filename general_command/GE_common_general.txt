@@ -1,33 +1,32 @@
-Schalte bitte die Klimaanlage ein.
-Stell bitte die Klimaanlage an.
-Die Klimaanlage, bitte!
-Klimaanlage an!
-Schalte die Klimaanlage an.
-Klima an!
-Mach die Klimaanlage an.
-Ich will frische Luft im Auto.
-Mir ist zu warm. Ich brauche sofort die Klimaanlage.
-Aktiviere die Klimaanlage
+Schalte bitte die Klimaanlage ein
+Stell bitte die Klimaanlage an
+Die Klimaanlage bitte
+Klimaanlage an
+Schalte die Klimaanlage an
+Klima an
+Mach die Klimaanlage an
+Ich will frische Luft im Auto
+Mir ist zu warm. Ich brauche sofort die Klimaanlage
 Aktivier die Klimaanlage
-Klima ein!
-Ich möchte die Klimaanlage einschalten.
+Klima ein
+Ich möchte die Klimaanlage einschalten
 Klimaanlage ein bitte
-Klimaanlage anmachen!
-Kannst du die Klimaanlage anmachen?
-Kannst du die Klimaanlage einschalten?
-Klimaanlage einschalten!
-Mach die Klima an!
-Mach die Klima ein!
-Starte die Klimaanlage!
-Starte bitte die Klimaanlage!
+Klimaanlage anmachen
+Kannst du die Klimaanlage anmachen
+Kannst du die Klimaanlage einschalten
+Klimaanlage einschalten
+Mach die Klima an
+Mach die Klima ein
+Starte die Klimaanlage
+Starte bitte die Klimaanlage
 Mach die Klimaanlage an bitte
 Mach bitte die Klimaanlage an
 Mach die Klima an bitte
 Mach bitte die Klima an
-Schalte bitte die Klimaanlage aus.
-Schalte die Klimaanlage ab.
-Hilf mir beim Ausschalten der Klimaanlage.
-Stell die Klimaanlage ab.
+Schalte bitte die Klimaanlage aus
+Schalte die Klimaanlage ab
+Hilf mir beim Ausschalten der Klimaanlage
+Stell die Klimaanlage ab
 Mach die Klimaanlage bitte aus
 Mach die Klimaanlage aus
 Ich möchte die Klimaanlage ausschalten
@@ -41,7 +40,7 @@ Deaktiviere die Klimaanlage
 Klimaanlage aussschalten
 Klimaanlage ausmachen
 Ich brauche die Klimaanlage nicht mehr.
-Kannst du die Klimaanlage ausschalten?
+Kannst du die Klimaanlage ausschalten
 Bitte mache die Klimaanlage aus
 Bitte schalte die Klimaanlage aus
 Bitte mach die Klimaanlage aus
@@ -75,7 +74,7 @@ Hilf mir beim Ausschalten der Klimaautomatik
 Schalte die Klimaanlage auf maximale Stufe ein
 Stell die Klimaanlage auf maximale Stufe ein
 Stell die Klimaanlage auf maximal
-Kannst du die maximale Stufe der Klimaanlage einschalten?
+Kannst du die maximale Stufe der Klimaanlage einschalten
 Aktivier maximalen Modus der Klimaanlage
 Ich will den Modus Max AC
 Ich brauche sofort den Modus Max AC
@@ -93,7 +92,7 @@ Stelle die Klimaanlage auf max
 Schalte die maximale Stufe der Klimaanlage aus
 maximale Stufe der Klimaanlage aus
 Schalte die maximale Stufe der Klimaanlage ab
-Kannst du die maximale Stufe der Klimaanlage abschalten?
+Kannst du die maximale Stufe der Klimaanlage abschalten
 Schalte den Modus Max AC aus
 Schalt die maximale Stufe der Klimaanlage aus
 Deaktivier maximalen Modus der Klimaaanlage
@@ -104,17 +103,17 @@ Ich brauche sofort die Lüftung
 Hilf mir beim Einschalten der Lüftung
 Aktivier die Lüftung
 Vinfast, schalte die Lüftung ein
-Es riecht schlecht. Die Lüftung an bitte!
+Es riecht schlecht. Die Lüftung an bitte
 Kannst du die Lüftung einschalten
 Die Klimaanlage funktioniert nicht. Schalte die Lüftung an
 Es ist feucht. Schalte die Lüftung ein
-Ich kann nicht atmen. Die Lüftung an bitte!
+Ich kann nicht atmen. Die Lüftung an bitte
 Aktiviere die Lüftung
 Lüftung ein
 Lüftung an
 Schalte die Lüftung aus
 Ich möchte die Lüftung ausschalten
-Hilf mir beim Ausschalten der Lüftung
+Kannst du die Lüftung aussschalten
 Deaktivier die Lüftung
 Deaktiviere die Lüftung
 Lüftung aus
@@ -133,8 +132,8 @@ Stell die Lüftung auf Stufe 6
 Stell die Lüftung auf Stufe 10
 Erhöhe Gebläsestufe
 Erhöhe die Gebläsestufe
-Kannst du die Lüfterdrezahl erhöhen?
-Kannst du die Gebläsestufe erhöhen?
+Kannst du die Lüfterdrezahl erhöhen
+Kannst du die Gebläsestufe erhöhen
 Gebläsestufe erhöhen
 Ich möchte die Gebläsestufe erhöhen
 Lüftergeschwindigkeit erhöhen
@@ -145,16 +144,16 @@ Ich möchte die Lüftergeschwindigkeit erhöhen
 Mach die Gebläsestufe höher
 Verringere die Lüfterdrehzahl
 Senk die Gebläsestufe
-Kannst du die Lüfterdrehzahl verringern?
-Kannst du die Lüfterdrehzahl senken?
+Kannst du die Lüfterdrehzahl verringern
+Kannst du die Lüfterdrehzahl senken
 Gebläsestufe niedriger
 Gebläsestufe weniger
 Lüftergeschwindigkeit senken
 Senk die Lüftergeschwindigkeit
 Senk bitte die Lüftergeschwindigkeit
 Senk bitte die Gebläsestufe
-Senk die Lüftergeschwindigkeit bitte 
-Senk die Gebläsestufe bitte 
+Senk die Lüftergeschwindigkeit bitte
+Senk die Gebläsestufe bitte
 Stell Umluft ein
 Aktiviere Umluft-Funktion
 Schalte Umluft ein
@@ -210,23 +209,21 @@ Kannst du den Luftfilter ausschalten
 Schalte die Frontscheibenheizung ein
 Aktiviere die Frontscheibenheizung
 Frontscheibenheizung an
-Mach die Scheibenheizung an
-Ich brauche die Scheibenheizung
-Scheibenheizung an
+Mach die Frontscheibenheizung an
+Ich brauche die Frontscheibenheizung
+Frontscheibenheizung an
 Frontscheibenheizung an bitte
 Hilf mir beim Einschalten der Frontscheibenheizung
 Ich möchte die Frontscheibenheizung einschalten
 Kannst du die Frontscheibenheizung einschalten
 Schalte die Frontscheibenheizung aus
 Deaktiviere die Frontscheibenheizung
-Deaktiviere die Scheibenheizung
-Mach die Scheibenheizung aus
-Ich brauche die Scheibenheizung nicht mehr
+Ich möchte die Frontscheibenheizung ausschalten
+Mach die Frontscheibenheizung aus
+Ich brauche die Frontscheibenheizung nicht mehr
 Frontscheibenheizung aus bitte
-Scheibenheizung aus bitte
-Hilf mir beim Ausschalten der Scheibenheizung
-Ich möchte die Scheibenheizung ausschalten
-Kannst du die Scheibenheizung ausschalten
+Kannst du die Frontscheibenheizung ausschalten
+Hilf mir beim Ausschalten der Frontscheibenheizung
 Schalte die Heckscheibenheizung ein
 Aktiviere die Heckscheibenheizung
 Heckscheibenheizung ein
@@ -255,10 +252,10 @@ Gebläse in den Fußraum und an die Frontscheibe
 Gebläse in den Fußraum und an die Frontscheibe einstellen
 Stelle das Gebläse in den Fußraum und an die Frontscheibe ein
 Bitte die Luftrichtung in den Fußraum und an die Frontscheibe ändern
-Lenk Luft aufs Gesicht 
-Blas Luft aufs Gesicht 
-Lenk Luft direkt aufs Gesicht 
-Blas Luft direkt aufs Gesicht 
+Lenk Luft aufs Gesicht
+Blas Luft aufs Gesicht
+Lenk Luft direkt aufs Gesicht
+Blas Luft direkt aufs Gesicht
 Gebläse Richtung Gesicht
 Kannst du die Luft aufs Gesicht lenken
 Bitte die Luft aufs Gesicht lenken
@@ -270,7 +267,7 @@ Bitte die Luftrichtung auf Kopfhöhe ändern
 Bitte die Luftrichtung auf Kopfhöhe einstellen
 Lenk Luft in den Fußraum
 Blas Luft in den Fußraum
-Luft in den Fußraum 
+Luft in den Fußraum
 Steuer die Luft in den Fußraum
 Kannst du die Luft in den Fußraum lenken
 Lenke die Luft in den Fußraum
@@ -282,7 +279,7 @@ Bitte die Luftrichtung zum Fußraum ändern
 Bitte die Luftrichtung zum Fußraum einstellen
 Blas Luft aufs Gesicht und in den Fußraum
 Lenk Luft aufs Gesicht und in den Fußraum
-Luft aufs Gesicht und in den Fußraum 
+Luft aufs Gesicht und in den Fußraum
 Steuer die Luft aufs Gesicht und in den Fußraum
 Kannst du die Luft aufs Gesicht und in den Fußraum lenken
 Lenke die Luft aufs Gesicht und in den Fußraum
@@ -292,23 +289,23 @@ Stelle das Gebläse aufs Gesicht und in den Fußraum ein
 Bitte die Luft aufs Gesicht und in den Fußraum lenken
 Stell die Temperatur des Fahrers auf 14 Grad
 Stell die Temperatur des Fahrers auf 16 Grad
-Stell die Temperatur des Fahrersitzes auf 25 Grad
-Stell die Temperatur des Fahrersitzes auf 32 Grad
-Stell die Temperatur des Fahrersitzes auf 40 Grad
-Stell die Temperatur des Fahrersitzes auf 50 Grad
-Stell die Temperatur des Fahrersitzes auf 22,5 Grad
-Stell die Temperatur des Fahrersitzes auf 24 Grad
-Stell die Temperatur des Fahrersitzes auf 32,5 Grad
+Stell die Temperatur der Fahrerzone auf 25 Grad
+Stell die Temperatur der Fahrerzone auf 32 Grad
+Stell die Temperatur der Fahrerzone auf 40 Grad
+Stell die Temperatur der Fahrerzone auf 50 Grad
+Stell die Temperatur der Fahrerzone auf 22,5 Grad
+Stell die Temperatur der Fahrerzone auf 24 Grad
+Stell die Temperatur der Fahrerzone auf 32,5 Grad
 Stell die Fahrersitztemperatur auf 24 Grad
 Stell die Fahrertemperatur auf 24 Grad
-Stell die Temperatur des Fahrersitzes auf 25 Grad
-Stell die Temperatur des Fahrersitzes auf 30 Grad
+Stell die Temperatur der Fahrerzone auf 25 Grad
+Stell die Temperatur der Fahrerzone auf 30 Grad
 Stell die Temperatur der Passagiere auf 14 Grad
 Stell die Temperatur des Beifahrers auf 16 Grad
 Stell die Temperatur der Rückbank auf 25 Grad
 Stell die Temperatur der Rücksitze auf 32 Grad
-Stell die Temperatur der Passagiersitze auf 40 Grad
-Stell die Temperatur des Beifahrersitzes auf -1 Grad
+Stell die Temperatur der Passagierzone auf 40 Grad
+Stell die Temperatur des Beifahrerzone auf -1 Grad
 Stell die Temperatur der Passagiersitze auf 22,5 Grad
 Stell die Temperatur der Passagiersitze auf 24 Grad
 Stell die Temperatur der Passagiersitze auf 32,5 Grad
@@ -319,10 +316,10 @@ Temperatur auf 25 Grad stellen
 Stell die Temperatur auf 32 Grad
 Stell die Temperatur auf 24 Grad
 Stell die Temperatur auf 40 Grad
-Stell die Temperatur auf -1 Grad 
+Stell die Temperatur auf -1 Grad
 Stell die Temperatur auf 22,5 Grad
 Stell die Temperatur auf 32,5 Grad
-Stell die Temperatur auf 29 Grad 
+Stell die Temperatur auf 29 Grad
 Stell Temperatur -1 Grad höher
 Temperatur 1 Grad höher stellen
 Temperatur 2 Grad höher stellen
@@ -364,7 +361,7 @@ Ich möchte alle Sitzheizungen ausschalten
 alle Sitzheizungen aus
 alle Sitzheizungen ausschalten
 Schalte Fahrersitzheizung ein
-Aktivier Fahrersitzheizung 
+Aktivier Fahrersitzheizung
 Hilf mir beim Einschalten der Fahrersitzheizung
 Mach die Fahrersitzheizung an
 Ich brauche die Fahrersitzheizung
@@ -374,7 +371,7 @@ Fahrersitzheizung an
 Fahrersitzheizung anschalten
 Fahrersitzheizung einschalten
 Schalte Fahrersitzheizung aus
-Deaktivier Fahrersitzheizung 
+Deaktivier Fahrersitzheizung
 Hilf mir beim Ausschalten der Fahrersitzheizung
 Mach den Fahrersitzheizung aus
 Ich brauche die Fahrersitzheizung nicht mehr
@@ -383,14 +380,15 @@ Kannst du die Fahrersitzheizung ausschalten
 Fahrersitzheizung aus
 Fahrersitzheizung ausschalten
 Schalte Beifahrersitzheizung ein
-Aktivier Beifahrersitzheizung
+Aktivier Sitzheizung des Beifahrers
 Hilf mir beim Einschalten der Beifahrersitzheizung
 Mach die Beifahrersitzheizung an
 Ich brauche die Beifahrersitzheizung
 Beifahrersitzheizung an bitte
-Beifahrersitzheizung an
+Sitzheizung des Beifahrers an
 Beifahrersitzheizung anschalten
 Beifahrersitzheizung einschalten
+Kannst du die Beifahrersitzheizung ausschalten
 Schalte Beifahrersitzheizung aus
 Deaktivier Beifahrersitzheizung
 Hilf mir beim Ausschalten der Beifahrersitzheizung
@@ -452,24 +450,24 @@ Stell Sitzheizstufe auf maximale Stufe
 Ich möchte alle Sitzheizungen auf Stufe 3
 Stell Fahrersitzheizung auf Hoch
 Stell Fahrersitzheizung auf Mittel
-Stell Fahrersitzheizung auf Niedrig 
+Stell Fahrersitzheizung auf Niedrig
 Stell Fahrersitzheizung auf Stufe 1
 Stell Fahrersitzheizung auf Stufe 2
 Stell Fahrersitzheizung auf Stufe 3
 Änder Fahrersitzheizung auf Hoch
 Änder Fahrersitzheizung auf Mittel
-Änder Fahrersitzheizung auf Niedrig 
+Änder Fahrersitzheizung auf Niedrig
 Stell Fahrersitzheizung auf maximale Stufe
 Fahrersitzheizung auf Stufe 2
 Stell Fahrersitzheizung auf minimale Stufe
 Fahrersitzheizung Stufe 1 ändern
 Fahrersitzheizung Stufe 1 stellen
-Fahrersitzheizung auf Stufe 1 
-Fahrersitzheizung auf Hoch 
+Fahrersitzheizung auf Stufe 1
+Fahrersitzheizung auf Hoch
 Fahrersitzheizung auf höchste Stufe
 Stell Beifahrersitzheizung auf Hoch
 Stell Beifahrersitzheizung auf Mittel
-Stell Beifahrersitzheizung auf Niedrig 
+Stell Beifahrersitzheizung auf Niedrig
 Stell Beifahrersitzheizung auf Stufe 1
 Stell Beifahrersitzheizung auf Stufe 2
 Stell Beifahrersitzheizung auf Stufe 3
@@ -479,8 +477,8 @@ Beifahrersitzheizung Stufe 1 ändern
 Beifahrersitzheizung Stufe 1 stellen
 Stell Beifahrersitzheizung auf maximale Stufe
 Stell Beifahrersitzheizung auf minimale Stufe
-Beifahrersitzheizung auf Stufe 1 
-Beifahrersitzheizung auf Hoch 
+Beifahrersitzheizung auf Stufe 1
+Beifahrersitzheizung auf Hoch
 Beifahrersitzheizung auf höchste Stufe
 Stell linke Rücksitzheizung auf Hoch
 Stell linke Rücksitzheizung auf Mittel
@@ -493,8 +491,8 @@ Stell linke Rücksitzheizung auf Stufe 3
 Änder linke Rücksitzheizung auf Mittel
 Stell linke Rücksitzheizung auf maximale Stufe
 Stell linke Rücksitzheizung auf minimale Stufe
-linke Rücksitzheizung auf Stufe 1 
-linke Rücksitzheizung auf Hoch 
+linke Rücksitzheizung auf Stufe 1
+linke Rücksitzheizung auf Hoch
 linke Rücksitzheizung auf höchste Stufe
 Stell rechte Rücksitzheizung auf Hoch
 Stell rechte Rücksitzheizung auf Mittel
@@ -507,8 +505,8 @@ Stell rechte Rücksitzheizung auf Stufe 3
 Änder rechte Rücksitzheizung auf Mittel
 Stell rechte Rücksitzheizung auf maximale Stufe
 Stell rechte Rücksitzheizung auf minimale Stufe
-rechte Rücksitzheizung auf Stufe 1 
-rechte Rücksitzheizung auf Hoch 
+rechte Rücksitzheizung auf Stufe 1
+rechte Rücksitzheizung auf Hoch
 rechte Rücksitzheizung auf höchste Stufe
 Aktivier alle Sitzbelüftung
 Schalte alle Sitzbelüftung ein
@@ -517,8 +515,7 @@ Ich brauche alle Sitzbelüftung
 Alle Sitzbelüftung an
 Alle Sitzbelüftung anmachen
 Alle Sitzbelüftung einschalten
-Kannst du alle Sitzbelüftung einschalten?
-Deaktivier alle Sitzbelüftung/Sitzlüftung/Sitzklimatisierung
+Kannst du alle Sitzbelüftung einschalten
 Schalte alle Sitzbelüftung aus
 Stopp alle Sitzbelüftung
 Mach alle Sitzbelüftung aus
@@ -526,7 +523,7 @@ Ich brauche alle Sitzbelüftung nicht mehr
 Alle Sitzbelüftung aus
 Alle Sitzbelüftung ausmachen
 Alle Sitzbelüftung ausschalten
-Kannst du alle Sitzbelüftung ausschalten?
+Kannst du alle Sitzbelüftung ausschalten
 Aktivier Fahrersitzbelüftung
 Schalte Fahrersitzbelüftung ein
 Mach die Fahrersitzbelüftung an
@@ -534,7 +531,7 @@ Ich brauche die Fahrersitzbelüftung
 Fahrersitzbelüftung an
 Fahrersitzbelüftung anmachen
 Fahrersitzbelüftung einschalten
-Kannst du die Fahrersitzbelüftung einschalten?
+Kannst du die Fahrersitzbelüftung einschalten
 Deaktivier Fahrersitzbelüftung
 Schalte Fahrersitzbelüftung aus
 Stopp Fahrersitzbelüftung
@@ -543,7 +540,7 @@ Ich brauche die Fahrersitzbelüftung nicht mehr
 Fahrersitzbelüftung aus
 Fahrersitzbelüftung ausmachen
 Fahrersitzbelüftung ausschalten
-Kannst du die Fahrersitzbelüftung ausschalten?
+Kannst du die Fahrersitzbelüftung ausschalten
 Aktivier Beifahrersitzbelüftung
 Schalte Beifahrersitzbelüftung ein
 Mach die Beifahrersitzbelüftung an
@@ -551,7 +548,7 @@ Ich brauche die Beifahrersitzbelüftung
 Beifahrersitzbelüftung an
 Beifahrersitzbelüftung anmachen
 Beifahrersitzbelüftung einschalten
-Kannst du die Beifahrersitzbelüftung einschalten?
+Kannst du die Beifahrersitzbelüftung einschalten
 Deaktivier Beifahrersitzbelüftung
 Schalte Beifahrersitzbelüftung aus
 Stopp Beifahrersitzbelüftung
@@ -560,7 +557,7 @@ Ich brauche die Beifahrersitzbelüftung nicht mehr
 Beifahrersitzbelüftung aus
 Beifahrersitzbelüftung ausmachen
 Beifahrersitzbelüftung ausschalten
-Kannst du die Beifahrersitzbelüftung ausschalten?
+Kannst du die Beifahrersitzbelüftung ausschalten
 Aktivier Sitzbelüftung des linken Rücksitzes
 Schalte Sitzbelüftung des linken Rücksitzes ein
 Mach die Sitzbelüftung des linken Rücksitzes an
@@ -568,7 +565,7 @@ Ich brauche die Sitzbelüftung des linken Rücksitzes
 Sitzbelüftung des linken Rücksitzes an
 Sitzbelüftung des linken Rücksitzes anmachen
 Sitzbelüftung des linken Rücksitzes einschalten
-Kannst du die Sitzbelüftung des linken Rücksitzes einschalten?
+Kannst du die Sitzbelüftung des linken Rücksitzes einschalten
 linke Rücksitzbelüftung ein
 linke Rücksitzbelüftung an
 Deaktivier Sitzbelüftung des linken Rücksitzes
@@ -579,7 +576,7 @@ Ich brauche die Sitzbelüftung des linken Rücksitzes nicht mehr
 Sitzbelüftung des linken Rücksitzes aus
 Sitzbelüftung des linken Rücksitzes ausmachen
 Sitzbelüftung des linken Rücksitzes ausschalten
-Kannst du die Sitzbelüftung des linken Rücksitzes ausschalten?
+Kannst du die Sitzbelüftung des linken Rücksitzes ausschalten
 linke Rücksitzbelüftung aus
 Aktivier Sitzbelüftung des rechten Rücksitzes
 Schalte Sitzbelüftung des rechten Rücksitzes ein
@@ -588,7 +585,7 @@ Ich brauche die Sitzbelüftung des rechten Rücksitzes
 Sitzbelüftung des rechten Rücksitzes an
 Sitzbelüftung des rechten Rücksitzes anmachen
 Sitzbelüftung des rechten Rücksitzes einschalten
-Kannst du die Sitzbelüftung des rechten Rücksitzes einschalten?
+Kannst du die Sitzbelüftung des rechten Rücksitzes einschalten
 rechte Rücksitzbelüftung ein
 rechte Rücksitzbelüftung an
 Deaktivier Sitzbelüftung des rechten Rücksitzes
@@ -599,7 +596,7 @@ Ich brauche die Sitzbelüftung des rechten Rücksitzes nicht mehr
 Sitzbelüftung des rechten Rücksitzes aus
 Sitzbelüftung des rechten Rücksitzes ausmachen
 Sitzbelüftung des rechten Rücksitzes ausschalten
-Kannst du die Sitzbelüftung des rechten Rücksitzes ausschalten?
+Kannst du die Sitzbelüftung des rechten Rücksitzes ausschalten
 rechte Rücksitzbelüftung aus
 Stell alle Sitzbelüftung auf Hoch
 Stell alle Sitzbelüftung auf Stufe 3
@@ -614,30 +611,43 @@ Alle Sitzbelüftung auf höchste Stufe
 Stell Sitzbelüftung des Fahrersitzes auf Hoch
 Bitte Sitzbelüftung des Fahrers auf Hoch
 Stell Fahrersitzbelüftung auf Mittel
-Stell Fahrersitzbelüftung auf minimale Stufe
+Kannst du bitte die Belüftung des Fahrers auf hoch stellen
 Änder Fahrersitzbelüftung auf Hoch
 Fahrersitzbelüftung auf Hoch
 Fahrersitzbelüftung auf Hoch einstellen
 Stell Fahrersitzbelüftung auf minimale Stufe
 Sitzbelüftung des Fahrers auf Hoch
 Sitzbelüftung des Fahrers auf höchste Stufe
+Stell Fahrersitzbelüftung auf minimale Stufe
 Stell Beifahrersitzlüftung auf Mittel
 Stell Beifahrersitzklimatisierung auf Hoch
 Stell Beifahrersitzbelüftung auf Niedrig
-Stell die Sitzbelüftung des Beifahrers auf Stufe 1
+Kannst du bitte die Belüftung des Beifahrers auf hoch stellen
 Sitzbelüftung des Beifahrers auf Stufe 1
 Beifahrersitzbelüftung auf Stufe 2
 Sitzbelüftung des Beifahrers auf Mittel
 Stell Beifahrersitzkühler auf Stufe 1
-Stell Beifahrersitzkühler auf Stufe 2
+Stell Beifahrersitzkühler auf maximale Stufe
 Stell Beifahrersitzkühler auf Stufe 3
-Stell Kühler des linken Rücksitzes auf Hoch
-Stell Kühler des linken Rücksitzes auf Stufe 2
-Ich möchte den Kühler des linken Rücksitzes auf niedrigste Stufe stellen
-Stell Kühler des rechten Rücksitzes auf Hoch
-Stell Kühler des rechten Rücksitzes auf maximale Stufe 
-Stell Kühler des rechten Rücksitzes auf Stufe 3
-Stell Kühler des rechten Rücksitzes auf Stufe 1
+Stell die Sitzbelüftung des Beifahrers auf Stufe 1
+Stell Sitzbelüftung des linken Rücksitzes auf Hoch
+Stell Sitzbelüftung des linken Rücksitzes auf Stufe 2
+Ich möchte die Sitzbelüftung des linken Rücksitzes auf niedrigste Stufe stellen
+Kannst du bitte die Belüftung des linken Rücksitzes auf hoch stellen
+Sitzbelüftung des linken Rücksitzes auf Stufe 1
+Sitzbelüftung des linken Rücksitzes auf maximale Stufe
+Stell Sitzbelüftung des linken Rücksitzes auf Stufe 1
+Änder Sitzbelüftung des linken Rücksitzes auf Mittel
+Sitzbelüftung des linken Rücksitzes auf Hoch
+Stell Sitzbelüftung des rechten Rücksitzes auf Hoch
+Stell Sitzbelüftung des rechten Rücksitzes auf maximale Stufe
+Kannst du bitte die Sitzbelüftung des rechten Rücksitzes auf Stufe 3 stellen
+Stell Sitzbelüftung des rechten Rücksitzes auf Stufe 1
+Änder Sitzbelüftung des rechten Rücksitzes auf mittel
+Bitte die Sitzbelüftung des rechten Rücksitzes auf höchste Stufe
+Stell Sitzbelüftung des rechten Rücksitzes auf Stufe 3
+Ich möchte die Sitzbelüftung des rechten Rücksitzes auf niedrig
+Sitzbelüftung des rechten Rücksitzes auf 3
 Schalte Lenkradheizung ein
 Aktivier Lenkradheizung
 Hilf mir beim Einschalten der Lenkradheizung
@@ -645,6 +655,9 @@ Mach den Lenkradheizung an
 Ich brauche die Lenkradheizung
 Lenkradheizung an bitte
 Kannst du die Lenkradheizung einschalten
+Lenkradheizung ein
+Lenkradheizung anschalten
+Lenkradheizung einschalten
 Schalte Lenkradheizung aus
 Deaktivier Lenkradheizung
 Hilf mir beim Ausschalten der Lenkradheizung
@@ -652,135 +665,278 @@ Mach den Lenkradheizung aus
 Ich brauche die Lenkradheizung nicht mehr
 Lenkradheizung aus bitte
 Kannst du die Lenkradheizung ausschalten
+Lenkradheizung aus
+Lenkradheizung ausschalten
 Mir ist zu warm
-Heute ist es zu warm 
+Heute ist es zu warm
+Mir ist zu heiß
 Mach das Auto kühler
- Senk die Temperatur bitte
+Es ist zu hier zu warm
+Reduzier die Temperatur bitte
+Senk die Temperatur bitte
+Kannst du bitte das Auto kühler machen
+Es ist so heiß hier
+Mache bitte das Auto kühler
 Mir ist zu kalt
 Es ist zu kalt
+Mach die Heizung an
 Erhöhe die Temperatur
 Mach das Auto wärmer
-Schalte HLK ein
-Aktivier HLK 
-Hilf mir beim Einschalten HLK
-Mach HLK an
-Ich brauche sofort HLK
-Ich möchte HLK einschalten
-Schalte HLK aus
-Deaktivier HLK 
-Hilf mir beim Ausschalten HLK
-Mach HLK aus
-Ich brauche HLK nicht mehr
-Ich möchte HLK ausschalten
+Dreh die Heizung auf
+Kannst du das Auto wärmer machen
+Mache bitte das Auto wärmer
 Öffne den Bildschirm für Sitzheizungseinstellung
-Stell die Sitzheizungen ein
+Zeig mir die Sitzheizungen an
 Zeig mir den Bildschirm für Sitzheizungseinstellung
 Ich möchte den Bildschirm für Sitzheizungseinstellung sehen
 Schalte den Bilschirm für Sitzheizungseinstellung ein
 Ich möchte die Sitzheizungen einstellen
 Ich brauche den Bildschirm für Sitzheizungseinstellung
-Aktivier Sitzheizungseinstellung
+Zeig mir die Sitzheizungseinstellung
+Sitzheizeinstellungen anzeigen
+Sitzheizeinstellungen aufrufen
+Gehe zu Sitzheizeinstellungen
 Schließe Sitzheizungseinstellung
-Hör auf, Sitzheizungen einzustellen
+Schließe den Bildschirm für Sitzheizungseinstellung
 Schalte den Bildschirm für Sitzheizungseinstellung aus
-Ich brauche nicht mehr den Bildschirm für Sitzheizungseinstellung
+Ich brauche den Bildschirm für Sitzheizungseinstellung nicht mehr
 Deaktivier Sitzheizungseinstellung
-Öffne den Bildschirm für HLK-Einstellung
-Stell HLK ein
-Zeig mir den Bildschirm für HLK-Einstellung
-Ich möchte den Bildschirm für HLK-Einstellung sehen
-Schalte den Bilschirm für HLK-Einstellung ein
-Ich möchte HLK einstellen
-Ich brauche den Bildschirm für HLK-Einstellung
-Aktivier HLK-Einstellung
-Schließe HLK-Einstellung
-Hör auf, HLK einzustellen
-Schalte den Bildschirm für HLK-Einstellung aus
-Ich brauche nicht mehr den Bildschirm für HLK-Einstellung
-Deaktivier HLK-Einstellung
+Sitzheizeinstellung aus
+Kannst du die Sitzheizeinstellungen schließen
+Sitzheizeinstellungen schließen
 Synchronisier die Temperatur
-Aktiv Synchronisierung der Temperatur
+Aktivier Synchronisierung der Temperatur
 Hilf mir beim Synchronisierung der Temperatur
 Ich möchte die Temperatur synchronisieren
 Schalte Synchronisierung der Temperatur ein
+Aktivier Temperatursynchronisierung
+Temperatursynchronisierung an
+Temperatursynchronisierung ein
 Synchronisier die Temperatur nicht mehr
 Schalte Synchronisierung der Temperatur aus
-Stopp Synchronisierung der Temperatur 
-Unterbrich Synchronisierung der Temperatur 
+Stopp Synchronisierung der Temperatur
+Synchronisierung der Temperatur ausschalten
 Hör auf, die Temperatur zu synchronisieren
-Deaktivier Synchronisierung der Temperatur 
-Erhöhe die Temperatur des Fahrersitzes
-Senk die Temperatur des Fahrersitzes
-Erhöhe die Temperatur des Beifahrersitzes
+Deaktivier Synchronisierung der Temperatur
+Schalte Temperatursynchronisierung aus
+Temperatursynchronisierung aus
+Temperatursynchronisierung deaktivieren
+Erhöhe die Sitzheizung des Fahrers
+Sitzheizung erhöhen
+Kannst du die Sitzheizung des Fahrers erhöhen
+Fahrersitzheizung erhöhen
+Sitzheizung des Fahrers erhöhen
+Ich möchte die Sitzheizung des Fahrers erhöhen
+Senk die Sitzheizung des Fahrers
+Sitzheizung senken
+Kannst du die Sitzheizung des Fahrers senken
+Fahrersitzheizung senken
+Sitzheizung des Fahrers senken
+Ich möchte die Sitzheizung des Fahrers senken
+Erhöhe die Sitzheizung des Beifahrers
 Erhöhe die Temperatur des rechten Vordersitzes
+Erhöhe die Sitzheizung des Beifahrers
+Sitzheizung des Beifahrers erhöhen
+Kannst du die Sitzheizung des Beifahrers erhöhen
+Beifahrersitzheizung erhöhen
+Sitzheizung des Beifahrers erhöhen
+Ich möchte die Sitzheizung des Beifahrers erhöhen
+Senk die Sitzheizung des Beifahrers
+Sitzheizung des Beifahrers senken
+Kannst du die Sitzheizung des Beifahrers senken
+Beifahrersitzheizung senken
+Sitzheizung des Beifahrers senken
+Ich möchte die Sitzheizung des Beifahrers senken
 Senk die Temperatur des Beifahrersitzes
-Senk die Temperatur des rechten Vordersitzes
+Erhöhe die Sitzheizung des linken Rücksitzes
+Erhöhe bitte die Sitzheizung des linken Rücksitzes
+Erhöhe die Sitzheizung des linken Rücksitzes
+Sitzheizung des linken Rücksitzes erhöhen
+Kannst du die Sitzheizung des linken Rücksitzes erhöhen
+linke Rücksitzheizung erhöhen
+Sitzheizung des linken Rücksitzes erhöhen
+Ich möchte die Sitzheizung des linken Rücksitzes erhöhen
 Erhöhe die Temperatur des linken Rücksitzes
+Senk die Sitzheizung des linken Rücksitzes
+Sitzheizung des linken Rücksitzes senken
+Kannst du die Sitzheizung des linken Rücksitzes senken
+linke Rücksitzheizung senken
+Sitzheizung des linken Rücksitzes senken
+Ich möchte die Sitzheizung des linken Rücksitzes senken
 Senk die Temperatur des linken Rücksitzes
-Reduzier die Temparatur des linken Rücksitzes
+Erhöhe die Sitzheizung des rechten Rücksitzes
+Erhöhe bitte die Sitzheizung des rechten Rücksitzes
+Erhöhe die Sitzheizung des rechten Rücksitzes
+Sitzheizung des rechten Rücksitzes erhöhen
+Kannst du die Sitzheizung des rechten Rücksitzes erhöhen
+rechte Rücksitzheizung erhöhen
+Sitzheizung des rechten Rücksitzes erhöhen
+Ich möchte die Sitzheizung des rechten Rücksitzes erhöhen
 Erhöhe die Temperatur des rechten Rücksitzes
+Senk die Sitzheizung des rechten Rücksitzes
+Sitzheizung des rechten Rücksitzes senken
+Kannst du die Sitzheizung des rechten Rücksitzes senken
+rechte Rücksitzheizung senken
+Sitzheizung des rechten Rücksitzes senken
+Ich möchte die Sitzheizung des rechten Rücksitzes senken
 Senk die Temperatur des rechten Rücksitzes
-Reduzier die Temparatur des rechten Rücksitzes
-Erhöhe Fahrersitzkühler
-Senk Fahrersitzkühler
-Erhöhe Beifahrersitzkühler
-Senk Beifahrersitzkühler
-Erhöhe Kühler des linken Rücksitzes
-Senk Kühler des linken Rücksitzes
-Erhöhe Kühler des rechten Rücksitzes
-Senk Kühler des rechten Rücksitzes
+Erhöhe Sitzbelüftung des Fahrers
+Sitzbelüftung des Fahrers erhöhen
+Kannst du die Fahrersitzbelüftung erhöhen
+Ich möchte Fahrersitzbelüftung erhöhen
+Fahrersitzbelüftung erhöhen
+Klimatisierung des Fahrersitzes erhöhen
+Sitzbelüftung des Fahrers bitte erhöhen
+Hast du die Fahrersitzbelüftung erhöht
+Senk Sitzbelüftung des Fahrers
+Sitzbelüftung senken
+Kannst du die Sitzbelüftung des Fahrers senken
+Fahrersitzlüftung senken
+Sitzbelüftung des Fahrers senken
+Ich möchte die Sitzbelüftung des Fahrers senken
+Senk bitte die Sitzbelüftung des Fahrers
+Hast du die Fahrersitzbelüftung gesenkt
+Erhöhe Beifahrersitzbelüftung
+Sitzbelüftung des Beifahrers erhöhen
+Kannst du die Beifahrersitzbelüftung erhöhen
+Ich möchte Beifahrersitzbelüftung erhöhen
+Beifahrersitzbelüftung erhöhen
+Klimatisierung des Beifahrersitzes erhöhen
+Sitzbelüftung des Beifahrers bitte erhöhen
+Hast du die Beifahrersitzbelüftung erhöht
+Sitzbelüftung des Beifahrers senken
+Kannst du die Sitzbelüftung des Beifahrers senken
+Beifahrersitzlüftung senken
+Sitzbelüftung des Beifahrers senken
+Ich möchte die Sitzbelüftung des Beifahrers senken
+Senk bitte die Sitzbelüftung des Beifahrers
+Hast du die Beifahrersitzbelüftung gesenkt
+Erhöhe Sitzbelüftung des linken Rücksitzes
+Sitzbelüftung des linken Rücksitzes erhöhen
+Kannst du die Belüftung des linken Rücksitzes erhöhen
+Ich möchte die Belüftung des linken Rücksitzes erhöhen
+linke Rücksitzbelüftung erhöhen
+Belüftung des linken Rücksitzes erhöhen
+Belüftung des linken Rücksitzes bitte erhöhen
+Hast du die Belüftung des linken Rücksitzes erhöht
+Sitzbelüftung des linken Rücksitzes erhöhen
+Kannst du die Belüftung des linken Rücksitzes erhöhen
+Ich möchte die Belüftung des linken Rücksitzes erhöhen
+linke Rücksitzbelüftung erhöhen
+Belüftung des linken Rücksitzes erhöhen
+Belüftung des linken Rücksitzes bitte erhöhen
+Hast du die Belüftung des linken Rücksitzes erhöht
+Sitzbelüftung des rechten Rücksitzes erhöhen
+Kannst du die Belüftung des rechten Rücksitzes erhöhen
+Ich möchte die Belüftung des rechten Rücksitzes erhöhen
+rechte Rücksitzbelüftung erhöhen
+Belüftung des rechten Rücksitzes erhöhen
+Belüftung des rechten Rücksitzes bitte erhöhen
+Hast du die Belüftung des rechten Rücksitzes erhöht
+Sitzbelüftung des rechten Rücksitzes erhöhen
+Kannst du die Belüftung des rechten Rücksitzes erhöhen
+Ich möchte die Belüftung des rechten Rücksitzes erhöhen
+rechte Rücksitzbelüftung erhöhen
+Belüftung des rechten Rücksitzes erhöhen
+Belüftung des rechten Rücksitzes bitte erhöhen
+Hast du die Belüftung des rechten Rücksitzes erhöht
 Schalte den Lüfter auf maximale Stufe
 Stell den Lüfter auf maximale Stufe
 Stell den Lüfter auf höchste Stufe
+Schalte den Lüfter auf maximal
+Schalte den Lüfter auf max
+Stell den Lüfter auf Maximum
+Maximiere den Lüfter
+Lüfter max
+Lüfter maximal
+Lüfter höchste Stufe
 Schalte den Lüfter auf minimale Stufe ein
 Stell den Lüfter auf minimale Stufe
 Stell den Lüfter auf niedrigste Stufe
+Schalte den Lüfter auf min
+Stell den Lüfter auf Minimum
+Minimiere den Lüfter
+Lüfter min
+Lüfter minimum
+Lüfter niedrigste Stufe
+Lüfter auf niedrigste Stufe
 Schalte Scheibenheizung ein
 Aktivier Scheibenheizung
-Enteis Scheiben
+Scheibenheizung an
 Mach die Scheibenheizung an
 Ich brauche Scheibenheizung
 Scheibenheizung an bitte
+Scheibenheizung ein
+Hilf mir beim Einschalten der Scheibenheizung
+Ich möchte die Sscheibenheizung einschalten
+Kannst du die Scheibenheizung einschalten
 Schalte Scheibenheizung aus
 Deaktivier Scheibenheizung
-Hör auf, Scheiben zu enteisen
+Ich möchte die Scheibenheizung ausschalten
 Mach die Scheibenheizung aus
 Ich brauche Scheibenheizung nicht mehr
 Scheibenheizung aus bitte
+Kannst du die Scheibenheizung ausschalten
+Hilf mir beim Ausschalten der Scheibenheizung
 Stell die Temperatur der Fahrerzone 1 Grad höher
 Stell die Temperatur der Fahrerzone 2 Grad höher
 Stell die Temperatur der Fahrerzone 3 Grad höher
 Ich möchte die Temperatur der Fahrerzone 4 Grad höher stellen
+Kannst du die Temperatur der Fahrerzone 6 Grad erhöhen
+Erhöhe die Fahrertemperatur um 6 Grad
+Änder die Temperatur des Fahrers 6 Grad höher
+Fahrertemperatur 8 Grad erhöhen
+Temperatur der Fahrerzone um 6 Grad erhöhen
 Stell die Temperatur der Fahrerzone 1 Grad niedriger
 Stell die Temperatur der Fahrerzone 2 Grad niedriger
 Stell die Temperatur der Fahrerzone 3 Grad niedriger
 Ich möchte die Temperatur der Fahrerzone 4 Grad niedriger stellen
+Kannst du die Temperatur der Fahrerzone 6 Grad verringern
+verringere die Fahrertemperatur um 6 Grad
+Änder die Temperatur des Fahrers 6 Grad niedriger
+reduzier die Fahrertemperatur 5 Grad
+Fahrertemperatur 8 Grad verringern
+Temperatur der Fahrerzone um 6 Grad reduzieren
 Stell die Temperatur der Passagierzone 1 Grad höher
 Stell die Temperatur der Passagierzone 2 Grad höher
 Stell die Temperatur der Passagierzone 3 Grad höher
 Stell die Temperatur der Passagierzone 4 Grad höher
-Stell die Temperatur der rechte Rücksitz 5 Grad höher
+Temperatur des rechten Rücksitzes 5 Grad erhöhen
 Stell die Temperatur der Passagierzone 6 Grad höher
-Temperatur des Beifahrersitzes 7 Grad höher
+Temperatur der Beifahrerzone 7 Grad höher
 Temperatur des Beifahrersitzes 7 Grad höher
 Stell die Temperatur des rechten Rücksitzes 1 Grad höher
 Stell die Temperatur der Passagierzone 6 Grad höher
 Stell die Temperatur der Passagierzone 1 Grad niedriger
-Stell die Temperatur der Passagierzone 2 Grad niedriger
-Stell die Temperatur der Passagierzone 3 Grad niedriger
+Kannst du die Temperatur der Passagierzone 2 Grad reduzieren
+Verringer die Temperatur der Passagierzone 3 Grad niedriger
 Stell die Temperatur der Passagierzone 4 Grad niedriger
-Stell die Temperatur der Passagierzone 5 Grad niedriger
-Stell den Lüfter auf 1 Stufe höher
-Stell den Lüfter auf 1 Stufe höher
-Ich möchte den Lüfter auf 3 Stufe höher stellen
-Stell den Lüfter auf 4 Stufe höher
-Stell den Lüfter auf 5 Stufe höher
-Stell den Lüfter auf 1 Stufe niedriger
-Stell den Lüfter auf 2 Stufe niedriger
-Ich möchte den Lüfter auf 3 Stufe niedriger stellen
-Stell den Lüfter auf 4 Stufe niedriger
-Stell den Lüfter auf 6 Stufe niedriger
-Stell den Lüfter auf 5 Stufe niedriger
+Temperatur der Passagierzone 5 Grad reduzieren
+Stell die Temperatur der Passagierzone 6 Grad höher
+Temperatur der Beifahrerzone 7 Grad niedriger
+Temperatur des Beifahrersitzes 7 Grad niedriger
+Stell die Temperatur des rechten Rücksitzes 1 Grad niedriger
+Temperatur der Passagierzone 6 Grad niedriger
+Stell den Lüfter 1 Stufe höher
+Erhöhe den Lüfter 1 Stufe
+Ich möchte den Lüfter um 3 Stufen höher stellen
+Stell den Lüfter 4 Stufen höher
+Stell den Lüfter 5 Stufen höher
+Erhöhe die Lüfterstufe um 2
+Lüfterstufe um 3 erhöhen
+Lüftergeschwindkigkeit 1 Stufe erhöhen
+Lüftergeschwindkigkeit 4 Stufen erhöhen
+Stell den Lüfter 5 Stufen schneller
+Stell den Lüfter 1 Stufe niedriger
+Stell den Lüfter 2 Stufen niedriger
+Ich möchte den Lüfter um 3 Stufe niedriger stellen
+Reduzier die Lüfterstufe um 4
+Lüftergeschwindigkeit 3 verringern
+Lüftergeschwindkeit 2 Stufen reduzieren
+Stell den Lüfter 4 Stufen niedriger
+Lüftergeschwindigkeit um 1 Stufe verringern
+Stell den Lüfter 6 Stufen niedriger
+Stell den Lüfter auf 5 Stufen niedriger
 Schalte Passagiersitzheizungen ein
 Aktivier Passagiersitzheizungen
 Hilf mir beim Einschalten der Passagiersitzheizungen
@@ -788,6 +944,9 @@ Mach die Passagiersitzheizungen an
 Ich brauche die Passagiersitzheizungen
 Passagiersitzheizungen an bitte
 Kannst du die Passagiersitzheizungen einschalten
+Passagiersitzheizungen ein
+Sitzheizungen der Passagiere an bitte
+Schalte Passagiersitzheizungen an
 Schalte Passagiersitzheizungen aus
 Deaktivier Passagiersitzheizungen
 Hilf mir beim Ausschalten der Passagiersitzheizungen
@@ -795,334 +954,699 @@ Mach die Passagiersitzheizungen aus
 Ich brauche die Passagiersitzheizungen nicht mehr
 Passagiersitzheizungen aus bitte
 Kannst du die Passagiersitzheizungen ausschalten
+Schalte Passagiersitzheizungen aus
+Sitzheizungen der Passagiere aus bitte
+Schalte Passagiersitzheizungen aus
 Schalte Rücksitzheizung ein
-Aktivier Rücksitzheizung 
-Hilf mir beim Einschalten der Rücksitzheizung 
+Aktivier Rücksitzheizung
+Hilf mir beim Einschalten der Rücksitzheizung
 Mach die Rücksitzheizung an
-Ich brauche die Rücksitzheizung 
+Ich brauche die Rücksitzheizung
 Rücksitzheizung an bitte
 Kannst du die Rücksitzheizung einschalten
+Alle Rücksitzheizungen an
+Aktivier bitte alle Sitzheizungen der Rücksitze
+Heizung für die Rücksitze an
 Schalte Rücksitzheizung aus
-Deaktivier Rücksitzheizung 
-Hilf mir beim Ausschalten der Rücksitzheizung 
+Deaktivier Rücksitzheizung
+Hilf mir beim Ausschalten der Rücksitzheizung
 Mach die Rücksitzheizung aus
 Ich brauche die Rücksitzheizung nicht mehr
 Rücksitzheizung aus bitte
-Kannst du Rücksitzheizung ausschalten
-Schalte alle Kühler der Passagiersitze ein
-Aktivier alle Kühler der Passagiersitze
-Ich brauche alle Kühler der Passagiersitze
-Mach alle Kühler der Passagiersitze an
-Ich möchte alle Kühler der Passagiersitze einschalten
-Schalte alle Kühler der Passagiersitze aus
-Deaktivier alle Kühler der Passagiersitze
-Ich brauche Kühler der Passagiersitze nicht mehr
-Mach alle Kühler der Passagiersitze aus
-Ich möchte alle Kühler der Passagiersitze ausschalten
-Schalte Kühler der Rücksitze ein
-Aktivier Kühler der Rücksitze
-Ich brauche Kühler der Rücksitze
-Mach Kühler der Rücksitze an
-Ich möchte Kühler der Rücksitze einschalten
-Schalte Kühler der Rücksitze aus
-Deaktivier Kühler der Rücksitze
-Ich brauche Kühler der Rücksitze nicht mehr
-Mach Kühler der Rücksitze aus
-Ich möchte Kühler der Rücksitze ausschalten
+Kannst du die Rücksitzheizung ausschalten
+Rücksitzheizung ausschalten
+Heizung der Rücksitze auschalten
+Heizung für die Rücksitze deaktivieren
+Schalte alle Sitzbelüftung der Passagiersitze ein
+Aktivier alle Sitzbelüftung der Passagiersitze
+Ich brauche alle Sitzbelüftung der Passagiersitze
+Mach alle Sitzbelüftung der Passagiere an
+Ich möchte alle Sitzbelüftung der Passagiere einschalten
+Kannst du alle Sitzbelüftung für die Passagiere anmachen
+Ich möchte alle Passagiersitzbelüftung an
+Alle Passagiersitzbelüftung an
+Schalte alle Sitzbelüftung der Passagiersitze aus
+Deaktivier alle Sitzbelüftung der Passagiersitze
+Ich brauche Sitzbelüftung der Passagiersitze nicht mehr
+Mach alle Sitzbelüftung der Passagiere aus
+Ich möchte alle Sitzbelüftung der Passagiere ausschalten
+Kannst du alle Sitzbelüftung für die Passagiere ausmachen
+Ich möchte alle Passagiersitzbelüftung aus
+Alle Passagiersitzbelüftung aus
+Schalte Sitzbelüftung der Rücksitze ein
+Aktivier Sitzbelüftung der Rücksitze
+Ich brauche die Sitzbelüftung der Rücksitze
+Mach die Sitzbelüftung der Rücksitze an
+Ich möchte die Sitzbelüftung für alle Rücksitze einschalten
+Mach die Belüftung für alle Rücksitze an
+Ich möchte alle Sitzbelüftung der Rücksitze einschalten
+Kannst du die Belüftung für alle Rücksitze anmachen
+Ich möchte die Belüftung für alle Rücksitze anmachen
+Belüftung für alle Rücksitze an
+Schalte Sitzbelüftung der Rücksitze aus
+Deaktivier Sitzbelüftung der Rücksitze
+Ich brauche die Sitzbelüftung der Rücksitze nicht mehr
+Mach die Sitzbelüftung der Rücksitze aus
+Ich möchte die Sitzbelüftung für alle Rücksitze ausschalten
+Mach die Belüftung für alle Rücksitze aus
+Ich möchte alle Sitzbelüftung der Rücksitze ausschalten
+Kannst du die Belüftung für alle Rücksitze ausmachen
+Ich möchte die Belüftung für alle Rücksitze ausmachen
+Belüftung für alle Rücksitze aus
 Die Lüftung auf maximaler Stufe
-Stell die Lüftung auf maximaler Stufe
+Stell die Lüftung auf maximale Stufe
 Ich brauche Lüftung auf maximaler Stufe
-Ich will Lüftung auf maximaler Stufe
-Die Lüftung auf minimaler Stufe
-Stell die Lüftung auf minimaler Stufe
+Ich will die Lüftung auf maximale Stufe
+Kannst du die Lüftung auf maximale Stufe stellen
+Ich möchte die Lüftung auf maximale Stufe stellen
+Lüftung auf Maximum
+Lüftung auf maximal
+Lüftung auf höchste Stufe
+Stell bitte die Lüftung auf die höchste Stufe
+Die Lüftung auf minimale Stufe
+Stell die Lüftung auf minimale Stufe
 Ich brauche Lüftung auf minimaler Stufe
-Ich will Lüftung auf minimaler Stufe
+Ich will die Lüftung auf minimale Stufe
+Kannst du die Lüftung auf minimale Stufe stellen
+Ich möchte die Lüftung auf minimale Stufe stellen
+Lüftung auf Minimum
+Lüftung auf maximal
+Lüftung auf niedrigste Stufe
+Stell bitte die Lüftung auf die niedrigste Stufe
 Schalte Klimaanlage der Fahrerzone ein
-Aktivier Klimaanlage der Fahrerzone ein
-Hilf mir beim Einschalten der Klimaanlage der Fahrerzone
-Mach Klimaanlage der Fahrerzone an
+Aktivier Klimaanlage der Fahrerzone
+Kannst du die Klimaanlage der Fahrerzone einschalten
+Mach die Klimaanlage der Fahrerzone an
 Ich brauche die Klimaanlage der Fahrerzone
 Klimaanlage der Fahrerzone an bitte
+Schalte Klimaanlage für die Fahrerzone ein
+Aktivier Klimaanlage für die Fahrerzone
+Mach die Klimaanlage für die Fahrerzone an
 Schalte Klimaanlage der Fahrerzone aus
 Deaktivier Klimaanlage der Fahrerzone ein
-Hilf mir beim Ausschalten der Klimaanlage der Fahrerzone
+Kannst du die Klimaanlage der Fahrerzone einschalten
 Mach Klimaanlage der Fahrerzone aus
 Ich brauche die Klimaanlage der Fahrerzone nicht mehr
 Klimaanlage der Fahrerzone aus bitte
+Schalte Klimaanlage für die Fahrerzone aus
+Deaktivier Klimaanlage für die Fahrerzone
+Mach die Klimaanlage für die Fahrerzone aus
 Schalte die Klimaanlage der Passagierzone ein
 Aktivier Klimaanlage der Passagierzone
 Hilf mir beim Einschalten der Klimaanlage der Passagierzone
 Mach die Klimaanlage der Passagierzone an
-Ich brauche Klimaanlage der Passagierzone
+Ich brauche die Klimaanlage der Passagierzone
 Klimaanlage der Passagierzone an bitte
 Ich möchte die Klimaanlage der Passagierzone einschalten
-Schalte die Klimaanlage der Passagierzone aus/
+Schalte Klimaanlage für die Passagierzone ein
+Aktivier Klimaanlage für die Passagierzone
+Kannst du die Klimaanlage der Passagierzone einschalten
+Schalte die Klimaanlage der Passagierzone aus
 Deaktivier Klimaanlage der Passagierzone
 Hilf mir beim Ausschalten der Klimaanlage der Passagierzone
 Mach die Klimaanlage der Passagierzone aus
 Ich brauche Klimaanlage der Passagierzone nicht mehr
 Klimaanlage der Passagierzone aus bitte
-Ich möchte die Klimaanlage der Passagierzone einschalten
+Ich möchte die Klimaanlage der Passagierzone ausschalten
+Schalte Klimaanlage für die Passagierzone aus
+Deaktivier Klimaanlage für die Passagierzone
+Kannst du die Klimaanlage der Passagierzone ausschalten
 Spiel Musik
+Gehe zu Musik
 Musik bitte
+Musik starten
+Starte Musik
 Ich will Musik hören
+Ich möchte Musik hören
 Ich brauche Musik
-Spiel Musik vom USB-Stick ab
-Musik vom USB-Stick
-Ich will Musik vom USB-Stick 
-Hör Musik vom USB-Stick
-Spiel Musik vom Bluetooth ab
-Musik vom Bluetooth
-Ich will Musik vom Bluetooth
-Hör Musik vom Bluetooth
+Ich will Musik
+Ich möchte Musik
+Ich möchte Musik via USB
+Musik via USB
+Spiel Musik via USB ab
+Musik via USB
+Ich will Musik via USB
+Musik via USB abspielen
+USB abspielen
+Starte Musik via USB
+Musik via USB starten
+Ich möchte Musik via USB abspielen
+Hör Musik via USB
+Ich möchte Musik via Bluetooth
+Musik via Bluetooth
+Spiel Musik via Bluetooth ab
+Musik via Bluetooth
+Ich will Musik via Bluetooth
+Ich will Musik via Bluetooth
+Musik via Bluetooth abspielen
+Musik via Bluetooth abspielen
+Starte Musik via Bluetooth
+Hör Musik via Bluetooth
 Lautlos
-Aktivier den Modus Lautlos
+Aktivier Stummschaltung
 Stell auf Lautlos
+Stell auf Stumm
+Aktivier Modus Stumm
+Musik stumm
+Stummschaltung aktivieren
+Musik lautlos
+Stummschaltung an
+Stummschaltung ein
+Stummschaltung deaktivieren
+Deaktivier Stummschaltung
 Ton
 Aktivier den Modus Ton
 Stell auf Ton
+Stummschaltung aufheben
+Stummschaltung ausschalten
+Stummschaltung aus
+Musik stopppen
 Ich will Musik nicht mehr hören
-Stopp Musik 
+Stopp Musik
+Musik beenden
+Musik spielen beenden
+beende Musik
 Ich will keine Musik mehr
-Spiel Musik 
-Ich will Musik sofort 
+Spiel Musik
+Starte Musik
+Ich will Musik sofort
+Starte Lied
 Ich brachue Musik
+Starte das Lied
+Lied starten
+Musik starten
 Ich will Musik hören
-pausier die Musik 
-stopp Musik 
+pausier die Musik
+stopp Musik
+Musik stoppen
 keine Musik mehr
 Ich will nicht mehr Musik hören
+Musik pausieren
+Lied stoppen
+Lied pausieren
+Pausiere Lied
+Alles wiederholen
 Wiederhol alle Lieder
+Alle Lieder wiederholen
 Ich möchte alle Lieder noch einmal abspielen
+Alle Lieder einmal wiederholen
 Ich möchte alle Lieder noch einmal hören
-Spiel alle Lieder in meiner Lister noch einmal ab
+Spiel alle Lieder in meiner Liste noch einmal ab
 Spiel das Album noch einmal ab
+Aktivier Schleifenmodus
+Schleifenmodus aktivieren
+Lied wiederholen
+Wiederhol das Lied
+Wiederhol dieses Lied
+Lied nochmal abspielen
 Ich möchte dieses Lied noch einmal hören
 Spiel dieses Lied noch einmal ab
+Lied nochmal hören
+Dieses Lied nochmal hören
+Dieses Lied noch einmal abspielen
+Dieses Lied noch einmal anhören
 Hör auf, die Lieder zu wiederholen
-Hör auf, Musik wiederzugeben
-Unterbrich die Wiedergabe der Lieder
-Stopp den Wiedergabemodus
-Verwende nicht mehr den Wiedergabemodus 
+Schleifenmodus deaktivieren
+deaktiviere Schleifenmodus
+Stopp Wiederholungsmodus
+Stopp Lieder zu wiederholen
+Wiederholung von Liedern stoppen
+Wiederholung Lieder stoppen
+Nicht mehr Lieder wiederholen
+Stopp den Wiederholungsmodus
+Verwende nicht mehr den Wiederholungsmodus
 Spiel Musiktitel in zufälliger Reihenfolge ab
 Spiel die Lieder zufällig ab
 Aktivier den Shuffle-Modus
 Wähl den Shuffle-Modus aus
-Spiele dieses Album nach dem Zufallsprinzip ab.
+Zufallswiedergabe aktivieren
 Ich möchte Musik im Shuffle-Modus hören
+Zufällige Wiedergabe aktivieren
 Hör Musik im Shuffle-Modus
+aktiviere zufällige Wiedergabe
+Shuffle-Modus aktivieren
 Deaktivier die Zufallswiedergabe
 Deaktivier den Shuffle-Modus
+Zufallswiedergabe deaktivieren
+Shuffle-Modus deaktivieren
+deaktivier zufällige Wiedergabe
 Hör auf, dieses Album zufällig abzuspielen.
-Hör "Baby Shark"
+Zufällige Wiedergabe deaktivieren
+Spiel das Lied Wenn sie tanzt ab
+Ich möchte das Lied Lieblingsmensch hören
+Ich will das Lied Besser mit dir hören
+Das Lied Der Weg bitte
+Spiel den Song Sowieso ab
+Der Song An Wunder bitte
+abspielen Das Wenigste
+Kannst du das Lied Alles neu abspielen
+Ich möchte das Lied Wir sind groß hören
 Öffne Musik-App
 Öffne Mediaplayer
+Gehe zu Musik-App
+Gehe zu Mediaplayer
+Wechsel zu Musik-App
+Wechsel zu Mediaplayer
 Zugriff auf Mediaplayer
 Zugriff auf Musik-App
+Musik-App öffnen
+Mediaplayer öffnen
 Das nächste Lied bitte
 Spring zum nächsten Lied
 Nächster Titel
+Nächstes Lied
 Ich will das nächste Lied
-Hör das nächste Lied
+Ich möche das nächste Lied
 Das nächste Lied
 Ich will das nächste Lied hören
 Spiel das nächste Lied ab
+Nächstes Lied abspielen
 Spiel das vorherrige Lied ab
-Voriger Titel
+Vorheriger Titel
+Ich möche das vorherige Lied hören
+Vorheriges Lied
 Ich will das vorherige Lied hören
 Ich will das vorherige Lied
-Hör das vorherige Lied
+vorheriges Lied abspielen
 Spring zum vorherigen Lied
+Vorheriger Titel abspielen
 Das vorherige Lied bitte
 Mach das Radio an
 Schalte das Radio ein
+Radio an
 Ich möchte Radio hören
-Hör Radio
-Kannst du das Radio einschalten?
-Kannst du das Radio anmachen?
+Radio hören
+Kannst du das Radio einschalten
+Kannst du das Radio anmachen
 Radio bitte
+Radion anmachen
+Radio einschalten
 Mach das Radio FM an
 Schalte das Radio FM ein
-Hör Radio FM
+Starte Radio FM
+Radio FM starten
+Radio FM anschalten
+Radio FM hören
 Radio FM bitte
+Radio FM anmachen
 Kannst du das Radio FM anmachen
 Kannst du das Radio FM einschalten
 Ich möchte Radio FM hören
 Mach das Radio AM an
 Schalte das Radio AM ein
-Hör Radio AM
+Starte Radio AM
+Radio AM starten
+Radio AM anschalten
+Radio AM hören
 Radio AM bitte
-Kannst du das Radio AM einschalten?
-Kannst du das Radio AM sofort anmachen?
-Mach das Radio 101 Hz an 
-Schalte das Radio 100 MHz ein
+Radio AM anmachen
+Kannst du das Radio AM anmachen
+Kannst du das Radio AM einschalten
+Ich möchte Radio AM hören
+Wechsle zur Frequenz 101 Hz an
+Schalte die Frequenz 100 MHz ein
 Mach das Radio FM auf der Frequenz 96.5 MHz an
 Such die Frequenz 102.7 MHz
 Mach das 675-KHz-Radio an
 Radio AM auf der Frequenz 675 KHz
-Stell das Radio auf der Frequenz 101 Hz ein
+Stell das Radio auf die Frequenz 101 Hz ein
 Hör Radio auf der Frequenz 100 MHz
 Hör Radio FM 96.5 MHz
 Radio AM 549 KHz
+Öffne Deutschlandfunk Kultur
+Wechsle zu Deutschlandfunk Nova
+B5 aktuell hören
+Der Radiosender Bayern 1
+Spring zu MDR Sachsen
+Ich will Radio MDR Klassik hören
+Hör NDR Blue
+Schalte zu Bremen Next
+Zu Antenne Brandenburg schalten
+Ich möchte BR Verkehr hören
 der vorherige Radiosender
 vorheriger Radiosender
-Spring zur vorherigen Sendung
-Ich möchte die vorherige Sendung hören
-Die vorherige Sendung bitte
-Diese Sendung ist langweilig. Die vorherige Sendung bitte
-Die nächste Radiosendung
-Der nächste Radiosender bitte
-Die nächste Radiosendung
-Ich möchte die nächste Sendung hören
-Spring zur nächsten Radiosendung
-Hör die nächste Sendung
+Spring zum vorherigen Sender
+Ich möchte den vorherigen Sender hören
+Der vorherige Sender bitte
+Ich möchte den vorherigen Sender
+Ich will den vorherigen Sender hören
+Zum vorherigen Sender wechseln
+Vorheriger Sender
+Bitte den vorherigen Sender
+Springe zum vorherigen Radiosender
+Der nächste Radiosender
+nächster Radiosender
+Spring zum nächsten Sender
+Ich möchte den nächsten Sender hören
+Der nächste Sender bitte
+Ich möchte den nächsten Sender
+Ich will den nächsten Sender hören
+Zum nächsten Sender wechseln
+nächster Sender
+Bitte den nächsten Sender
+Springe zum nächsten Radiosender
 Mach das Radio aus
 Stopp das Radio
+Radio ausschalten
 Das Radio aus
 Ich will nicht mehr Radio hören
+Radio ausmachen
+Radio stoppen
 Schalte sofort das Radio aus
-Kannst du das Radio ausmachen?
+Kannst du das Radio ausmachen
 Öffne Heckklappe
 Mach den Kofferraum auf
 Ich möchte die Heckklappe öffnen
-Hilf mir bei der Öffnung der Heckklappe
+Öffne den Kofferraum
 Ich möchte den Kofferraum aufmachen
 Kannst du die Heckklappe öffnen
 Kannst du den Kofferraum aufmachen
+Kannst du den Kofferraum öffnen
+Mach bitte den Kofferraum auf
+Bitte den Kofferraum aufmachen
 Öffne den Tankdeckel
 Öffne die Tankklappe
 Öffne den Tankverschluss
+Tankverschluss öffnen
+Tankklappe aufmachen
+Mach den Tankverschluss auf
+Kannst du die Tankklappe öffnen
+Kannst du den Tankdeckel öffnen
+Mach bitte den Tankdeckel auf
+Bitte den Tankdeckel aufmachen
 Klapp die Spiegel ein
 Klapp die Außenspiegel an
 Ich möchte die Spiegel einklappen
 Kannst du die Spiegel einklappen
 Ich möchte die Spiegel anklappen
 Kannst du die Spiegel anklappen
+Ich möchte die Außenspiegel einklappen
+Kannst du die Außenspiegel einklappen
+Ich möchte die Außenspiegel anklappen
+Kannst du die Außenspiegel anklappen
 Klapp die Spiegel aus
 Klapp die Außenspiegel aus
 Ich möchte die Spiegel ausklappen
 Kannst du die Spiegel ausklappen
 Ich möchte die Spiegel abklappen
 Kannst du die Spiegel abklappen
+Ich möchte die Außenspiegel ausklappen
+Kannst du die Außenspiegel ausklappen
+Ich möchte die Außenspiegel abklappen
+Kannst du die Außenspiegel abklappen
 Verstell die Spiegel
 Stell die Spiegel ein
-Wie kann ich die Spiegel einstellen?
+Spiegel einstellen
+Ich möchte die Spiegel einstellen
+Wie kann ich die Spiegel einstellen
+Spiegel verstellen
 Ich möchte die Spiegel verstellen
-Wie kann ich die Spiegel einstellen?
+Wie kann ich die Spiegel einstellen
+Ich will die Spiegel verstellen
 Ich will die Spiegel einstellen
 Öffne das Schiebedachglas
+Das Schiebedachglas öffnen
 Ich möchte das Schiebedachglas öffnen
 Kannst du das Schiebedachglas öffnen
-Öffne das Schiebedachglas etwas mehr
+Öffne das Glas des Schiebedachs
+Öffne das Glas vom Schiebedach
+Glas vom Schiebedach aufmachen
+Glas des Schiebedachs aufmachen
+Ich will das Schiebedachglas öffnen
+Mach das Schiebedachglas auf
+Öffne das Schiebedachglas etwas
 Heben das Schiebedachglas ein bisschen mehr an
 Ich möchte das Schiebedachglas ein bisschen mehr anheben
-Ich möchte das Schiebedachglas etwas mehr öffnen
+Ich möchte das Schiebedachglas etwas öffnen
+Öffne das Schiebedachglas etwas mehr
+Öffne das Schiebedachglas ein bisschen
+Schiebedachglas etwas öffnen
+Schiebedachglas etwas mehr öffnen
+Schiebedachglas ein bisschen öffnen
+Schiebedachglas ein bisschen mehr öffnen
 Schließe das Schiebedachglas
+Schiebedachglas schließen
+Schiebedachglas zumachen
+Glas vom Schiebedach zumachen
 Ich möchte das Schiebedachglas schließen
-Schließe das Schiebedachglas etwas mehr
+Schließe das Glas vom Schiebedach
+Glas vom Schiebedach schließen
+Glas des Schiebedachs schließen
+Ich will das Schiebedachglas zumachen
+Kannst du das Glas vom Schiebedach schließen
+Schließe das Schiebedachglas etwas
 Schließe das Schiebedachglas ein bisschen mehr
+Ich möchte das Schiebedachglas ein bisschen mehr schließen
+Ich möchte das Schiebedachglas etwas schließen
+Schließe das Schiebedachglas etwas mehr
+Schließe das Schiebedachglas ein bisschen
+Schiebedachglas etwas zumachen
+Schiebedachglas etwas mehr zumachen
+Schiebedachglas ein bisschen zumachen
+Schiebedachglas ein bisschen mehr schließen
 Öffne das Schiebedach
+Das Schiebedach öffnen
 Ich möchte das Schiebedach öffnen
 Kannst du das Schiebedach öffnen
-Öffne das Schiebedach etwas mehr
-Heben das Schiebedach ein bisschen mehr an
+Schiebedach aufmachen
+Mach das Schiebedach auf
+Ich möchte das Schiebedach aufmachen
+Schiebedachs aufmachen
+Ich will das Schiebedachglas öffnen
+Kannst du das Schiebedach aufmachen
+Öffne das Schiebedach etwas
+Hebe das Schiebedach ein bisschen mehr an
 Ich möchte das Schiebedach ein bisschen mehr anheben
+Ich möchte das Schiebedach etwas öffnen
 Ich möchte das Schiebedach etwas mehr öffnen
+Öffne das Schiebedach etwas mehr
+Mach das Schiebedach etwas mehr auf
+Schiebedach etwas mehr aufmachen
+Schiebedach ein bisschen aufmachen
+Öffne das Schiebedach ein bisschen mehr
 Schließe das Schiebedach
+Schiebedach schließen
+Schiebedach zumachen
+Mach das Schiebedach zu
 Ich möchte das Schiebedach schließen
-Schließe das Schiebedach etwas mehr
+Schließe das Schiebedach
+Kannst du das Schiebedach schließen
+Kannst du das Schiebedach zumachen
+Ich will das Schiebedach schließen
+Ich will das Schiebedach zumachen
+Schließe das Schiebedach etwas
 Schließe das Schiebedach ein bisschen mehr
-Klapp die Blende für das Schiebedach herunter 
-Machen die Blende für das Schiebedach zu
-Kannst du die Blende für das Schiebedach zumachen?
-Kannst du die Blende für das Schiebedach herunterklappen?
-Klapp die Blende ein bischen mehr herunter 
+Ich möchte das Schiebedach etwas mehr schließen
+Schließe das Schiebedach etwas mehr
+Mach das Schiebedach etwas mehr zu
+Schiebedach etwas mehr zumachen
+Schiebedach ein bisschen zumachen
+Schließe das Schiebedach ein bisschen mehr
+Schiebedach ein bisschen mehr schließen
+Schiebedach ein bisschen mehr zumachen
+Klapp die Blende für das Schiebedach herunter
+Mach die Blende für das Schiebedach zu
+Kannst du die Blende für das Schiebedach zumachen
+Kannst du die Blende für das Schiebedach herunterklappen
+Sonnenschutz vom Schiebedach zumachen
+Schiebedachsonnenschutz herunterklappen
+Sonnenschutz vom Schiebedach schließen
+Schließe die Blende vom Schiebedach
+Ich möchte die Blende vom Schiebedach schließen
+Schließe den Sonnenschutz vom Schiebedach
+Klapp die Blende ein bisschen herunter
 Mach die Blende ein bisschen mehr zu
+Klapp die Blende ein bisschen mehr herunter
+Schließe die Blende vom Schiebedach etwas
+Schließe die Blende etwas mehr
+Sonnenschutz etwas schließen
+Sonnenschutz etwas mehr zumachen
+Schließe die Blende vom Schiebedach etwas mehr
+Schließe die Blende vom Schiebedach mehr
+Sonnenschutz vom Schiebedach etwas schließen
+Sonnenschutz vom Schiebedach etwas mehr zumachen
+Kannst du den Sonnenschutz vom Schiebedach etwas mehr zumachen
 Öffne die Blende für das Schiebedach
 Machen die Blende für das Schiebedach auf
-Kannst du die Blende für das Schiebedach aufmachen?
-Kannst du die Blende für das Schiebedach öffnen?
-Hilf mir beim Aufmachen der Blende
+Kannst du die Blende für das Schiebedach aufmachen
+Kannst du die Blende für das Schiebedach öffnen
+Sonnenschutz vom Schiebedach aufmachen
+Schiebedachsonnenschutz öffnen
+Sonnenschutz vom Schiebedach öffnen
+Öffne die Blende vom Schiebedach
+Ich möchte die Blende vom Schiebedach aufmachen
+Öffne den Sonnenschutz vom Schiebedach
 Öffne die Blende ein bisschen mehr
 Machen die Blende ein bisschen mehr auf
 Kannst du die Blende ein bisschen mehr aufmachen
 Kannst du die Blende ein bisschen mehr öffnen
-Schalte den automatischen Scheinwerfer ein
-Mach den automatischen Scheinwerfer an
-Kannst du den automatischen Scheinwerfer einschalten?
-Kannst du den automatischen Scheinwerfer anmachen?
-Aktiver den automatischen Scheinwerfer
-Schalte den automatischen Scheinwerfer aus
-Mach den automatischen Scheinwerfer aus
-Deaktiver den automatischen Scheinwerfer
-Erhöhe die Helligkeit der Innenraumbeleuchtung
-Ich möchte die Helligkeit der Innenraumbeleuchtung erhöhen
-Verringere die Helligkeit der Innenraumbeleuchtung
-Senk die Helligkeit der Innenraumbeleuchtung
+Öffne den Sonnenschutz etwas mehr
+Sonnenschutz etwas öffnen
+Sonnenschutz etwas mehr aufmachen
+Öffne die Blende vom Schiebedach etwas mehr
+Öffne die Blende vom Schiebedach ein bisschen mehr
+Sonnenschutz vom Schiebedach etwas öffnen
+Sonnenschutz vom Schiebedach etwas mehr aufmachen
+Kannst du den Sonnenschutz vom Schiebedach etwas mehr aufmachen
+Sonnenschutz etwas mehr öffnen
+Schalte das automatische Fernlicht ein
+Schalte den Fernlichtassistenten ein
+Kannst du den Fernlichtassistenten einschalten
+Kannst du den Fernlichtassistenten anmachen
+Aktiver das automatische Fernlicht
+Schalte die Fernlichtautomatik an
+Fernlichtautomatik an
+automatisches Fernlicht einschalten
+Fernlichtassisten an
+Mach die Fernlichtautomatik an
+Schalte das automatische Fernlicht aus
+Schalte den Fernlichtassistenten aus
+Kannst du den Fernlichtassistenten ausschalten
+Kannst du den Fernlichtassistenten ausmachen
+Deaktiver das automatische Fernlicht
+Schalte die Fernlichtautomatik aus
+Fernlichtautomatik aus
+automatisches Fernlicht ausschalten
+Fernlichtassisten aus
+Mach die Fernlichtautomatik aus
+Erhöhe die Helligkeit des Innenlichts
+Ich möchte die Helligkeit des Innenlichts erhöhen
+Innenlicht heller
+Licht im Innenraum erhöhen
+Licht im Auto erhöhen
+Licht im Innenraum heller
+Lich im Auto heller
+Mache das Licht im Auto heller
+Mache den Innenraum heller
+Kannst du die Innenraumbeleuchtung heller machen
+Verringere die Helligkeit des Innenlichts
+Ich möchte die Helligkeit des Innenlichts verringern
+Innenlicht dunkler
+Licht im Innenraum verringern
+Licht im Auto verringern
+Licht im Innenraum dunkler
+Lich im Auto dunkler
+Mache das Licht im Auto dunkler
+Mache den Innenraum dunkler
+Kannst du die Innenraumbeleuchtung dunkler machen
 Schalte das Innenlicht ein
 Mach das Innenlicht an
 Kannst du das Innenlicht einschalten
 Kannst du das Innenlicht anmachen
 Ich möchte das Innenlicht einschalten
 Ich möchte das Innenlicht anmachen
+Innenlicht ein
+Innenlicht an
+Innenlicht einschalten
+Licht im Auto einschalten
 Schalte das Innenlicht aus
 Mach das Innenlicht aus
 Kannst du das Innenlicht ausschalten
 Kannst du das Innenlicht ausmachen
 Ich möchte das Innenlicht ausschalten
 Ich möchte das Innenlicht ausmachen
+Innenlicht aus
+Mach das Licht im Auto aus
+Innenlicht ausschalten
+Licht im Auto ausschalten
 Aktivier den Eco-Modus
 Ich möchte den Eco-Modus
 Ich brauche den Eco-Modus
 Starte den Eco-Modus
 Fahr im Eco-Modus
+Eco-Modus an
+Eco-Modus aktivieren
+Eco-Modus starten
+Im Eco-Modus fahren
+Starte Eco-Modus
+Zum Eco-Modus wechseln
 Aktivier den Komfort-Modus
 Ich möchte den Komfort-Modus
 Starte den Komfort-Modus
 Ich brauche den Komfort-Modus
 Fahr im Komfort - Modus
+Komfort-Modus aktivieren
+Komfort-Modus starten
+Komfort-Modus an
+Starte Komfort-Modus
+Zum Komfort-Modus wechseln
 Aktivier den Sport-Modus
 Ich möchte den Sport-Modus
 Starte den Sport-Modus
 Ich brauche den Sport-Modus
 Fahr im Sport-Modus
+Sport-Modus aktivieren
+Sport-Modus starten
+Sport-Modus an
+Starte Sport-Modus
+Zum Sport-Modus wechseln
 Aktivier das HUD
-Öffne das HUD
+Öffne das Head-up-Display
 Starte das HUD
 Zeig mir das HUD
 Schalte das HUD ein
+Head-up-Display ein
+HUD an
+Ich möchte das HUD sehen
+Head-up-Display aktivieren
+HUD starten
 Deaktivier das HUD
-Schließ das HUD
+Schließ das Head-up-Display
 Stopp das HUD
 Schalte das HUD aus
-Schalte automatische Leselampe ein
-Aktivier automatische Leselampe
-Mach automatische Leselampe an
+HUD ausschalten
+Head-up-Display aus
+Schalte HUD aus
+Ich möchte das HUD nicht mehr sehen
+Head-up-Display deaktivieren
+HUD beenden
+Schalte automatisches Innenlicht ein
+Aktivier automatisches Innenlicht
+Mach automatisches Innenlicht an
+automatisches Innenlicht aktivieren
+automatisches Innenlicht anschalten
+Kannst du das automatische Innenlicht aktivieren
+Automatisches Innenlicht an
 WLAN
 Zeig mir WLAN
 Aktivier WLAN
 Schalte WLAN ein
 Zugriff aufs Internet
 Ich brauche WLAN
+WLAN aktivieren
+Mit WLAN verbinden
+WLAN an
 Schalte WLAN aus
 Deaktiver WLAN
 Ich brauche WLAN nicht mehr
-Unterbrich WLAN 
+Unterbrich WLAN
+WLAN deaktivieren
+WLAN Verbindung trennen
+WLAN aus
+WLAN ausschalten
 Bluetooth
 Aktivier Bluetooth
 Nutze Bluetooth
 Schalte Bluetooth ein
 Ich möchte Bluetooth
 Ich brauche Bluetooth
+Bluetooth aktivieren
+Bluetooth an
+Bluetooth ein
+Mit Bluetooth verbinden
 Stopp Bluetooth
 Deaktivier Bluetooth
-Unterbrich Bluetooth-Verbindung 
+Unterbrich Bluetooth-Verbindung
 Schalte Bluetooth aus
 Ich brauche Bluetooth nicht mehr
+Bluetooth ausschalten
+Bluetooth deaktivieren
+Bluetooth Verbindung trennen
+Bluetooth aus
 Öffne das Schiebedach 10%
 Öffne das Schiebedach 50%
 Ich möchte das Schiebedach 70% öffnen
-Kannst du das Schiebedach öffnen
+Kannst du das Schiebedach 50 % öffnen
 Öffne das Schiebedach 90%
 Öffne das Schiebedach 100%
 Öffne das Schiebedach 0%
@@ -1139,7 +1663,6 @@ Schließe das Schiebedach 10%
 Schließe das Schiebedach 37%
 Schließe das Schiebedach 25%
 Schließe das Schiebedach circa 18%
-Öffne das Schiebedach X %
 Öffne das Schiebedachglas 10%
 Öffne das Schiebedachglas 50%
 Ich möchte das Schiebedachglas 70% öffnen
@@ -1150,7 +1673,6 @@ Kannst du das Schiebedachglas öffnen
 Öffne das Schiebedachglas 37%
 Öffne das Schiebedachglas 25%
 Öffne das Schiebedachglas circa 18%
-Schließe das Schiebedachglas X %
 Schließe das Schiebedachglas 10%
 Schließe das Schiebedachglas 50%
 Schließe das Schiebedachglas 70%
@@ -1163,42 +1685,64 @@ Schließe das Schiebedachglas 25%
 Schließe das Schiebedachglas circa 18%
 Öffne die Blende für das Schiebedach 10%
 Machen die Blende für das Schiebedach 50% auf
-Kannst du die Blende für das Schiebedach 70% aufmachen?
-Kannst du die Blende für das Schiebedach 75% öffnen?
-Öffne die Blende für das Schiebedach 90%
-Öffne die Blende für das Schiebedach 100%
+Kannst du die Blende für das Schiebedach 70% aufmachen
+Kannst du die Blende für das Schiebedach 75% öffnen
+Öffne den Sonnenschutz für das Schiebedach 90%
+Öffne den Sonnenschutz für das Schiebedach 100%
 Öffne die Blende für das Schiebedach 10%
 Öffne die Blende für das Schiebedach 37%
 Öffne die Blende für das Schiebedach 25%
 Öffne die Blende für das Schiebedach 18%
-Klapp die Blende für das Schiebedach 10% herunter 
+Klapp die Blende für das Schiebedach 10% herunter
 Machen die Blende für das Schiebedach 50% zu
-Kannst du die Blende für das Schiebedach 70% zumachen?
-Kannst du die Blende für das Schiebedach 75% herunterklappen?
-Machen die Blende für das Schiebedach 90% zu
-Machen die Blende für das Schiebedach 100% zu
+Kannst du die Blende für das Schiebedach 70% zumachen
+Kannst du die Blende für das Schiebedach 75% herunterklappen
+Machen den Sonnenschutz für das Schiebedach 90% zu
+Machen den Sonnenschutz für das Schiebedach 100% zu
 Machen die Blende für das Schiebedach 10% zu
 Machen die Blende für das Schiebedach 37% zu
 Machen die Blende für das Schiebedach 25% zu
 Machen die Blende für das Schiebedach circa 18% zu
-Schalte den Tageskilometerzähler ein
-Zeig mir die Trip-Anzeige 
+Starte den Tageskilometerzähler
+Zeig mir die Trip-Anzeige
+Ich brauche die Tageskilometeranzeige
 Ich möchte den Tageskilometerzähler sehen
+Zeig mir die Tageskilometeranzeige
 Ich brauche den Tageskilometerzähler
-Ich möchte den Tageskilometerzähler anzeigen
+Kannst du den Tageskilometerzähler anzeigen
+Tageskilometeranzeige aktiveren
 Zeig mir den Tageskilometerzähler an
-Schalte den aus Tageskilometerzähler aus
-Ich brauche nicht mehr den Tageskilometerzähler
+Zu Tageskilometerzähler wechseln
+Schalte den Tageskilometerzähler aus
+Ich brauche den Tageskilometerzähler nicht mehr
 Stopp den Tageskilometerzähler
-Schalte den Kilometerzähler ein
-Zeig mir den Kilometerzähler 
-Ich möchte den Kilometerzähler sehen
+Ich möchte den Tageskilometerzähler nicht mehr sehen
+Trip nicht mehr anzeigen
+Ich brauche den Tageskilometerzähler nicht mehr
+Tageskilometeranzeige schließen
+Tageskilometeranzeige deaktiveren
+deaktiviere Tageskilometeranzeige
+schließe Tageskilometeranzeige
+Kilometerzähler Anzeige aktivieren
+Kilometerstand Anzeige aktivieren
+Gehe zu Kilometerzähler
+Zeig mir den Kilometerzähler
+Ich möchte den Kilometerstand sehen
 Ich brauche den Kilometerzähler
-Ich möchte den Kilometerzähler anzeigen
+Kannst du den Kilometerzähler anzeigen
+Ich brauche den Kilometerstand
+Kilometerstandanzeige an
 Zeig mir den Kilometerzähler an
-Schalte den Kilometerzähler aus
-Ich brauche nicht mehr den Kilometerzähler 
-Stopp den Kilometerzähler
+Kilometerzähler Anzeige deaktivieren
+Kilometerstand Anzeige deaktivieren
+Ich brauche den Kilometerzähler nicht mehr
+Schalte die Kilometerzähler Anzeige aus
+Kilometerstandanzeige aus
+Kilometerzähleranzeige verlassen
+Deaktivere Anzeige von Kilometerstand
+Deaktivere Anzeige von Kilometerzähler
+Anzeige von Kilometerstand beenden
+Anzeige von Kilometerzählerbeenden
 Aktivier Einstellung des Displays
 Öffne Einstellung des Displays
 Starte Einstellung des Displays
@@ -1206,12 +1750,19 @@ Zeig mir die Einstellung des Displays
 Schalte Einstellung des Displays ein
 Ich möchte das Displays einzustellen
 Ich brauche Einstellung des Displays
+Öffne Displayeinstellung
+Starte Displayeinstellung
+Gehe zu Displayeinstellung
 Deaktivier Einstellung des Displays
 Schließ Einstellung des Displays
 Stopp Einstellung des Displays
 Schalte Einstellung des Displays aus
 Hör auf, das Displays einzustellen
 Unterbrich die Einstellung des Displays
+Schließe Displayeinstellung
+Beende Displayeinstellung
+Displayeinstellung beenden
+Displayeinstellung schließen
 Öffne die Einstellung der Lichter
 Stell die Lichter ein
 Zeig mir die Einstellung der Lichter
@@ -1220,24 +1771,38 @@ Schalte den Bilschirm für Einstellung der Lichter ein
 Ich möchte die Lichter einstellen
 Ich brauche die Einstellung der Lichter
 Aktivier Einstellung der Lichter
+Aktivier Lichteinstellung
+Gehe zu Lichteinstellung
 Schließe die Einstellung der Lichter
 Hör auf, Lichter einzustellen
 Schalte den Bildschirm für Einstellung der Lichter aus
 Ich brauche nicht mehr die Einstellung der Lichter
 Deaktivier Einstellung der Lichter
 Unterbrich die Einstellung der Lichter
+Schließe Lichteinstellung
+Beende Lichteinstellung
+Lichteinstellung beenden
+Lichteinstellung schließen
 Öffne Quick Control
 Zeig mir Quick Control
-Ich möchte den Bildschirm für Spiegeleinstellung sehen
+Kannst du Quick Control öffnen
+Quick Control anzeigen
 Schalte Quick Control ein
 Ich möchte Quick Control
 Ich brauche Quick Control
 Aktivier Quick Control
+Quick Control an
+Quick Control aktivieren
 Schließe Quick Control
+Quick Control aus
 Schalte Quick Control aus
-Ich brauche nicht mehr Quick Control
+Ich brauche Quick Control nicht mehr
 Deaktivier Quick Control
 Unterbrich Quick Control
+Quick Control beenden
+Quick Control schließen
+Quick Control Anzeige schließen
+Schließe Quick Control Anzeige
 Öffne die Einstellung der Türen
 Stell die Türen ein
 Zeig mir die Einstellung der Türen
@@ -1246,12 +1811,17 @@ Schalte den Bilschirm für Einstellung der Türen ein
 Ich möchte die Türen einstellen
 Ich brauche die Einstellung der Türen
 Aktivier Einstellung der Türen
+Gehe zu Türeinstellung
 Schließen die Einstellung der Türen
 Hör auf, Türen einzustellen
 Schalte den Bildschirm für Einstellung der Türen aus
 Ich brauche nicht mehr die Einstellung der Türen
 Deaktivier Einstellung der Türen
 Unterbrich die Einstellung der Türen
+Schließe Türeinstellung
+Bildschirm für Türeinstellung schließen
+Bildschirm für Türeinstellung beenden
+Einstellung von Türen beenden
 Öffne Spiegeleinstellung
 Stell die Spiegel ein
 Zeig mir den Bildschirm für Spiegeleinstellung
@@ -1260,12 +1830,18 @@ Schalte den Bilschirm für Spiegeleinstellung ein
 Ich möchte die Spiegel einstellen
 Ich brauche den Bildschirm für Spiegeleinstellung
 Aktivier Spiegeleinstellung
+Spiegeleinstellung anzeigen
+Gehe zu Spiegeleinstellung
 Schließe Spiegeleinstellung
 Hör auf, die Spiegel einzustellen
 Schalte den Bildschirm für Spiegeleinstellung aus
 Ich brauche nicht mehr den Bildschirm für Spiegeleinstellung
 Deaktivier Spiegeleinstellung
 Unterbrich Spiegeleinstellung
+Schließe Spiegeleinstellung
+Bildschirm für Spiegeleinstellung schließen
+Bildschirm für Spiegeleinstellung beenden
+Einstellung von Spiegel beenden
 Aktivier Einstellung des HUDs
 Öffne Einstellung des HUDs
 Starte Einstellung des HUDs
@@ -1273,49 +1849,78 @@ Zeig mir die Einstellung des HUDs
 Schalte Einstellung des HUDs ein
 Ich möchte das HUD einzustellen
 Ich brauche Einstellung des HUDs
+Aktivier HUD Einstellung
+HUD Einstellung anzeigen
+Gehe zu HUD Einstellung
 Deaktivier Einstellung des HUDs
 Schließ Einstellung des HUDs
 Stopp Einstellung des HUDs
 Schalte Einstellung des HUDs aus
 Hör auf, das HUD einzustellen
 Unterbrich die Einstellung des HUDs
-Stell Fahrassistenz-System ein
-Ich möchte den Bildschirm für Fahrassistenz-System sehen
-Schalte Fahrassistenz-Systeme ein
-Ich möchte Fahrassistenz-System einstellen
-Ich brauche Fahrassistenz-System
-Aktivier Fahrassistenz-System
-Stopp Fahrassistenz-System
-Hör auf, Fahrassistenz-System einzustellen
-Schalte Fahrassistenz-System aus
-Ich brauche nicht mehr Fahrassistenz-System
-Deaktivier Fahrassistenz-System
-Öffne Einparkhilfe
+Schließe HUD Einstellung
+Bildschirm für HUD Einstellung schließen
+Bildschirm für HUD Einstellung beenden
+Einstellung von HUD beenden
+Aktivier Fahrassistenz Einstellung
+Stell Fahrassistenz ein
+Zu Fahrassistenz-Einstellung wechseln
+Ich möchte den Bildschirm für Fahrassistenz Einstellung sehen
+Schalte Fahrassistenz Einstellung ein
+Ich möchte Fahrassistenz einstellen
+Kannst du die Einstellung für Fahrassistenz öffnen
+Fahrassistenz Einstellung aktivieren
+Gehe zu Fahrassistenz Einstellung
+Fahrassistenz Einstellung anzeigen
+Deaktivier Fahrassistenz Einstellung
+Hör auf, Fahrassistenz einzustellen
+Schalte Fahrassistenz Einstellung aus
+Ich brauche nicht mehr Fahrassistenz Einstellung
+Fahrassistenz Einstellung deaktivieren
+Fahrassistenz Einstellung aus
+Fahrassistenz Einstellung ausmachen
+Bildschirm für Fahrassistenz Einstellung schließen
+Bildschirm für Fahrassistenz Einstellung beenden
+Einstellung von Fahrassistenz beenden
+Öffne Einparkhilfe Einstellung
 Stell Einparkhilfe ein
-Zeig mir Einparkhilfe
-Ich möchte Einparkhilfe sehen
-Schalte den Bilschirm für Einparkhilfe ein
+Zeig mir Einparkhilfe Einstellung
+Ich möchte Einparkhilfe Einstellung sehen
+Schalte den Bilschirm für Einparkhilfe Einstellung ein
 Ich möchte Einparkhilfe einstellen
-Ich brauche Einparkhilfe
-Aktivier Einparkhilfe
-Schließe Einparkhilfe
+Ich möchte die Einstellung zu Einparkhilfe sehen
+Aktivier Einparkhilfe Einstellung
+Gehe zu Einparkhilfe Einstellung
+Einparkhilfe Einstellung anzeigen
+Schließe Einparkhilfe Einstellung
 Hör auf, Einparkhilfe einzustellen
-Schalte den Bildschirm für Einparkhilfe aus
-Ich brauche Einparkhilfe nicht mehr
-Deaktivier Einparkhilfe
-Öffne Soundeinstellung
-Stell den Sound ein
-Zeig mir den Bildschirm für Soundeinstellung
+Schalte den Bildschirm für Einparkhilfe Einstellung aus
+Ich brauche Einparkhilfe Einstellung nicht mehr
+Deaktivier Einparkhilfe Einstellung
+Einparkhilfe Einstellung aus
+Einparkhilfe Einstellung ausmachen
+Bildschirm für Einparkhilfe Einstellung schließen
+Bildschirm für Einparkhilfe Einstellung beenden
+Einstellung von Einparkhilfe beenden
+Öffne Audioeinstellung
+Stell Audio ein
+Zeig mir den Bildschirm für Audioeinstellung
 Ich möchte den Bildschirm für Soundeinstellung sehen
 Schalte den Bilschirm für Soundeinstellung ein
 Ich möchte den Sound einstellen
 Ich brauche den Bildschirm für Soundeinstellung
-Aktivier Soundeinstellung
-Schließe Soundeinstellung
+Aktivier Audioeinstellung
+Gehe zu Audioeinstellung
+Audioeinstellung anzeigen
 Hör auf, Sound einzustellen
-Schalte den Bildschirm für Soundeinstellung aus
+Schalte den Bildschirm für Audioeinstellung aus
 Ich brauche nicht mehr den Bildschirm für Soundeinstellung
-Deaktivier Soundeinstellung
+Deaktivier Audioeinstellung
+Audioeinstellung aus
+Soundeinstellung ausmachen
+Bildschirm für Audioeinstellung schließen
+Bildschirm für Audioeinstellung beenden
+Audioeinstellung beenden
 Öffne die Einstellung der Sprache
 Stell die Sprache ein
 Zeig mir die Einstellung der Sprache
@@ -1324,24 +1929,37 @@ Schalte den Bilschirm für Einstellung der Sprache ein
 Ich möchte die Sprache einstellen
 Ich brauche die Einstellung der Sprache
 Aktivier Einstellung der Sprache
+Gehe zu Spracheinstellung
+Spracheinstellung anzeigen
 Schließe die Einstellung der Sprache
 Hör auf, Sprache einzustellen
 Schalte den Bildschirm für Einstellung der Sprache aus
 Ich brauche nicht mehr die Einstellung der Sprache
 Deaktivier Einstellung der Sprache
+Spracheinstellung aus
+Spracheinstellung ausmachen
+Bildschirm für Spracheinstellung schließen
+Bildschirm für Spracheinstellung beenden
+Spracheinstellung beenden
 Öffne die Einstellung des Datums und der Uhrzeit
 Stell das Datum und die Uhrzeit ein
 Zeig mir die Einstellung des Datums und der Uhrzeit
 Ich möchte die Einstellung des Datums und der Uhrzeit sehen
 Schalte den Bilschirm für Einstellung des Datums und der Uhrzeit ein
 Ich möchte das Datum und die Uhrzeit einstellen
-Ich brauche die Einstellung des Datums und der Uhrzeit
+Ich möchte das Datum und die Uhrzeit ändern
 Aktivier Einstellung des Datums und der Uhrzeit
+das Datum und die Uhrzeit ändern
+Einstellung des Datums und der Uhrzeit anzeigen
 Schließe die Einstellung des Datums und der Uhrzeit
 Hör auf, Datum und Uhrzeit einzustellen
 Schalte den Bildschirm für Einstellung des Datums und der Uhrzeit aus
-Ich brauche nicht mehr den Bildschirm für Einstellung des Datums und der Uhrzeit
+Ich brauche den Bildschirm für Einstellung des Datums und der Uhrzeit nicht mehr
 Deaktivier Einstellung des Datums und der Uhrzeit
+Datums und Uhrzeit Einstellung aus
+Datums und Uhrzeit Einstellung nicht mehr anzeigen
+Bildschirm für Datums udn Uhrzeit Einstellung schließen
+Bildschirm für Datums udn Uhrzeit Einstellung nicht mehr anzeigen
 Öffne den Bildschirm für Maßeinheitseinstellung
 Stell die Maßeinheit ein
 Zeig mir den Bildschirm für Maßeinheitseinstellung
@@ -1350,16 +1968,32 @@ Schalte den Bilschirm für Maßeinheitseindtellung ein
 Ich möchte die Maßeinheit einstellen
 Ich brauche den Bildschirm für Maßeinheitseinstellung
 Aktivier Maßeinheitseinstellung
+Gehe zu Maßeinheitseinstellung
+Maßeinheitseinstellung anzeigen
 Schließe den Bildschirm für Maßeinheitseinstellung
 Hör auf, Maßeinheit einzustellen
 Schalte den Bildschirm für Maßeinheitseinstellung aus
-Ich brauche den Bildschirm für Maßeinheitseinstellung nicht mehr 
+Ich brauche den Bildschirm für Maßeinheitseinstellung nicht mehr
 Deaktivier Maßeinheitseinstellung
-Wie spät ist es?
-Wie viel Uhr ist es?
+Maßeinheitseinstellung aus
+Maßeinheitseinstellung ausmachen
+Bildschirm für Maßeinheitseinstellung schließen
+Bildschirm für Maßeinheitseinstellung beenden
+Maßeinheitseinstellung beenden
+Wie spät ist es
+Wie viel Uhr ist es
 Sag mir die Zeit
-Welcher Tag ist heute?
-Der wievielte ist heute?
-den Wievielten haben wir heute?
+Wie viel Uhr haben wir
+Ich möchte die Uhrzeit wissen
+Kannst du mir die Uhrzeit sagen
+Uhrzeit bitte
+Sag mir die Uhrzeit
+Wie viel Uhr haben wir jetzt
+Wie spät haben wir es
+Welcher Tag ist heute
+Der wievielte ist heute
+den Wievielten haben wir heute
 Vinfast, sag mir bitte das Datum
-Welches Datum haben wir heute?
+Welches Datum haben wir heute
+Welches Datum ist heute
+Was ist heute für ein Datum
