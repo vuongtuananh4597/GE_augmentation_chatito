@@ -1,0 +1,40 @@
+Schalte das Radio <radio_name> ein
+Schalte bitte das Radio <radio_name> ein
+Schalte sofort das Radio <radio_name> ein
+Schalte bitte sofort das Radio <radio_name> ein
+Schalte jetzt das Radio <radio_name> ein
+Schalte bitte jetzt das Radio <radio_name> ein
+Schalte gleich das Radio <radio_name> ein
+Schalte bitte gleich das Radio <radio_name> ein
+Schalte schnell das Radio <radio_name> ein
+Schalte bitte schnell das Radio <radio_name> ein
+Schalte unmittelbar das Radio <radio_name> ein
+Schalte bitte unmittelbar das Radio <radio_name> ein
+Schalte unverzüglich das Radio <radio_name> ein
+Schalte bitte unverzüglich das Radio <radio_name> ein
+Schalte augenblicklich das Radio <radio_name> ein
+Schalte bitte augenblicklich das Radio <radio_name> ein
+Wechsle zu das Radio <radio_name>
+Wechsle bitte zu das Radio <radio_name>
+Wechsle sofort zu das Radio <radio_name>
+Wechsle bitte sofort zu das Radio <radio_name>
+Wechsle jetzt zu das Radio <radio_name>
+Wechsle bitte jetzt zu das Radio <radio_name>
+Wechsle gleich zu das Radio <radio_name>
+Wechsle bitte gleich zu das Radio <radio_name>
+Wechsle schnell zu das Radio <radio_name>
+Wechsle bitte schnell zu das Radio <radio_name>
+Wechsle unmittelbar zu das Radio <radio_name>
+Wechsle bitte unmittelbar zu das Radio <radio_name>
+Wechsle unverzüglich zu das Radio <radio_name>
+Wechsle bitte unverzüglich zu das Radio <radio_name>
+Wechsle augenblicklich zu das Radio <radio_name>
+Wechsle bitte augenblicklich zu das Radio <radio_name>
+Frequenz FM <frequency> MHz
+Wechsle zu Frequenz FM <frequency> MHz
+Gehen auf Frequenz FM <frequency> MHz
+Wechsle zu <channel>
+Wechsle auf <channel>
+Schalte zum Radiosender <channel>
+Sender <channel>
+Gehen auf Sender <channel>

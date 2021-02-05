@@ -192,5 +192,33 @@ Spiele augenblicklich Lieder von <artist>
 Spiele bitte augenblicklich Lieder von <artist>
 Spiele <album>
 Spiele bitte <album>
+Spiele sofort <album>
+Spiele bitte sofort <album>
+Spiele jetzt <album>
+Spiele bitte jetzt <album>
+Spiele gleich <album>
+Spiele bitte gleich <album>
+Spiele schnell <album>
+Spiele bitte schnell <album>
+Spiele unmittelbar <album>
+Spiele bitte unmittelbar <album>
+Spiele unverzüglich <album>
+Spiele bitte unverzüglich <album>
+Spiele augenblicklich <album>
+Spiele bitte augenblicklich <album>
 Spiele das Album <album>
 Spiele bitte das Album <album>
+Spiele sofort das Album <album>
+Spiele bitte sofort das Album <album>
+Spiele jetzt das Album <album>
+Spiele bitte jetzt das Album <album>
+Spiele gleich das Album <album>
+Spiele bitte gleich das Album <album>
+Spiele schnell das Album <album>
+Spiele bitte schnell das Album <album>
+Spiele unmittelbar das Album <album>
+Spiele bitte unmittelbar das Album <album>
+Spiele unverzüglich das Album <album>
+Spiele bitte unverzüglich das Album <album>
+Spiele augenblicklich das Album <album>
+Spiele bitte augenblicklich das Album <album>

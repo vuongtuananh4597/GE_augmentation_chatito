@@ -17,7 +17,7 @@ Hemmersheim
 Dahlem
 Bad Dürkheim an der Weinstraße
 Dörrebach
-Neukirchen-Balbini
+Neukirchen Balbini
 Meisburg
 Groß Twülpstedt
 Lettweiler
@@ -73,22 +73,22 @@ Theisseil
 Wedel
 Konstanz
 Eggermühlen
-Bad Teinach-Zavelstein
+Bad Teinach Zavelstein
 Muldenstein
-Matzlow-Garwitz
+Matzlow Garwitz
 Kriesow
 Petersaurach
 Alzey
 Vettweiß
 Bördeland
-Taben-Rodt
+Taben Rodt
 Vilgertshofen
 Farchant
 Rabenau
 Ascheberg
 Heretsried
 Mannheim
-Gau-Algesheim
+Gau Algesheim
 Menden
 Ulm
 Bocholt
@@ -150,7 +150,7 @@ Düsseldorf
 Neureichenau
 Urmitz
 Elben
-Höhr-Grenzhausen
+Höhr Grenzhausen
 Hofstetten
 Langenpreising
 Nomborn
@@ -177,7 +177,7 @@ Wickede an der Ruhr
 Schönberg
 Remagen
 Klausen
-Heuchelheim-Klingen
+Heuchelheim Klingen
 Ohrdruf
 Heinzenhausen
 Westendorf
@@ -331,7 +331,7 @@ Haigerloch
 Sosberg
 Geilnau
 Konradsreuth
-Diekhusen-Fahrstedt
+Diekhusen Fahrstedt
 Steinhöring
 Hunding
 Visselhövede
@@ -349,7 +349,7 @@ Walkenried
 Engelbrechtsche Wildnis
 Antweiler
 Handeloh
-Obernheim-Kirchenarnbach
+Obernheim Kirchenarnbach
 Dienheim
 Nordhackstedt
 Oberndorf am Lech
@@ -360,7 +360,7 @@ Norden
 Münster
 Hemmoor
 Borken
-Zeltingen-Rachtig
+Zeltingen Rachtig
 Halsdorf
 Mörnsheim
 Wehretal
@@ -382,7 +382,7 @@ Behrensdorf
 Stubben
 Behlendorf
 Stuttgart
-Spiesen-Elversberg
+Spiesen Elversberg
 Minden
 Holzen
 Artlenburg
@@ -395,7 +395,7 @@ Kollmar
 Grevenkop
 Raschau
 Preetz
-Dörfles-Esbach
+Dörfles Esbach
 Thalfang
 Dannheim
 Ockenheim
@@ -423,7 +423,7 @@ Duisburg
 Süderstapel
 Mühlhausen
 Mertingen
-Herschweiler-Pettersheim
+Herschweiler Pettersheim
 Daleiden
 Osterspai
 Vörstetten
@@ -500,7 +500,7 @@ Hohenlinden
 Unteregg
 Biebern
 Talheim
-Neu-Bamberg
+Neu Bamberg
 Weiding
 Binzen
 Übereisenbach
@@ -524,7 +524,7 @@ Pankow
 Rendswühren
 Bad Kissingen
 Steinhagen
-Unter-Mengelbach
+Unter Mengelbach
 Hirschhorn
 Mittweida
 Pfalzgrafenweiler
@@ -536,7 +536,7 @@ Dillenburg
 Potsdam
 Bucha
 Sievershütten
-Gossersweiler-Stein
+Gossersweiler Stein
 Lamstedt
 Lunden
 Flörsheim am Main
@@ -579,7 +579,7 @@ Rechtenbach
 Lautzenbrücken
 Störkathen
 Niederbreitbach
-Treis-Karden
+Treis Karden
 Tespe
 Oberöfflingen
 Lichtenfels
@@ -596,7 +596,7 @@ Hergensweiler
 Hatzenport
 Beckum
 Leutkirch
-Baden-Baden
+Baden Baden
 Bad Driburg
 Bad Wiessee
 Wolpertswende
@@ -628,9 +628,9 @@ Simmern
 Ottobeuren
 Berneck
 Leißling
-Senheim-Senhals
+Senheim Senhals
 Höhbeck
-Elsdorf-Westermühlen
+Elsdorf Westermühlen
 Niesky
 Saffig
 Tiefenbach
@@ -657,7 +657,7 @@ Grömbach
 Fahren
 Ölsen
 Wielen
-Floh-Seligenthal
+Floh Seligenthal
 Meersburg
 Neubrandenburg
 Ravensburg
@@ -668,7 +668,7 @@ Bolbritz
 Mülheim an der Ruhr
 Bockau
 Köthen
-Kreba-Neudorf
+Kreba Neudorf
 Lohmen
 Langenau
 Döbritz
@@ -678,7 +678,7 @@ Zwickau
 Morscheid
 Rollwitz
 Bollersdorf
-Rödersheim-Gronau
+Rödersheim Gronau
 Oberhaching
 Rheinbach
 Hommerdingen
@@ -718,10 +718,10 @@ Rotthalmünster
 Oberwerrn
 Marl
 Heßheim
-Edingen-Neckarhausen
+Edingen Neckarhausen
 Pöschendorf
 Bargenstedt
-Oy-Mittelberg
+Oy Mittelberg
 Untershausen
 Bothel
 Seinsfeld
@@ -765,7 +765,7 @@ Mettendorf
 Kaulsdorf
 Egenhofen
 Cuxhaven
-Uhldingen-Mühlhofen
+Uhldingen Mühlhofen
 Härtlingen
 Allershausen
 Hünfelden
@@ -774,7 +774,7 @@ Bernbeuren
 Röckingen
 Bergisch Gladbach
 Stöckse
-Villingen-Schwenningen
+Villingen Schwenningen
 Steinach
 Frankelbach
 Speichersdorf
@@ -826,7 +826,7 @@ Wertingen
 Burkhardtsdorf
 Walle
 Bad Kreuznach
-Stockhausen-Illfurth
+Stockhausen Illfurth
 Embühren
 Schwall
 Rüdenau
@@ -852,7 +852,7 @@ Leimbach
 Gingen an der Fils
 Oberdolling
 Wettringen
-Mörfelden-Walldorf
+Mörfelden Walldorf
 Großheide
 Holstenniendorf
 Kreuztal

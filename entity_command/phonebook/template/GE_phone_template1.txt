@@ -1,0 +1,597 @@
+Wechsle zu Telefon
+Gehe zu Telefon
+Zeig mir bitte das Telefonbuch
+Wahlwiederholung
+Wähle die letzte Nummer
+Rufe die letzte Nummer an
+Rufe <phone_number> an
+Rufe bitte <phone_number> an
+Rufe sofort <phone_number> an
+Rufe bitte sofort <phone_number> an
+Rufe jetzt <phone_number> an
+Rufe bitte jetzt <phone_number> an
+Rufe gleich <phone_number> an
+Rufe bitte gleich <phone_number> an
+Rufe schnell <phone_number> an
+Rufe bitte schnell <phone_number> an
+Rufe unmittelbar <phone_number> an
+Rufe bitte unmittelbar <phone_number> an
+Rufe unverzüglich <phone_number> an
+Rufe bitte unverzüglich <phone_number> an
+Rufe augenblicklich <phone_number> an
+Rufe bitte augenblicklich <phone_number> an
+Wähle <phone_number>
+Wähle bitte <phone_number>
+Wähle sofort <phone_number>
+Wähle bitte sofort <phone_number>
+Wähle jetzt <phone_number>
+Wähle bitte jetzt <phone_number>
+Wähle gleich <phone_number>
+Wähle bitte gleich <phone_number>
+Wähle schnell <phone_number>
+Wähle bitte schnell <phone_number>
+Wähle unmittelbar <phone_number>
+Wähle bitte unmittelbar <phone_number>
+Wähle unverzüglich <phone_number>
+Wähle bitte unverzüglich <phone_number>
+Wähle augenblicklich <phone_number>
+Wähle bitte augenblicklich <phone_number>
+Rufe <person> an
+Rufe bitte <person> an
+Rufe sofort <person> an
+Rufe bitte sofort <person> an
+Rufe jetzt <person> an
+Rufe bitte jetzt <person> an
+Rufe gleich <person> an
+Rufe bitte gleich <person> an
+Rufe schnell <person> an
+Rufe bitte schnell <person> an
+Rufe unmittelbar <person> an
+Rufe bitte unmittelbar <person> an
+Rufe unverzüglich <person> an
+Rufe bitte unverzüglich <person> an
+Rufe augenblicklich <person> an
+Rufe bitte augenblicklich <person> an
+Telefonieren mit <person>
+Verbinden mit <person>
+Telefonieren bitte mit <person>
+Verbinden bitte mit <person>
+Telefonieren sofort mit <person>
+Verbinden sofort mit <person>
+Telefonieren bitte sofort mit <person>
+Verbinden bitte sofort mit <person>
+Telefonieren jetzt mit <person>
+Verbinden jetzt mit <person>
+Telefonieren bitte jetzt mit <person>
+Verbinden bitte jetzt mit <person>
+Telefonieren gleich mit <person>
+Verbinden gleich mit <person>
+Telefonieren bitte gleich mit <person>
+Verbinden bitte gleich mit <person>
+Telefonieren schnell mit <person>
+Verbinden schnell mit <person>
+Telefonieren bitte schnell mit <person>
+Verbinden bitte schnell mit <person>
+Telefonieren unmittelbar mit <person>
+Verbinden unmittelbar mit <person>
+Telefonieren bitte unmittelbar mit <person>
+Verbinden bitte unmittelbar mit <person>
+Telefonieren unverzüglich mit <person>
+Verbinden unverzüglich mit <person>
+Telefonieren bitte unverzüglich mit <person>
+Verbinden bitte unverzüglich mit <person>
+Telefonieren augenblicklich mit <person>
+Verbinden augenblicklich mit <person>
+Telefonieren bitte augenblicklich mit <person>
+Verbinden bitte augenblicklich mit <person>
+Kannst du mich mit <person> verbinden
+Können Sie mich mit <person> verbinden
+Kannst du bitte mich mit <person> verbinden
+Können Sie bitte mich mit <person> verbinden
+Kannst du sofort mich mit <person> verbinden
+Können Sie sofort mich mit <person> verbinden
+Kannst du bitte sofort mich mit <person> verbinden
+Können Sie bitte sofort mich mit <person> verbinden
+Kannst du jetzt mich mit <person> verbinden
+Können Sie jetzt mich mit <person> verbinden
+Kannst du bitte jetzt mich mit <person> verbinden
+Können Sie bitte jetzt mich mit <person> verbinden
+Kannst du gleich mich mit <person> verbinden
+Können Sie gleich mich mit <person> verbinden
+Kannst du bitte gleich mich mit <person> verbinden
+Können Sie bitte gleich mich mit <person> verbinden
+Kannst du schnell mich mit <person> verbinden
+Können Sie schnell mich mit <person> verbinden
+Kannst du bitte schnell mich mit <person> verbinden
+Können Sie bitte schnell mich mit <person> verbinden
+Kannst du unmittelbar mich mit <person> verbinden
+Können Sie unmittelbar mich mit <person> verbinden
+Kannst du bitte unmittelbar mich mit <person> verbinden
+Können Sie bitte unmittelbar mich mit <person> verbinden
+Kannst du unverzüglich mich mit <person> verbinden
+Können Sie unverzüglich mich mit <person> verbinden
+Kannst du bitte unverzüglich mich mit <person> verbinden
+Können Sie bitte unverzüglich mich mit <person> verbinden
+Kannst du augenblicklich mich mit <person> verbinden
+Können Sie augenblicklich mich mit <person> verbinden
+Kannst du bitte augenblicklich mich mit <person> verbinden
+Können Sie bitte augenblicklich mich mit <person> verbinden
+<person> Kontaktieren
+<person> sofort Kontaktieren
+<person> jetzt Kontaktieren
+<person> gleich Kontaktieren
+<person> schnell Kontaktieren
+<person> unmittelbar Kontaktieren
+<person> unverzüglich Kontaktieren
+<person> augenblicklich Kontaktieren
+Ich möchte <person> anrufen
+Ich will <person> anrufen
+Kannst du <person> anrufen
+Können Sie <person> anrufen
+Ich möchte bitte <person> anrufen
+Ich will bitte <person> anrufen
+Kannst du bitte <person> anrufen
+Können Sie bitte <person> anrufen
+Ich möchte sofort <person> anrufen
+Ich will sofort <person> anrufen
+Kannst du sofort <person> anrufen
+Können Sie sofort <person> anrufen
+Ich möchte bitte sofort <person> anrufen
+Ich will bitte sofort <person> anrufen
+Kannst du bitte sofort <person> anrufen
+Können Sie bitte sofort <person> anrufen
+Ich möchte jetzt <person> anrufen
+Ich will jetzt <person> anrufen
+Kannst du jetzt <person> anrufen
+Können Sie jetzt <person> anrufen
+Ich möchte bitte jetzt <person> anrufen
+Ich will bitte jetzt <person> anrufen
+Kannst du bitte jetzt <person> anrufen
+Können Sie bitte jetzt <person> anrufen
+Ich möchte gleich <person> anrufen
+Ich will gleich <person> anrufen
+Kannst du gleich <person> anrufen
+Können Sie gleich <person> anrufen
+Ich möchte bitte gleich <person> anrufen
+Ich will bitte gleich <person> anrufen
+Kannst du bitte gleich <person> anrufen
+Können Sie bitte gleich <person> anrufen
+Ich möchte schnell <person> anrufen
+Ich will schnell <person> anrufen
+Kannst du schnell <person> anrufen
+Können Sie schnell <person> anrufen
+Ich möchte bitte schnell <person> anrufen
+Ich will bitte schnell <person> anrufen
+Kannst du bitte schnell <person> anrufen
+Können Sie bitte schnell <person> anrufen
+Ich möchte unmittelbar <person> anrufen
+Ich will unmittelbar <person> anrufen
+Kannst du unmittelbar <person> anrufen
+Können Sie unmittelbar <person> anrufen
+Ich möchte bitte unmittelbar <person> anrufen
+Ich will bitte unmittelbar <person> anrufen
+Kannst du bitte unmittelbar <person> anrufen
+Können Sie bitte unmittelbar <person> anrufen
+Ich möchte unverzüglich <person> anrufen
+Ich will unverzüglich <person> anrufen
+Kannst du unverzüglich <person> anrufen
+Können Sie unverzüglich <person> anrufen
+Ich möchte bitte unverzüglich <person> anrufen
+Ich will bitte unverzüglich <person> anrufen
+Kannst du bitte unverzüglich <person> anrufen
+Können Sie bitte unverzüglich <person> anrufen
+Ich möchte augenblicklich <person> anrufen
+Ich will augenblicklich <person> anrufen
+Kannst du augenblicklich <person> anrufen
+Können Sie augenblicklich <person> anrufen
+Ich möchte bitte augenblicklich <person> anrufen
+Ich will bitte augenblicklich <person> anrufen
+Kannst du bitte augenblicklich <person> anrufen
+Können Sie bitte augenblicklich <person> anrufen
+Ich möchte <person> kontaktieren
+Ich will <person> kontaktieren
+Kannst du <person> kontaktieren
+Können Sie <person> kontaktieren
+Ich möchte bitte <person> kontaktieren
+Ich will bitte <person> kontaktieren
+Kannst du bitte <person> kontaktieren
+Können Sie bitte <person> kontaktieren
+Ich möchte sofort <person> kontaktieren
+Ich will sofort <person> kontaktieren
+Kannst du sofort <person> kontaktieren
+Können Sie sofort <person> kontaktieren
+Ich möchte bitte sofort <person> kontaktieren
+Ich will bitte sofort <person> kontaktieren
+Kannst du bitte sofort <person> kontaktieren
+Können Sie bitte sofort <person> kontaktieren
+Ich möchte jetzt <person> kontaktieren
+Ich will jetzt <person> kontaktieren
+Kannst du jetzt <person> kontaktieren
+Können Sie jetzt <person> kontaktieren
+Ich möchte bitte jetzt <person> kontaktieren
+Ich will bitte jetzt <person> kontaktieren
+Kannst du bitte jetzt <person> kontaktieren
+Können Sie bitte jetzt <person> kontaktieren
+Ich möchte gleich <person> kontaktieren
+Ich will gleich <person> kontaktieren
+Kannst du gleich <person> kontaktieren
+Können Sie gleich <person> kontaktieren
+Ich möchte bitte gleich <person> kontaktieren
+Ich will bitte gleich <person> kontaktieren
+Kannst du bitte gleich <person> kontaktieren
+Können Sie bitte gleich <person> kontaktieren
+Ich möchte schnell <person> kontaktieren
+Ich will schnell <person> kontaktieren
+Kannst du schnell <person> kontaktieren
+Können Sie schnell <person> kontaktieren
+Ich möchte bitte schnell <person> kontaktieren
+Ich will bitte schnell <person> kontaktieren
+Kannst du bitte schnell <person> kontaktieren
+Können Sie bitte schnell <person> kontaktieren
+Ich möchte unmittelbar <person> kontaktieren
+Ich will unmittelbar <person> kontaktieren
+Kannst du unmittelbar <person> kontaktieren
+Können Sie unmittelbar <person> kontaktieren
+Ich möchte bitte unmittelbar <person> kontaktieren
+Ich will bitte unmittelbar <person> kontaktieren
+Kannst du bitte unmittelbar <person> kontaktieren
+Können Sie bitte unmittelbar <person> kontaktieren
+Ich möchte unverzüglich <person> kontaktieren
+Ich will unverzüglich <person> kontaktieren
+Kannst du unverzüglich <person> kontaktieren
+Können Sie unverzüglich <person> kontaktieren
+Ich möchte bitte unverzüglich <person> kontaktieren
+Ich will bitte unverzüglich <person> kontaktieren
+Kannst du bitte unverzüglich <person> kontaktieren
+Können Sie bitte unverzüglich <person> kontaktieren
+Ich möchte augenblicklich <person> kontaktieren
+Ich will augenblicklich <person> kontaktieren
+Kannst du augenblicklich <person> kontaktieren
+Können Sie augenblicklich <person> kontaktieren
+Ich möchte bitte augenblicklich <person> kontaktieren
+Ich will bitte augenblicklich <person> kontaktieren
+Kannst du bitte augenblicklich <person> kontaktieren
+Können Sie bitte augenblicklich <person> kontaktieren
+Ich möchte mit <person> telefonieren
+Ich will mit <person> telefonieren
+Ich möchte bitte mit <person> telefonieren
+Ich will bitte mit <person> telefonieren
+Ich möchte sofort mit <person> telefonieren
+Ich will sofort mit <person> telefonieren
+Ich möchte bitte sofort mit <person> telefonieren
+Ich will bitte sofort mit <person> telefonieren
+Ich möchte jetzt mit <person> telefonieren
+Ich will jetzt mit <person> telefonieren
+Ich möchte bitte jetzt mit <person> telefonieren
+Ich will bitte jetzt mit <person> telefonieren
+Ich möchte gleich mit <person> telefonieren
+Ich will gleich mit <person> telefonieren
+Ich möchte bitte gleich mit <person> telefonieren
+Ich will bitte gleich mit <person> telefonieren
+Ich möchte schnell mit <person> telefonieren
+Ich will schnell mit <person> telefonieren
+Ich möchte bitte schnell mit <person> telefonieren
+Ich will bitte schnell mit <person> telefonieren
+Ich möchte unmittelbar mit <person> telefonieren
+Ich will unmittelbar mit <person> telefonieren
+Ich möchte bitte unmittelbar mit <person> telefonieren
+Ich will bitte unmittelbar mit <person> telefonieren
+Ich möchte unverzüglich mit <person> telefonieren
+Ich will unverzüglich mit <person> telefonieren
+Ich möchte bitte unverzüglich mit <person> telefonieren
+Ich will bitte unverzüglich mit <person> telefonieren
+Ich möchte augenblicklich mit <person> telefonieren
+Ich will augenblicklich mit <person> telefonieren
+Ich möchte bitte augenblicklich mit <person> telefonieren
+Ich will bitte augenblicklich mit <person> telefonieren
+Ich möchte mit <person> sprechen
+Ich will mit <person> sprechen
+Ich möchte bitte mit <person> sprechen
+Ich will bitte mit <person> sprechen
+Ich möchte sofort mit <person> sprechen
+Ich will sofort mit <person> sprechen
+Ich möchte bitte sofort mit <person> sprechen
+Ich will bitte sofort mit <person> sprechen
+Ich möchte jetzt mit <person> sprechen
+Ich will jetzt mit <person> sprechen
+Ich möchte bitte jetzt mit <person> sprechen
+Ich will bitte jetzt mit <person> sprechen
+Ich möchte gleich mit <person> sprechen
+Ich will gleich mit <person> sprechen
+Ich möchte bitte gleich mit <person> sprechen
+Ich will bitte gleich mit <person> sprechen
+Ich möchte schnell mit <person> sprechen
+Ich will schnell mit <person> sprechen
+Ich möchte bitte schnell mit <person> sprechen
+Ich will bitte schnell mit <person> sprechen
+Ich möchte unmittelbar mit <person> sprechen
+Ich will unmittelbar mit <person> sprechen
+Ich möchte bitte unmittelbar mit <person> sprechen
+Ich will bitte unmittelbar mit <person> sprechen
+Ich möchte unverzüglich mit <person> sprechen
+Ich will unverzüglich mit <person> sprechen
+Ich möchte bitte unverzüglich mit <person> sprechen
+Ich will bitte unverzüglich mit <person> sprechen
+Ich möchte augenblicklich mit <person> sprechen
+Ich will augenblicklich mit <person> sprechen
+Ich möchte bitte augenblicklich mit <person> sprechen
+Ich will bitte augenblicklich mit <person> sprechen
+Rufe <family> an
+Rufe bitte <family> an
+Rufe sofort <family> an
+Rufe bitte sofort <family> an
+Rufe jetzt <family> an
+Rufe bitte jetzt <family> an
+Rufe gleich <family> an
+Rufe bitte gleich <family> an
+Rufe schnell <family> an
+Rufe bitte schnell <family> an
+Rufe unmittelbar <family> an
+Rufe bitte unmittelbar <family> an
+Rufe unverzüglich <family> an
+Rufe bitte unverzüglich <family> an
+Rufe augenblicklich <family> an
+Rufe bitte augenblicklich <family> an
+Kannst du mich mit <family> verbinden
+Können Sie mich mit <family> verbinden
+Kannst du bitte mich mit <family> verbinden
+Können Sie bitte mich mit <family> verbinden
+Kannst du sofort mich mit <family> verbinden
+Können Sie sofort mich mit <family> verbinden
+Kannst du bitte sofort mich mit <family> verbinden
+Können Sie bitte sofort mich mit <family> verbinden
+Kannst du jetzt mich mit <family> verbinden
+Können Sie jetzt mich mit <family> verbinden
+Kannst du bitte jetzt mich mit <family> verbinden
+Können Sie bitte jetzt mich mit <family> verbinden
+Kannst du gleich mich mit <family> verbinden
+Können Sie gleich mich mit <family> verbinden
+Kannst du bitte gleich mich mit <family> verbinden
+Können Sie bitte gleich mich mit <family> verbinden
+Kannst du schnell mich mit <family> verbinden
+Können Sie schnell mich mit <family> verbinden
+Kannst du bitte schnell mich mit <family> verbinden
+Können Sie bitte schnell mich mit <family> verbinden
+Kannst du unmittelbar mich mit <family> verbinden
+Können Sie unmittelbar mich mit <family> verbinden
+Kannst du bitte unmittelbar mich mit <family> verbinden
+Können Sie bitte unmittelbar mich mit <family> verbinden
+Kannst du unverzüglich mich mit <family> verbinden
+Können Sie unverzüglich mich mit <family> verbinden
+Kannst du bitte unverzüglich mich mit <family> verbinden
+Können Sie bitte unverzüglich mich mit <family> verbinden
+Kannst du augenblicklich mich mit <family> verbinden
+Können Sie augenblicklich mich mit <family> verbinden
+Kannst du bitte augenblicklich mich mit <family> verbinden
+Können Sie bitte augenblicklich mich mit <family> verbinden
+Ich möchte <family> anrufen
+Ich will <family> anrufen
+Kannst du <family> anrufen
+Können Sie <family> anrufen
+Ich möchte bitte <family> anrufen
+Ich will bitte <family> anrufen
+Kannst du bitte <family> anrufen
+Können Sie bitte <family> anrufen
+Ich möchte sofort <family> anrufen
+Ich will sofort <family> anrufen
+Kannst du sofort <family> anrufen
+Können Sie sofort <family> anrufen
+Ich möchte bitte sofort <family> anrufen
+Ich will bitte sofort <family> anrufen
+Kannst du bitte sofort <family> anrufen
+Können Sie bitte sofort <family> anrufen
+Ich möchte jetzt <family> anrufen
+Ich will jetzt <family> anrufen
+Kannst du jetzt <family> anrufen
+Können Sie jetzt <family> anrufen
+Ich möchte bitte jetzt <family> anrufen
+Ich will bitte jetzt <family> anrufen
+Kannst du bitte jetzt <family> anrufen
+Können Sie bitte jetzt <family> anrufen
+Ich möchte gleich <family> anrufen
+Ich will gleich <family> anrufen
+Kannst du gleich <family> anrufen
+Können Sie gleich <family> anrufen
+Ich möchte bitte gleich <family> anrufen
+Ich will bitte gleich <family> anrufen
+Kannst du bitte gleich <family> anrufen
+Können Sie bitte gleich <family> anrufen
+Ich möchte schnell <family> anrufen
+Ich will schnell <family> anrufen
+Kannst du schnell <family> anrufen
+Können Sie schnell <family> anrufen
+Ich möchte bitte schnell <family> anrufen
+Ich will bitte schnell <family> anrufen
+Kannst du bitte schnell <family> anrufen
+Können Sie bitte schnell <family> anrufen
+Ich möchte unmittelbar <family> anrufen
+Ich will unmittelbar <family> anrufen
+Kannst du unmittelbar <family> anrufen
+Können Sie unmittelbar <family> anrufen
+Ich möchte bitte unmittelbar <family> anrufen
+Ich will bitte unmittelbar <family> anrufen
+Kannst du bitte unmittelbar <family> anrufen
+Können Sie bitte unmittelbar <family> anrufen
+Ich möchte unverzüglich <family> anrufen
+Ich will unverzüglich <family> anrufen
+Kannst du unverzüglich <family> anrufen
+Können Sie unverzüglich <family> anrufen
+Ich möchte bitte unverzüglich <family> anrufen
+Ich will bitte unverzüglich <family> anrufen
+Kannst du bitte unverzüglich <family> anrufen
+Können Sie bitte unverzüglich <family> anrufen
+Ich möchte augenblicklich <family> anrufen
+Ich will augenblicklich <family> anrufen
+Kannst du augenblicklich <family> anrufen
+Können Sie augenblicklich <family> anrufen
+Ich möchte bitte augenblicklich <family> anrufen
+Ich will bitte augenblicklich <family> anrufen
+Kannst du bitte augenblicklich <family> anrufen
+Können Sie bitte augenblicklich <family> anrufen
+Ich möchte <family> kontaktieren
+Ich will <family> kontaktieren
+Kannst du <family> kontaktieren
+Können Sie <family> kontaktieren
+Ich möchte bitte <family> kontaktieren
+Ich will bitte <family> kontaktieren
+Kannst du bitte <family> kontaktieren
+Können Sie bitte <family> kontaktieren
+Ich möchte sofort <family> kontaktieren
+Ich will sofort <family> kontaktieren
+Kannst du sofort <family> kontaktieren
+Können Sie sofort <family> kontaktieren
+Ich möchte bitte sofort <family> kontaktieren
+Ich will bitte sofort <family> kontaktieren
+Kannst du bitte sofort <family> kontaktieren
+Können Sie bitte sofort <family> kontaktieren
+Ich möchte jetzt <family> kontaktieren
+Ich will jetzt <family> kontaktieren
+Kannst du jetzt <family> kontaktieren
+Können Sie jetzt <family> kontaktieren
+Ich möchte bitte jetzt <family> kontaktieren
+Ich will bitte jetzt <family> kontaktieren
+Kannst du bitte jetzt <family> kontaktieren
+Können Sie bitte jetzt <family> kontaktieren
+Ich möchte gleich <family> kontaktieren
+Ich will gleich <family> kontaktieren
+Kannst du gleich <family> kontaktieren
+Können Sie gleich <family> kontaktieren
+Ich möchte bitte gleich <family> kontaktieren
+Ich will bitte gleich <family> kontaktieren
+Kannst du bitte gleich <family> kontaktieren
+Können Sie bitte gleich <family> kontaktieren
+Ich möchte schnell <family> kontaktieren
+Ich will schnell <family> kontaktieren
+Kannst du schnell <family> kontaktieren
+Können Sie schnell <family> kontaktieren
+Ich möchte bitte schnell <family> kontaktieren
+Ich will bitte schnell <family> kontaktieren
+Kannst du bitte schnell <family> kontaktieren
+Können Sie bitte schnell <family> kontaktieren
+Ich möchte unmittelbar <family> kontaktieren
+Ich will unmittelbar <family> kontaktieren
+Kannst du unmittelbar <family> kontaktieren
+Können Sie unmittelbar <family> kontaktieren
+Ich möchte bitte unmittelbar <family> kontaktieren
+Ich will bitte unmittelbar <family> kontaktieren
+Kannst du bitte unmittelbar <family> kontaktieren
+Können Sie bitte unmittelbar <family> kontaktieren
+Ich möchte unverzüglich <family> kontaktieren
+Ich will unverzüglich <family> kontaktieren
+Kannst du unverzüglich <family> kontaktieren
+Können Sie unverzüglich <family> kontaktieren
+Ich möchte bitte unverzüglich <family> kontaktieren
+Ich will bitte unverzüglich <family> kontaktieren
+Kannst du bitte unverzüglich <family> kontaktieren
+Können Sie bitte unverzüglich <family> kontaktieren
+Ich möchte augenblicklich <family> kontaktieren
+Ich will augenblicklich <family> kontaktieren
+Kannst du augenblicklich <family> kontaktieren
+Können Sie augenblicklich <family> kontaktieren
+Ich möchte bitte augenblicklich <family> kontaktieren
+Ich will bitte augenblicklich <family> kontaktieren
+Kannst du bitte augenblicklich <family> kontaktieren
+Können Sie bitte augenblicklich <family> kontaktieren
+Ich möchte mit <family> telefonieren
+Ich will mit <family> telefonieren
+Ich möchte bitte mit <family> telefonieren
+Ich will bitte mit <family> telefonieren
+Ich möchte sofort mit <family> telefonieren
+Ich will sofort mit <family> telefonieren
+Ich möchte bitte sofort mit <family> telefonieren
+Ich will bitte sofort mit <family> telefonieren
+Ich möchte jetzt mit <family> telefonieren
+Ich will jetzt mit <family> telefonieren
+Ich möchte bitte jetzt mit <family> telefonieren
+Ich will bitte jetzt mit <family> telefonieren
+Ich möchte gleich mit <family> telefonieren
+Ich will gleich mit <family> telefonieren
+Ich möchte bitte gleich mit <family> telefonieren
+Ich will bitte gleich mit <family> telefonieren
+Ich möchte schnell mit <family> telefonieren
+Ich will schnell mit <family> telefonieren
+Ich möchte bitte schnell mit <family> telefonieren
+Ich will bitte schnell mit <family> telefonieren
+Ich möchte unmittelbar mit <family> telefonieren
+Ich will unmittelbar mit <family> telefonieren
+Ich möchte bitte unmittelbar mit <family> telefonieren
+Ich will bitte unmittelbar mit <family> telefonieren
+Ich möchte unverzüglich mit <family> telefonieren
+Ich will unverzüglich mit <family> telefonieren
+Ich möchte bitte unverzüglich mit <family> telefonieren
+Ich will bitte unverzüglich mit <family> telefonieren
+Ich möchte augenblicklich mit <family> telefonieren
+Ich will augenblicklich mit <family> telefonieren
+Ich möchte bitte augenblicklich mit <family> telefonieren
+Ich will bitte augenblicklich mit <family> telefonieren
+Ich möchte mit <family> sprechen
+Ich will mit <family> sprechen
+Ich möchte bitte mit <family> sprechen
+Ich will bitte mit <family> sprechen
+Ich möchte sofort mit <family> sprechen
+Ich will sofort mit <family> sprechen
+Ich möchte bitte sofort mit <family> sprechen
+Ich will bitte sofort mit <family> sprechen
+Ich möchte jetzt mit <family> sprechen
+Ich will jetzt mit <family> sprechen
+Ich möchte bitte jetzt mit <family> sprechen
+Ich will bitte jetzt mit <family> sprechen
+Ich möchte gleich mit <family> sprechen
+Ich will gleich mit <family> sprechen
+Ich möchte bitte gleich mit <family> sprechen
+Ich will bitte gleich mit <family> sprechen
+Ich möchte schnell mit <family> sprechen
+Ich will schnell mit <family> sprechen
+Ich möchte bitte schnell mit <family> sprechen
+Ich will bitte schnell mit <family> sprechen
+Ich möchte unmittelbar mit <family> sprechen
+Ich will unmittelbar mit <family> sprechen
+Ich möchte bitte unmittelbar mit <family> sprechen
+Ich will bitte unmittelbar mit <family> sprechen
+Ich möchte unverzüglich mit <family> sprechen
+Ich will unverzüglich mit <family> sprechen
+Ich möchte bitte unverzüglich mit <family> sprechen
+Ich will bitte unverzüglich mit <family> sprechen
+Ich möchte augenblicklich mit <family> sprechen
+Ich will augenblicklich mit <family> sprechen
+Ich möchte bitte augenblicklich mit <family> sprechen
+Ich will bitte augenblicklich mit <family> sprechen
+Telefonieren mit <family>
+Verbinden mit <family>
+Telefonieren bitte mit <family>
+Verbinden bitte mit <family>
+Telefonieren sofort mit <family>
+Verbinden sofort mit <family>
+Telefonieren bitte sofort mit <family>
+Verbinden bitte sofort mit <family>
+Telefonieren jetzt mit <family>
+Verbinden jetzt mit <family>
+Telefonieren bitte jetzt mit <family>
+Verbinden bitte jetzt mit <family>
+Telefonieren gleich mit <family>
+Verbinden gleich mit <family>
+Telefonieren bitte gleich mit <family>
+Verbinden bitte gleich mit <family>
+Telefonieren schnell mit <family>
+Verbinden schnell mit <family>
+Telefonieren bitte schnell mit <family>
+Verbinden bitte schnell mit <family>
+Telefonieren unmittelbar mit <family>
+Verbinden unmittelbar mit <family>
+Telefonieren bitte unmittelbar mit <family>
+Verbinden bitte unmittelbar mit <family>
+Telefonieren unverzüglich mit <family>
+Verbinden unverzüglich mit <family>
+Telefonieren bitte unverzüglich mit <family>
+Verbinden bitte unverzüglich mit <family>
+Telefonieren augenblicklich mit <family>
+Verbinden augenblicklich mit <family>
+Telefonieren bitte augenblicklich mit <family>
+Verbinden bitte augenblicklich mit <family>
+<family> Kontaktieren
+<family> jetzt Kontaktieren
+<family> gleich Kontaktieren
+<family> schnell Kontaktieren
+<family> unmittelbar Kontaktieren
+<family> unverzüglich Kontaktieren
+<family> augenblicklich Kontaktieren

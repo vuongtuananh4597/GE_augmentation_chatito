@@ -6,7 +6,7 @@ Telgenweg 62
 Mecklenbecker Str 166
 Rückertstr 23
 Telgenweg 160
-Von-Holte-Str 172
+Von Holte Str 172
 Hogenbergstr 80
 Wolbecker Str 51
 Marsweg 75
@@ -17,7 +17,7 @@ Birkenweg 142
 Wormser Str 180
 Kleiner Griechenmarkt 53
 An den Mühlen 146
-Simon-Meister-Str 94
+Simon Meister Str 94
 Sternstr 31
 Steinkamp 23
 Am Wigbold 28
@@ -37,15 +37,15 @@ Am Oedingteich 156
 Äußere Kanalstr 133
 Kanalstr 121a
 Landoisstr 197
-Hermann-Treff-Weg 53
-Max-Winkelmann-Str 193
+Hermann Treff Weg 53
+Max Winkelmann Str 193
 Hacklenburg 83
 Carossastr 119
 Nienkamp 99
 Agrippastr 123a
 Sanddornweg 183
 Kerßenbrockstr 170
-Bernhard-Poether-Str 71
+Bernhard Poether Str 71
 Gottesweg 117
 An Lyskirchen 151a
 Im Haubenfeld 121
@@ -65,7 +65,7 @@ Dauvemühle 159
 Vorgebirgstr 66
 Heroldstr 31
 Telgenweg 185
-Johann-Krane-Weg 45
+Johann Krane Weg 45
 Flaßkuhl 196
 Wiedehagen 156
 Meinertzstr 104
@@ -79,7 +79,7 @@ Stettiner Str 38
 Am Wigbold 90
 Nerzweg 123
 Im Stemmen 3
-Catharina-Müller-Str 143
+Catharina Müller Str 143
 Gremmendorfer Weg 186
 Overbergstr 183
 Mecklenbecker Str 51a
@@ -110,7 +110,7 @@ Flaßkuhl 9
 Memmertweg 14
 Holunderweg 140
 Rückertstr 161
-Gustav-Tweer-Weg 18
+Gustav Tweer Weg 18
 Magdalenenstr 52a
 Zur Wiese 87
 Sporckweg 137
@@ -144,7 +144,7 @@ Wollinstr 52
 Dahlienweg 130
 Schwalbenweg 31
 Rüschhausweg 106
-Von-Holte-Str 53
+Von Holte Str 53
 Methweg 188
 Rohrkampstr 192
 Gescherweg 137
@@ -156,7 +156,7 @@ Carossastr 180
 Christinastr 170
 Holunderweg 188
 Fresnostr 71
-Theodor-Heuss-Ring 13
+Theodor Heuss Ring 13
 Münzstr 141
 Rosenplatz 19
 Friedrichstr 107
@@ -181,9 +181,9 @@ Im Stemmen 180
 Sophienstr 26
 Idenbrockplatz 147a
 Mecklenbecker Str 164
-Bernhard-Poether-Str 53
+Bernhard Poether Str 53
 Sentmaringer Weg 12
-Josef-Suwelack-Weg 177
+Josef Suwelack Weg 177
 Dorotheenstr 30
 Westenkamp 113
 Telgenweg 160a
@@ -220,7 +220,7 @@ Hindenburgplatz 122
 Am Pulverschuppen 190
 Enschedeweg 140a
 Am Brook 54
-Elsa-Brändström-Weg 68a
+Elsa Brändström Weg 68a
 Telgenweg 147
 Am Dornbusch 142
 Hirseweg 149
@@ -228,9 +228,9 @@ Schiffahrter Damm 185
 Herdingstr 48
 Am Wigbold 191
 Carossastr 43
-Theodor-Heuss-Ring 127
+Theodor Heuss Ring 127
 Piusallee 22
-Max-Winkelmann-Str 99
+Max Winkelmann Str 99
 Kanalstr 43
 Widdeshover Weg 168
 Hillscheider Weg 173
@@ -257,22 +257,22 @@ Dorbaumstr 132
 Augustastr 35
 Eulenbergstr 40
 Soester Str 146a
-Oscar-Wilde-Str 174
+Oscar Wilde Str 174
 Hofstr 107
 Marientalstr 72
 Schmeddingstr 133
 Hoove 126
 Unter Kahlenhausen 44
-Simon-Meister-Str 23
+Simon Meister Str 23
 Methweg 89
 Wormser Str 195
 Gartenstr 5
 Arnheimweg 175
 Meckmannweg 60
-Von-Holte-Str 52
+Von Holte Str 52
 Am Blütenhain 61
 Geiststr 130
-Catharina-Müller-Str 76
+Catharina Müller Str 76
 Johanniterstr 94
 Widdeshover Weg 105
 Janningsweg 22
@@ -331,14 +331,14 @@ Am Römerhof 197
 Zur Gräfte 70
 Bielefelder Str 4
 Sternstr 134
-Manfred-von-Richthofen-Str 134
+Manfred von Richthofen Str 134
 Zülpicher Str 109
 Im Stemmen 2
 Lassallestr 4a
 Kochwiesenstr 88
 Starweg 153
 Am Oedingteich 167
-Josef-Suwelack-Weg 63
+Josef Suwelack Weg 63
 Hülsebrockstr 85
 Mariendorfer Str 194
 Enschedeweg 139
@@ -367,7 +367,7 @@ Kurneystr 57
 Bielefelder Str 128
 An Lyskirchen 119
 Sanddornweg 127
-Florentine-Eichler-Str 57
+Florentine Eichler Str 57
 Hüfferstr 152a
 Meckmannweg 56
 Im Sonnentau 46
@@ -396,7 +396,7 @@ Am Nubbenberg 71
 Werseblick 103
 Stolbergstr 200
 Breslauer Str 25
-Franz-Peter-Kürten-Weg 200
+Franz Peter Kürten Weg 200
 Am Ziegelofen 131
 Kreuzstr 113
 Teutonenstr 17
@@ -422,7 +422,7 @@ Piusstr 155
 Gottesweg 174
 An den Mühlen 77
 Dorotheenstr 60
-Franz-Peter-Kürten-Weg 132
+Franz Peter Kürten Weg 132
 Meesenstiege 195
 Am Ziegelofen 163
 Marktstr 55
@@ -440,9 +440,9 @@ Münzstr 58
 Norbertstr 117
 Rinscheweg 3
 Agrippastr 126
-Josef-Suwelack-Weg 59
+Josef Suwelack Weg 59
 Avendruper Str 185
-Gustav-Tweer-Weg 41
+Gustav Tweer Weg 41
 Rincklakeweg 80
 Dodostr 152
 Gremmendorfer Weg 104
@@ -464,7 +464,7 @@ Marktstr 41
 Kriegerweg 64a
 Grevener Str 20
 Düsseldorfer Str 49
-Deutz-Kalker Str 165a
+Deutz Kalker Str 165a
 Carossastr 98
 Kurneystr 75
 Ulmenweg 174
@@ -478,14 +478,14 @@ Breslauer Str 52
 Buldernweg 116
 Zur Gräfte 127
 Kochwiesenstr 75
-Hermann-Treff-Weg 89
+Hermann Treff Weg 89
 Neusser Str 14
 Olpener Str 179
 Dingbängerweg 114
-Hermann-Treff-Weg 103
-Johann-Krane-Weg 66
+Hermann Treff Weg 103
+Johann Krane Weg 66
 Hindenburgplatz 35
-Franz-Peter-Kürten-Weg 40
+Franz Peter Kürten Weg 40
 Dammstr 34
 Stettiner Str 11
 Immelmannstr 32
@@ -497,7 +497,7 @@ Maximilianstr 154
 Papenbusch 56
 Angelmodder Weg 111
 Am Krausen Baum 103a
-Catharina-Müller-Str 91
+Catharina Müller Str 91
 Enschedeweg 146
 Merheimer Str 72
 Soester Str 10
@@ -505,23 +505,23 @@ Gasselstiege 1
 Willingrott 151
 Gartenstr 46
 Telemannstr 166
-Gustav-Tweer-Weg 194a
+Gustav Tweer Weg 194a
 Sentmaringer Weg 186
 Neusser Str 143
 Bohlweg 144
 Düesbergweg 200
 Hofstr 169
 Steinkamp 147
-Elsa-Brändström-Weg 107
+Elsa Brändström Weg 107
 Am Blütenhain 23
-Max-Winkelmann-Str 108
+Max Winkelmann Str 108
 Dreilinden 38
-Von-Holte-Str 154
+Von Holte Str 154
 Sporckweg 144
 Starweg 28
 Hüfferstr 36
-Josef-Suwelack-Weg 40
-Catharina-Müller-Str 160
+Josef Suwelack Weg 40
+Catharina Müller Str 160
 Guntherstr 60
 Frauenstr 109
 Im Sonnentau 38
@@ -549,16 +549,16 @@ Erikahof 172
 Am Burloh 151
 Augustastr 113
 Schubertstr 197
-Manfred-von-Richthofen-Str 164
+Manfred von Richthofen Str 164
 Äußere Kanalstr 160
-Deutz-Kalker Str 8
+Deutz Kalker Str 8
 Marktstr 158
 Maximilianstr 55
 Kapellenstr 186
 Am Ziegelofen 55
 Wolbecker Str 57
 Maximilianstr 72
-Catharina-Müller-Str 125
+Catharina Müller Str 125
 Wörthstr 162
 Steinkamp 195
 Hahnenstr 90
@@ -604,7 +604,7 @@ Gropiusstr 40
 Langestr 16
 Piusallee 46
 Holunderweg 119
-Johann-Krane-Weg 8
+Johann Krane Weg 8
 Weseler Str 52
 Piusstr 68
 Jakobusstr 1
@@ -615,7 +615,7 @@ Kapellenstr 128
 Am Blütenhain 156
 Möserweg 75
 Mariendorfer Str 43
-Gustav-Tweer-Weg 15
+Gustav Tweer Weg 15
 Dachsleite 198
 Innsbruckweg 16
 Havichhorster Mühle 30
@@ -627,11 +627,11 @@ Merheimer Str 160
 Dreizehnerstr 49
 Görlitzer Str 176
 Holunderweg 53
-Von-Holte-Str 128
+Von Holte Str 128
 Beuelsweg 26
 Enschedeweg 196
 Klinkkampweg 158
-Josef-Suwelack-Weg 84
+Josef Suwelack Weg 84
 Kriegerweg 106
 Dortmunder Str 47
 Kochwiesenstr 139
@@ -655,7 +655,7 @@ Goebenstr 72
 Kleiner Griechenmarkt 4
 Dahlienweg 88
 Westenkamp 43
-Von-Holte-Str 35
+Von Holte Str 35
 Hansaring 86
 Dodostr 97
 Eifelstr 197
@@ -674,7 +674,7 @@ Kempener Str 87
 Stolbergstr 16
 Dauvemühle 145
 Jägerstr A 154
-Elsa-Brändström-Weg 27
+Elsa Brändström Weg 27
 Wiedehagen 27
 Gescherweg 147
 Fresnostr 82
@@ -685,7 +685,7 @@ Werseblick 72
 Kurneystr 180
 Dodostr 189
 Dorotheenstr 119
-Von-Holte-Str 195
+Von Holte Str 195
 Kochwiesenstr 69
 Emdener Str 141a
 An den Weiden 28
@@ -697,13 +697,13 @@ Friesenring 16
 Friedrichstr 157
 Am Brook 101
 Hensenstr 90
-Paul-Engelhard-Weg 116
+Paul Engelhard Weg 116
 Stettiner Str 171
 Dorbaumstr 162
-Franz-Peter-Kürten-Weg 92
+Franz Peter Kürten Weg 92
 Sentmaringer Weg 73
 Rosenplatz 136
-Paul-Engelhard-Weg 130
+Paul Engelhard Weg 130
 Erikahof 128
 Kröver Str 184
 Kriegerweg 7
@@ -723,7 +723,7 @@ Hillscheider Weg 155
 Äußere Kanalstr 163
 Erikahof 66
 Eulenbergstr 14
-Josef-Suwelack-Weg 33
+Josef Suwelack Weg 33
 Steinkamp 53
 Schubertstr 13
 Neißestr 2
@@ -760,7 +760,7 @@ Rottkamp 99
 Olpener Str 173
 Enschedeweg 55
 Neusser Str 189
-Von-der-Tinnen-Str 66
+Von der Tinnen Str 66
 Wollinstr 2
 Angelstr 178a
 Dachsleite 159
@@ -769,7 +769,7 @@ An Lyskirchen 150
 Morthorststr 101
 Hahnenstr 36a
 Görlitzer Str 18
-Bernhard-Poether-Str 175
+Bernhard Poether Str 175
 Düsseldorfer Str 25
 An den Weiden 106
 Methweg 6
@@ -777,7 +777,7 @@ Westenkamp 153
 Gleueler Str 113
 Gropiusstr 177
 Beuelsweg 117
-Theodor-Heuss-Ring 80
+Theodor Heuss Ring 80
 Werseblick 18
 Salzmannstr 45
 Wolbecker Str 177
@@ -818,7 +818,7 @@ Kröver Str 193
 Kurze Str 172
 Oberschlesier Str 166
 Görlitzer Str 19
-Florentine-Eichler-Str 131a
+Florentine Eichler Str 131a
 Hacklenburg 50
 Schützenstr 155
 Ölbergstr 191
@@ -827,21 +827,21 @@ Buldernweg 88
 Sternstr 47
 Zur Gräfte 62
 Offenbergstr 139
-Simon-Meister-Str 20
+Simon Meister Str 20
 Geiststr 45
 Grevener Str 130
 Soetenkamp 58
-Paul-Engelhard-Weg 65
+Paul Engelhard Weg 65
 Am Filk 146a
 Eulenbergstr 187
 Im Haubenfeld 116
 Goebenstr 71
 Kleiner Griechenmarkt 75
-Johann-Krane-Weg 7
+Johann Krane Weg 7
 Merheimer Str 162
 Eibenweg 162
 Soetenkamp 199
-Oscar-Wilde-Str 110
+Oscar Wilde Str 110
 Pötterhoek 197
 Görlitzer Str 199
 Rosenplatz 164
@@ -875,15 +875,15 @@ Liboristr 178
 Kapellenstr 107
 Schmeddingstr 118
 Zur Wiese 166
-Deutz-Kalker Str 37
+Deutz Kalker Str 37
 Starweg 164
-Manfred-von-Richthofen-Str 19
-Manfred-von-Richthofen-Str 157
+Manfred von Richthofen Str 19
+Manfred von Richthofen Str 157
 Dodostr 110
 Rincklakeweg 21
-Friedrich-Ebert-Str 192a
+Friedrich Ebert Str 192a
 Kösliner Str 155
-Bernhard-Poether-Str 36
+Bernhard Poether Str 36
 Am Blütenhain 182
 Rincklakeweg 141a
 Gremmendorfer Weg 101
@@ -894,7 +894,7 @@ Soetenkamp 15
 Ostmarkstr 24a
 Rektoratsweg 83
 Kochwiesenstr 186a
-Florentine-Eichler-Str 18
+Florentine Eichler Str 18
 Lammerbach 180
 Zur Gräfte 65
 Rektoratsweg 43
@@ -903,8 +903,8 @@ Königsberger Str 132
 Christinastr 172
 Gartenstr 83
 Düsseldorfer Str 169
-Theodor-Heuss-Ring 109
-Franz-Peter-Kürten-Weg 100
+Theodor Heuss Ring 109
+Franz Peter Kürten Weg 100
 Zur Gräfte 106
 Goldregenweg 16
 Hindenburgplatz 197
@@ -933,7 +933,7 @@ Ostlandstr 167
 Jakobusstr 159
 Memmertweg 134
 Dauvemühle 123
-Hermann-Treff-Weg 115
+Hermann Treff Weg 115
 Emdener Str 17
 Berrischstr 95
 Tondernstr 72
@@ -963,11 +963,11 @@ Kerßenbrockstr 165
 Ölbergstr 162
 Olpener Str 185
 Werseblick 109
-Manfred-von-Richthofen-Str 52
+Manfred von Richthofen Str 52
 Innsbruckweg 182
 Im Sonnentau 143a
 Kreuzstr 29
-Speestr - 31
+Speestr   31
 Idenbrockplatz 177
 Wiedehagen 186
 Teutonenstr 70
@@ -977,7 +977,7 @@ Alte Apotheke 66
 Sentmaringer Weg 124
 Gasselstiege 39
 Neißestr 21
-Paul-Engelhard-Weg 125
+Paul Engelhard Weg 125
 Morthorststr 34
 Steinkamp 69
 Am Getterbach 168
